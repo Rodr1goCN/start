@@ -1,0 +1,86 @@
+Atalhos e Comandos Blender
+
+
+
+Shift + A = Adicionar novos objetos
+Shift + C = Centralizar o 3d cursor no centro
+W = Altera o atalho do cursor (Ferramenta de seleção)
+C = Altera para o select circle (Enter para sair desta seleção)
+G(move), R(rotaciona) ou S(escala) = Movimenta no eixo X, Y e Z (podendo apertar no teclado o eixo que deseja mover)
+G, R ou S = Segurando SHIFT move o objeto com mais suavidade
+B = Select Box
+A = Seleciona tudo
+NumPad 1 = Visão frontal / (Ctrl + NumPad 1 = Visão de baixo)
+NumPad 3 = Visão lateral (direita) / (Ctrl + NumPad 3 = Visão de lateral)
+NumPad 7 = Visão de cima / (Ctrl + NumPad 7 = Visão de trás)
+Z = Modo de visualização (Solid, Wireframe, Rendered e Material Preview)
+SHIFT + Z = Muda diretamente para o Wireframe
+CTRL + Tab = Modo de interação
+Tab = Vai direto pro Edit Mode
+H = Oculta um objeto selecionado
+Alt + H = Retorna o objeto ocultado
+/ = Isola a seleção (; = Faz a mesma coisa)
+CTRL + Espaço = Esconde/Ativa o painel lateral
+Home = Enquadra todos os objetos da cena
+SHIFT + S = Snap Menu
+SHIFT + D = Cria uma cópia da sua seleção
+
+
+--------------------
+
+
+Linha Vermelha - Largura
+Linha Verde - Profundidade
+Linha Azul - Altura
+5 - muda a perpectiva
+Parte de trás é sempre onde o Y esta no GISMO, e na direita é onde o X esta e o Z é a parte de cima
+No Edit Mode se fechar um polígono (4 lados) da pra rotacionar/mover
+No Edit Mode -[], [I] e []: 
+-[] = Vertex = Seleciona polígono por polígono 
+
+[I] = Edge = Seleciona as arestas dos polígonos
+
+[] = Face = Seleciona os 4 lados dos polígonos
+
+E = Extrusão (Quando deselecionar uma parte, aperte CTRL + Z, para voltar a origem)
+
+, (teclado numérico) - trava em um objeto
+
+CTRL + J = Juntar (Seleciona vários objeto e aperte o comando)
+
+L = Seleciona um objeto mas o mouse tem que estar na vértice deste objeto
+
+SHIFT + L = Deseleciona o objeto
+
+M = Merge (Funde os vértices selecionado)
+caso tenha criado uma extrusão e não tenha apagado corretamente, usa o Merge e depois a opção (By Distance)
+
+---------------------
+
+
+
+Edit Mode
+
+E = Extrusão (Com uma parte do quadrado selecionado, pode movimentar no eixo Y, X e Z)
+E = Extrusão (Também pode mudar a escala com o S)
+Extrude Individual = Faz a extrusão de duas partes, porem você pode movimentar uma ou a segunda individualmente
+Extrude Along Normal = faz a extrusão de duas partes, porem uma parte fica com um aclive
+
+Podemos adicionar vértices apertando a tecla F para fechar duas áreas
+
+
+---------------------
+
+
+Loop Cut
+
+CTRL + R = Inicia a ferramenta (durante a linha amarela, pode rolar o scroll do mouse para definir a quantidade de cortes)
+
+K = Knife = Remove o NGON fazendo um triangulo 
+
+Bistec = Cria um corte (tem que selecionar toda a área para realizar o corte)
+
+
+
+
+

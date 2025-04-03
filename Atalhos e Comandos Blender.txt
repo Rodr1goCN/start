@@ -81,6 +81,13 @@ K = Knife = Remove o NGON fazendo um triangulo
 Bistec = Cria um corte (tem que selecionar toda a área para realizar o corte)
 
 
+---------------------
+
+Rip Region
+
+V = Executa um corte (porem distorce a forma)
+Para resolver, aperte V (move o objeto cortado), depois ESC e aperta G duas vezes (com isso não distorce a forma)
+
 
 
 

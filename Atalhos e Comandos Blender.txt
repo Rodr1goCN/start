@@ -50,10 +50,22 @@ CTRL + J = Juntar (Seleciona vários objeto e aperte o comando)
 
 L = Seleciona um objeto mas o mouse tem que estar na vértice deste objeto
 
+CTRL + L = Seleciona tudo o que estiver selecionado 
+
 SHIFT + L = Deseleciona o objeto
 
 M = Merge (Funde os vértices selecionado)
 caso tenha criado uma extrusão e não tenha apagado corretamente, usa o Merge e depois a opção (By Distance)
+
+CTRL + A (Object Mode) = Rotation =  Resetar o Eixo local
+
+CTRL + B = Bevel = Arredondar os cantos
+
+S + Y + 0 = Alinha os vértices 
+
+R + Z + 90° = Gira o objeto conforme os graus digitado no teclado numérico (se quiser número negativo, aperte o menos)
+
+Shift + Tab = Snap = Ativa o imã (Seleciona o Vertex, aperta o G e depois segura o SHIFT para 'grudar' uma parte copiada na outra)
 
 ---------------------
 

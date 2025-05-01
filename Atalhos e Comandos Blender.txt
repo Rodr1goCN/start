@@ -101,5 +101,19 @@ V = Executa um corte (porem distorce a forma)
 Para resolver, aperte V (move o objeto cortado), depois ESC e aperta G duas vezes (com isso não distorce a forma)
 
 
+---------------------
+
+
+Material
+
+Surface - Principled BSDF (Principal)
+
+Base Color - A cor da base (cor do objeto)
+Metalic - Deixa com aspecto de metálico (vai de 0 a 1)
+Roughness - Deixa com aspecto "molhado" no 0 e sem brilho no 1
+IOR - 
+
+
+
 
 

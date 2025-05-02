@@ -73,6 +73,8 @@ Shift + Tab = Snap = Ativa o imã (Seleciona o Vertex, aperta o G e depois segur
 
 Edit Mode
 
+O BEVEL só irá funcionar corretamente se o objeto em questão for modificado antes no EDIT MODE (Caso contrário, selecione o Object Mode e aperte CTRL + A e depois All Locations)
+
 E = Extrusão (Com uma parte do quadrado selecionado, pode movimentar no eixo Y, X e Z)
 E = Extrusão (Também pode mudar a escala com o S)
 Extrude Individual = Faz a extrusão de duas partes, porem você pode movimentar uma ou a segunda individualmente
@@ -114,6 +116,11 @@ Roughness - Deixa com aspecto "molhado" no 0 e sem brilho no 1
 IOR - 
 
 
+---------------------
+
+Dentro de Shading
 
 
+- Podemos usar dois "combos" de cores (como Diffuse BSDF) e mixar eles com Mix Shader, jogando para o Material Output
+- Usando o Layer Weight, ligando o Facing com o Mix Shader (Combina as duas cores dando um aspecto de uma superfície metalizada)
 

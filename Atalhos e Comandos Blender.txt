@@ -124,3 +124,20 @@ Dentro de Shading
 - Podemos usar dois "combos" de cores (como Diffuse BSDF) e mixar eles com Mix Shader, jogando para o Material Output
 - Usando o Layer Weight, ligando o Facing com o Mix Shader (Combina as duas cores dando um aspecto de uma superfície metalizada)
 
+
+---------------------
+
+Criar VIDROS
+
+Em Material > Surface > remove o Metellic do Material e Roughness > em Transmission deixa em 1.000 > Settings > Surface > ativa o Raytraced Transmission > Thickness deixa em Slab
+- Dica: se remover o valor de IOR, a aparência fica igual a de um plástico (Valor padrão do IOR 1.500)
+
+
+---------------------
+
+
+Bump, Displacement e Normal Map
+
+Bump - gera uma ilusão da geometria
+Displacement - gera a geometria (cria os relevos)
+Normal Map - gera uma ilusão da geometria melhor do que o Bump

@@ -141,3 +141,10 @@ Bump, Displacement e Normal Map
 Bump - gera uma ilusão da geometria
 Displacement - gera a geometria (cria os relevos)
 Normal Map - gera uma ilusão da geometria melhor do que o Bump
+
+
+---------------------
+
+Render
+
+CTRL + B = Define a área que vai renderizar o objeto

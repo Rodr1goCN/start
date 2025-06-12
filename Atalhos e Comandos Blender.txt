@@ -71,6 +71,13 @@ S + Shift + Z = Enlarguece ou Deixa mais estreito o objeto selecionado, mantendo
 
 Alt + D = No Object Mode cria uma cópia do objeto sendo ela um 'mirror' do objeto copiado (tudo que alterar em uma, irar espelhar na outra)
 
+Aço Escovado (Shader Editor) = Adiciona o "Texture Coordinate (Generated ligado em Vector no Mapping)", 
+"Mapping (Vector ligado em Vector no Noise Texture)", 
+"Noise Texture (Fac no Color em Normal Map)", 
+"Normal Map (Normal ligado em Normal no Glossy BSDF)", 
+"Glossy BSDF (Roughness 0.320 // Anisotropic 0.500) BSDF ligado em Surface no Material Output" (ligado nesta sequencia) 
+Mapping: Scale X e Y mude para 0.02 // Em "Noise Texture" Scale mude para 500
+
 ---------------------
 
 

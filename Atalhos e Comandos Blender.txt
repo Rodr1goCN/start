@@ -164,3 +164,20 @@ Normal Map - gera uma ilusão da geometria melhor do que o Bump
 Render
 
 CTRL + B = Define a área que vai renderizar o objeto
+
+
+---------------------
+
+
+MODO SCULPTING	
+
+
+F = Altera o tamanho do pincel (Brush Radius)
+Shift + F = Altera a força do pincel (Brush Strength)
+
+Dyntopo = Adiciona mais polígonos (quanto maior o número, maiores os polígonos criados // Padrão 12.00 px)
+P = Pinch = Afina os vértices do centro
+Shift + C = Crease Polish = Suaviza as cavidades
+G = Grab = Puxa partes da malha
+S = Smoth = Suavisa a superfície
+

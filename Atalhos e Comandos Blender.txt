@@ -221,5 +221,35 @@ Branch Splitting
 Levels: Quantidade de galhos criados
 Base Splits: Quantidade de troncos criados
 Trunk Height: Geração de galhos (como se fosse um podamento) // Secondary Base Size: Onde começa a gerar os galhos (quanto maior o número mais longe do tronco os galhos secundários crescem)
-Split Height:
-SplitBias
+Split Height: fração da altura da árvore sem divisão
+SplitBias: 
+
+Branches:                                           /// Segment Splits:
+1º opção: Controla o limite dos galhos nível 1      /// 1º opção: Controla as divisões dos galhos nível 1
+2º opção: Controla o limite dos galhos nível 2      /// 2º opção: Controla as divisões dos galhos nível 2
+3º opção: Controla o limite dos galhos nível 3      /// 3º opção: Controla as divisões dos galhos nível 3
+4º opção: Controla o limite dos galhos nível 4      /// 4º opção: Controla as divisões dos galhos nível 4
+
+Split Angle:                                        /// Split Angle Variation:
+1º opção: Controla o ângulo dos galhos nível 1      /// 1º opção: Controla a variação do ângulo dos galhos nível 1
+2º opção: Controla o ângulo dos galhos nível 2      /// 2º opção: Controla a variação do ângulo dos galhos nível 2
+3º opção: Controla o ângulo dos galhos nível 3      /// 3º opção: Controla a variação do ângulo dos galhos nível 3
+4º opção: Controla o ângulo dos galhos nível 4      /// 4º opção: Controla a variação do ângulo dos galhos nível 4
+
+Rotate Angle:                                       /// Rotate Angle Variation:
+1º opção: Controla a rotação dos galhos nível 1     /// 1º opção: Controla a variação da rotação dos galhos nível 1
+2º opção: Controla a rotação dos galhos nível 2     /// 2º opção: Controla a variação da rotação dos galhos nível 2
+3º opção: Controla a rotação dos galhos nível 3     /// 3º opção: Controla a variação da rotação dos galhos nível 3
+4º opção: Controla a rotação dos galhos nível 4     /// 4º opção: Controla a variação da rotação dos galhos nível 4
+
+Curve Resolution:
+1º opção: Curva da resolução nível 1      
+2º opção: Curva da resolução nível 2      
+3º opção: Curva da resolução nível 3      
+4º opção: Curva da resolução nível 4
+
+---------------------
+
+Branch Growth
+
+Length:                                               /// Length Variation:

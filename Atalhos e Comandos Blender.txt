@@ -165,6 +165,9 @@ Render
 
 CTRL + B = Define a área que vai renderizar o objeto
 
+Renderizar um objeto com fundo transparente = Em Object (embaixo de Collection e em cima de Modifiers) > Visibility > Ray Visibility > desmarca Camera (o fundo tem que esta selecionado para poder "remover") // Depois em Render > Film > Seleciona Transparent
+
+
 
 ---------------------
 
@@ -181,3 +184,42 @@ Shift + C = Crease Polish = Suaviza as cavidades
 G = Grab = Puxa partes da malha
 S = Smoth = Suavisa a superfície
 
+
+---------------------
+
+
+Sapling Add Tree
+
+
+Em Custom Shape:
+1º opção: Controla o limite do tamanho dos galhos
+2º opção: Tamanho da geração dos galhos
+3º opção: Variação dos galhos secundários
+4º opção: Tamanho da geração dos galhos do topo
+
+Branch Distribuition: Ajusta o espaçamento dos galhos para colocar mais galhos no topo ou na base da árvore
+Branch Rings: Randomiza os galhos
+Branch Seed: Randomiza a árvore
+
+Scale: Tamanho da árvore  //  Scale Variation: Randomiza o tamanho das árvores
+
+---------------------
+
+Branch Radius
+
+Ratio: Aumenta a largura do tronco e galhos
+Radius Scale: Aumenta de forma suave os troncos e galhos // Radius Scale Variation: Aumenta de forma suave o tronco e galhos da árvore
+Branch Radius Ratio: Aumenta o tronco e galhos da árvore
+Minimum Radius: Aumenta a ponta do galho
+
+Root Flare: Aumenta a base (raiz) da árvore
+
+---------------------
+
+Branch Splitting
+
+Levels: Quantidade de galhos criados
+Base Splits: Quantidade de troncos criados
+Trunk Height: Geração de galhos (como se fosse um podamento) // Secondary Base Size: Onde começa a gerar os galhos (quanto maior o número mais longe do tronco os galhos secundários crescem)
+Split Height:
+SplitBias

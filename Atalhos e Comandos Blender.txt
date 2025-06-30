@@ -250,6 +250,58 @@ Curve Resolution:
 
 ---------------------
 
-Branch Growth
+Branch Growth (Nascimento dos galhos)
 
-Length:                                               /// Length Variation:
+Taper Crown: Controla o crescimento da árvore (árvore velha(maior) e nova(menor))
+
+Length:                                                /// Length Variation:
+1º opção: Controla o crescimento dos galhos nível 1    /// 1º opção: Controla a variação dos galhos nível 1
+2º opção: Controla o crescimento dos galhos nível 2    /// 2º opção: Controla a variação dos galhos nível 2
+3º opção: Controla o crescimento dos galhos nível 3    /// 3º opção: Controla a variação dos galhos nível 3
+4º opção: Controla o crescimento dos galhos nível 4    /// 4º opção: Controla a variação dos galhos nível 4                                         
+
+Down Angle:                                            /// Down Angle Variation:
+1º opção: Controla a caída dos galhos nível 1          /// 1º opção: Controla a variação da caída dos galhos nível 1
+2º opção: Controla a caída dos galhos nível 2          /// 2º opção: Controla a variação da caída dos galhos nível 2
+3º opção: Controla a caída dos galhos nível 3          /// 3º opção: Controla a variação da caída dos galhos nível 3
+4º opção: Controla a caída dos galhos nível 4          /// 4º opção: Controla a variação da caída dos galhos nível 4
+
+Curvature:                                            /// Curvature Variation:
+1º opção: Controla a curvatura da árvore nível 1     /// 1º opção: Controla a variação da curvatura da árvore nível 1
+2º opção: Controla a curvatura da árvore nível 2     /// 2º opção: Controla a variação da curvatura da árvore nível 2
+3º opção: Controla a curvatura da árvore nível 3     /// 3º opção: Controla a variação da curvatura da árvore nível 3
+4º opção: Controla a curvatura da árvore nível 4     /// 4º opção: Controla a variação da curvatura da árvore nível 4
+
+Back Curvature:                                               /// Vertical Attraction:
+1º opção: Controla a curvatura da ponta da árvore nível 1     /// 1º opção: Controla a atração vertical nível 1
+2º opção: Controla a curvatura da ponta da árvore nível 2     /// 2º opção: Controla a atração vertical nível 2
+3º opção: Controla a curvatura da ponta da árvore nível 3     /// 3º opção: Controla a atração vertical nível 3
+4º opção: Controla a curvatura da ponta da árvore nível 4     /// 4º opção: Controla a atração vertical nível 4
+
+---------------------
+
+Pruning: (Poda da árvore)
+
+Prune Ratio: 1 Podado e 0 normal
+Prune Width: Tamanho da poda                          //Prune Base Height: Altura da poda
+Prune Width Peak: Angulação da poda
+Prune Power: Formato da poda da parte superior        //Prune Power Low: Formato da poda da parte inferior
+
+---------------------
+
+Leaves: (Folhas)
+
+Show leaves (Mostra as folhas)
+Leaf Down: Ângulo de crescimento de novas folhas e o galho   //Leaf Down Angle Variation: Variação do caímento das folhas
+Leaf Rotate Angle: Rotação das folhas                        //Leaf Rotate Angle Variation: Variação do ângulo da rotação
+
+
+
+
+
+
+
+
+
+
+

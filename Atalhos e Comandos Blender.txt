@@ -294,11 +294,17 @@ Leaves: (Folhas)
 Show leaves (Mostra as folhas)
 Leaf Down: Ângulo de crescimento de novas folhas e o galho   //Leaf Down Angle Variation: Variação do caímento das folhas
 Leaf Rotate Angle: Rotação das folhas                        //Leaf Rotate Angle Variation: Variação do ângulo da rotação
+Leaf Scale: Tamanho das folhas                               //Leaf Scale X: Largura das folhas
+Leaf Scale Taper: Tamanho variável das folhas                //Leaf Scale Variation: Tamanho variável da largura das folhas
+
+Leaf Angle: Angulo das folhas
 
 
+---------------------
 
+Armature
 
-
+Use Armature: adiciona ossos para animação nos galhos
 
 
 

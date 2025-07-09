@@ -304,8 +304,10 @@ Leaf Angle: Angulo das folhas
 
 Armature
 
-Use Armature: adiciona ossos para animação nos galhos
-
+Shift + A > Armature: adiciona ossos para animação
+Alt + P = Clear Parent: Remove o parentesco (linha preta) do osso
+Alt + P = Disconnect Bone: Remove a ligação do osso mas o fica ainda linkado ao anterior
+Alt + F = Flip Bone: Vira o osso(Bone) de cabeça para baixo
 
 
 

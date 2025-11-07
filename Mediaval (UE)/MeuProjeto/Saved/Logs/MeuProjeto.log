@@ -2100,3 +2100,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.07-03.08.12:850][728]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.07-03.08.12:875][728]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
 [2025.11.07-03.08.12:917][728]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Mediaval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.07-03.12.24:576][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14047.879883
+[2025.11.07-03.12.25:575][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-03.12.25:575][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14048.545898, Update Interval: 333.672302
+[2025.11.07-03.15.42:249][359]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.07-03.18.50:638][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14433.859375
+[2025.11.07-03.18.51:639][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-03.18.51:639][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14434.525391, Update Interval: 331.555542

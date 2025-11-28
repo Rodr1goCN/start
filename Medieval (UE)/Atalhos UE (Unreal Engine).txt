@@ -1,0 +1,17 @@
+Atalhos UE (Unreal Engine)
+
+Q - Ferramenta de seleção
+W - Mover
+E - Rotacionar
+R - Escalonar
+G - Oculta/Revela itens na tela
+F - mostra em destaque o que foi selecionado
+END - move o objeto para o chão
+Ctrl + clicar na seta do objeto - Faz uma cópia do objeto
+Alt + P - da PLAY na UE
+
+
+Dentro do Material em Gráfico de Material
+
+Segura o S e botão esquerdo do mouse - cria um Parâmetro de Escala
+Segura o V e botão esquerdo do mouse - cria 3 vetores / cores

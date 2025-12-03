@@ -15,3 +15,6 @@ Dentro do Material em Gráfico de Material
 
 Segura o S e botão esquerdo do mouse - cria um Parâmetro de Escala
 Segura o V e botão esquerdo do mouse - cria 3 vetores / cores
+CTRL + botão esquerdo do mouse - corta a linha do gráfico de material
+Especular - luz refletida na superfície que esta pintada
+C - Cria um grupo

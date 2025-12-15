@@ -2795,3 +2795,11 @@ Sampler Limit: 32
 [2025.12.15-23.35.30:585][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.15-23.35.30:585][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.15-23.35.30:585][183]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2025.12.15-23.36.27:790][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.12.15-23.36.27:796][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.029
+[2025.12.15-23.36.27:797][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Textura_Pedra_NoColor] ([1] browsable assets)...
+[2025.12.15-23.36.27:800][474]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Textura_Pedra_NoColor.T_Textura_Pedra_NoColor]
+[2025.12.15-23.36.27:800][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Textura_Pedra_NoColor]
+[2025.12.15-23.36.27:820][474]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/T_Textura_Pedra_NoColor_Auto6
+[2025.12.15-23.36.27:820][474]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Textura_Pedra_NoColor_Auto67044AE204AF861BED5A350AD959099D4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Textures/T_Textura_Pedra_NoColor_Auto6.uasset'
+[2025.12.15-23.36.27:821][474]LogFileHelpers: Auto-saving content packages took 0.024

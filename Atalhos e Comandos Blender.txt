@@ -93,6 +93,8 @@ Extrude Along Normal = faz a extrusão de duas partes, porem uma parte fica com 
 
 Podemos adicionar vértices apertando a tecla F para fechar duas áreas
 
+Remover o NGON - no Edit Mode > Seleção de Faces > SHIFT + G > Polygon Sides (Tudo que tiver mais de 5 lados remover usando a knife (K), formando um triângulo e um quadrado)
+
 
 ---------------------
 

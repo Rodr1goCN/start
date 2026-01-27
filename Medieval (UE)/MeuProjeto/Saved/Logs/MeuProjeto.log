@@ -3577,3 +3577,256 @@ Sampler Limit: 32
 [2026.01.26-23.34.05:302][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3619.145752
 [2026.01.26-23.34.06:302][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.26-23.34.06:302][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3619.811768, Update Interval: 300.142822
+[2026.01.26-23.35.40:151][910]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.26-23.37.15:260][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.26-23.37.15:262][194]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.023
+[2026.01.26-23.37.15:262][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Grama_Pedra_Grande] ([1] browsable assets)...
+[2026.01.26-23.37.15:262][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Grama_Pedra_Grande]
+[2026.01.26-23.37.15:278][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Grama_Pedra_Grande_Auto6
+[2026.01.26-23.37.15:278][194]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Grama_Pedra_Grande_Auto64DEC7789404F3D9396BA8ABB276CD83F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Grama_Pedra_Grande_Auto6.uasset'
+[2026.01.26-23.37.15:280][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/T_Pedra_Diffuse] ([1] browsable assets)...
+[2026.01.26-23.37.15:280][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/T_Pedra_Diffuse]
+[2026.01.26-23.37.15:297][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/T_Pedra_Diffuse_Auto6
+[2026.01.26-23.37.15:297][194]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Pedra_Diffuse_Auto618651482479AA4FD74BA44AD0C3D7139.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/T_Pedra_Diffuse_Auto6.uasset'
+[2026.01.26-23.37.15:298][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M_Pedra01_Inst] ([1] browsable assets)...
+[2026.01.26-23.37.15:298][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Pedra01_Inst]
+[2026.01.26-23.37.15:487][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M_Pedra01_Inst_Auto6
+[2026.01.26-23.37.15:487][194]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Pedra01_Inst_Auto6425487A343019595795524A493C424BA.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/M_Pedra01_Inst_Auto6.uasset'
+[2026.01.26-23.37.15:488][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M_Pedra_Vegetacao_Inst] ([1] browsable assets)...
+[2026.01.26-23.37.15:488][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Pedra_Vegetacao_Inst]
+[2026.01.26-23.37.15:500][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/M_Pedra_Vegetacao_Inst_Auto6
+[2026.01.26-23.37.15:500][194]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Pedra_Vegetacao_Inst_Auto61D69848248417ADF42E443A5FF1079CC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/M_Pedra_Vegetacao_Inst_Auto6.uasset'
+[2026.01.26-23.37.15:501][194]LogFileHelpers: Auto-saving content packages took 0.239
+[2026.01.26-23.39.41:879][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3955.718994
+[2026.01.26-23.39.42:879][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-23.39.42:879][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3956.385742, Update Interval: 301.133453
+[2026.01.26-23.45.30:263][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4304.137207
+[2026.01.26-23.45.31:262][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-23.45.31:262][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4304.803711, Update Interval: 351.712402
+[2026.01.26-23.52.05:321][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4699.253418
+[2026.01.26-23.52.06:322][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-23.52.06:322][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4699.919922, Update Interval: 300.785553
+[2026.01.26-23.57.57:712][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5051.702148
+[2026.01.26-23.57.58:712][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-23.57.58:712][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5052.368652, Update Interval: 318.248840
+[2026.01.27-00.03.59:094][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5413.148926
+[2026.01.27-00.04.00:094][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.04.00:094][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5413.815918, Update Interval: 355.290375
+[2026.01.27-00.10.34:482][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5808.593262
+[2026.01.27-00.10.35:484][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.10.35:484][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5809.260254, Update Interval: 307.086395
+[2026.01.27-00.16.27:877][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6162.030762
+[2026.01.27-00.16.28:876][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.16.28:876][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6162.697754, Update Interval: 335.684692
+[2026.01.27-00.22.59:262][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6553.469238
+[2026.01.27-00.23.00:262][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.23.00:262][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6554.135742, Update Interval: 343.098846
+[2026.01.27-00.29.21:748][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6936.006836
+[2026.01.27-00.29.22:748][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.29.22:748][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6936.673828, Update Interval: 335.560181
+[2026.01.27-00.35.32:141][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7306.457520
+[2026.01.27-00.35.33:142][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.35.33:142][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7307.123535, Update Interval: 336.329224
+[2026.01.27-00.35.40:151][708]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.27-00.41.41:515][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7675.883789
+[2026.01.27-00.41.42:516][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.41.42:516][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7676.550781, Update Interval: 334.774628
+[2026.01.27-00.48.09:916][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8064.342285
+[2026.01.27-00.48.10:917][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.48.10:917][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8065.009277, Update Interval: 310.376892
+[2026.01.27-00.54.03:634][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8417.943359
+[2026.01.27-00.54.04:634][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-00.54.04:634][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8418.609375, Update Interval: 349.835510
+[2026.01.27-01.00.29:030][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8803.112305
+[2026.01.27-01.00.30:030][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.00.30:030][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8803.778320, Update Interval: 330.887177
+[2026.01.27-01.06.33:425][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9167.292969
+[2026.01.27-01.06.34:426][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.06.34:426][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9167.959961, Update Interval: 345.336456
+[2026.01.27-01.13.15:492][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9569.113281
+[2026.01.27-01.13.16:492][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.13.16:492][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9569.779297, Update Interval: 323.531616
+[2026.01.27-01.19.19:211][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9932.600586
+[2026.01.27-01.19.20:210][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.19.20:210][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9933.266602, Update Interval: 350.848114
+[2026.01.27-01.25.48:594][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10321.744141
+[2026.01.27-01.25.49:594][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.25.49:594][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10322.411133, Update Interval: 300.869781
+[2026.01.27-01.31.30:986][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10663.934570
+[2026.01.27-01.31.31:987][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.31.31:987][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10664.601562, Update Interval: 357.579285
+[2026.01.27-01.35.40:152][506]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.27-01.38.22:705][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11075.387695
+[2026.01.27-01.38.23:705][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.38.23:705][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11076.053711, Update Interval: 347.440430
+[2026.01.27-01.44.55:773][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11468.225586
+[2026.01.27-01.44.56:773][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.44.56:773][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11468.892578, Update Interval: 319.237640
+[2026.01.27-01.50.56:819][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11829.071289
+[2026.01.27-01.50.57:819][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.50.57:819][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11829.737305, Update Interval: 342.470764
+[2026.01.27-01.57.22:870][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12214.892578
+[2026.01.27-01.57.23:870][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-01.57.23:870][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12215.558594, Update Interval: 311.448090
+[2026.01.27-02.03.32:594][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12584.406250
+[2026.01.27-02.03.33:928][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.03.33:928][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12585.405273, Update Interval: 329.588928
+[2026.01.27-02.09.35:982][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12947.576172
+[2026.01.27-02.09.36:982][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.09.36:982][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12948.243164, Update Interval: 334.086121
+[2026.01.27-02.15.53:369][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13324.741211
+[2026.01.27-02.15.54:369][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.15.54:369][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13325.408203, Update Interval: 312.885529
+[2026.01.27-02.21.38:752][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13669.909180
+[2026.01.27-02.21.39:752][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.21.39:752][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13670.575195, Update Interval: 350.925018
+[2026.01.27-02.28.23:474][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14074.370117
+[2026.01.27-02.28.24:474][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.28.24:474][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14075.036133, Update Interval: 328.739288
+[2026.01.27-02.34.29:187][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14439.862305
+[2026.01.27-02.34.30:187][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.34.30:187][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14440.528320, Update Interval: 350.965302
+[2026.01.27-02.35.40:152][304]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.27-02.41.17:250][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14847.663086
+[2026.01.27-02.41.18:249][318]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.41.18:249][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14848.330078, Update Interval: 352.735992
+[2026.01.27-02.47.49:632][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15239.802734
+[2026.01.27-02.47.50:632][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.47.50:633][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15240.469727, Update Interval: 305.808289
+[2026.01.27-02.53.51:018][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15600.962891
+[2026.01.27-02.53.52:018][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-02.53.52:018][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15601.628906, Update Interval: 351.100800
+[2026.01.27-03.00.34:419][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16004.108398
+[2026.01.27-03.00.35:419][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.00.35:419][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16004.774414, Update Interval: 347.482544
+[2026.01.27-03.07.22:818][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16412.332031
+[2026.01.27-03.07.23:818][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.07.23:818][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16413.000000, Update Interval: 335.984985
+[2026.01.27-03.13.35:860][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16786.037109
+[2026.01.27-03.13.36:860][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.13.36:860][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16786.705078, Update Interval: 321.032135
+[2026.01.27-03.19.56:584][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17167.408203
+[2026.01.27-03.19.57:584][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.19.57:584][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17168.076172, Update Interval: 314.002502
+[2026.01.27-03.26.08:299][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17539.712891
+[2026.01.27-03.26.09:299][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.26.09:299][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17540.380859, Update Interval: 356.337769
+[2026.01.27-03.32.53:692][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17945.671875
+[2026.01.27-03.32.54:693][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.32.54:693][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17946.339844, Update Interval: 347.376312
+[2026.01.27-03.35.40:152][103]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.27-03.39.19:750][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18332.246094
+[2026.01.27-03.39.20:750][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.39.20:750][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18332.914062, Update Interval: 353.446472
+[2026.01.27-03.46.05:805][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18738.960938
+[2026.01.27-03.46.06:805][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.27-03.46.06:805][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18739.628906, Update Interval: 317.071442
+[2026.01.27-03.50.36:401][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.27-03.50.36:496][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.27-03.50.36:519][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.27-03.50.36:540][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.27-03.50.36:553][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.072 ms (total: 3.13 sec)
+[2026.01.27-03.50.37:797][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.27-03.50.39:497][999]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2026.01.27-03.50.39:509][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.27-03.50.39:566][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Grama_Pedra_Grande] ([1] browsable assets)...
+[2026.01.27-03.50.39:566][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Grama_Pedra_Grande]
+[2026.01.27-03.50.39:566][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grama_Pedra_Grande" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Grama_Pedra_Grande.uasset" SILENT=true
+[2026.01.27-03.50.39:580][999]LogSavePackage: Moving output files for package: /Game/Assets/Grama_Pedra_Grande
+[2026.01.27-03.50.39:581][999]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Grama_Pedra_GrandeEFC87D2447FDAD17F3515F9B5CE06389.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Grama_Pedra_Grande.uasset'
+[2026.01.27-03.50.39:583][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M_Pedra01_Inst] ([1] browsable assets)...
+[2026.01.27-03.50.39:583][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Pedra01_Inst]
+[2026.01.27-03.50.39:583][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Pedra01_Inst" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/M_Pedra01_Inst.uasset" SILENT=true
+[2026.01.27-03.50.40:079][999]LogSavePackage: Moving output files for package: /Game/Assets/M_Pedra01_Inst
+[2026.01.27-03.50.40:079][999]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Pedra01_InstE68D60204365AA243AD6979BDDC1758C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/M_Pedra01_Inst.uasset'
+[2026.01.27-03.50.40:080][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M_Pedra_Vegetacao_Inst] ([1] browsable assets)...
+[2026.01.27-03.50.40:080][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Pedra_Vegetacao_Inst]
+[2026.01.27-03.50.40:080][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Pedra_Vegetacao_Inst" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/M_Pedra_Vegetacao_Inst.uasset" SILENT=true
+[2026.01.27-03.50.40:091][999]LogSavePackage: Moving output files for package: /Game/Assets/M_Pedra_Vegetacao_Inst
+[2026.01.27-03.50.40:091][999]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Pedra_Vegetacao_Inst793355E7476F0AFD9BC592AF1E465CD2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/M_Pedra_Vegetacao_Inst.uasset'
+[2026.01.27-03.50.40:092][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/T_Pedra_Diffuse] ([1] browsable assets)...
+[2026.01.27-03.50.40:092][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/T_Pedra_Diffuse]
+[2026.01.27-03.50.40:092][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/T_Pedra_Diffuse" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/T_Pedra_Diffuse.uasset" SILENT=true
+[2026.01.27-03.50.40:153][999]LogSavePackage: Moving output files for package: /Game/Assets/T_Pedra_Diffuse
+[2026.01.27-03.50.40:154][999]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Pedra_Diffuse381B9E2A42763D76B81992BDB0A2C321.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/T_Pedra_Diffuse.uasset'
+[2026.01.27-03.50.40:190][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 681.367 ms (total: 3.81 sec)
+[2026.01.27-03.50.40:249][999]LogStall: Shutdown...
+[2026.01.27-03.50.40:249][999]LogStall: Shutdown complete.
+[2026.01.27-03.50.40:410][999]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.40:410][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.40:473][999]LogSlate: Window 'M_Pedra01' being destroyed
+[2026.01.27-03.50.40:545][999]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.40:545][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.40:711][999]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.01.27-03.50.41:338][999]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.27-03.50.41:338][999]LogContentValidation: Enabled validators:
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.27-03.50.41:338][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.27-03.50.41:338][999]AssetCheck: /Game/Assets/Grama_Pedra_Grande Validando ativo
+[2026.01.27-03.50.41:338][999]AssetCheck: /Game/Assets/M_Pedra01_Inst Validando ativo
+[2026.01.27-03.50.41:338][999]AssetCheck: /Game/Assets/M_Pedra_Vegetacao_Inst Validando ativo
+[2026.01.27-03.50.41:338][999]AssetCheck: /Game/Assets/T_Pedra_Diffuse Validando ativo
+[2026.01.27-03.50.41:406][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.27-03.50.41:436][999]Cmd: QUIT_EDITOR
+[2026.01.27-03.50.41:436][999]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.27-03.50.41:439][999]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.27-03.50.41:459][  0]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.27-03.50.41:460][  0]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.27-03.50.41:460][  0]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.27-03.50.41:493][  0]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.41:493][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.41:493][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.27-03.50.41:510][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.27-03.50.41:511][  0]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.27-03.50.41:512][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.27-03.50.41:573][  0]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.41:573][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.41:573][  0]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.41:573][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.41:583][  0]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.41:583][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.41:584][  0]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.27-03.50.41:584][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.27-03.50.41:585][  0]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.27-03.50.41:585][  0]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.27-03.50.41:596][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.27-03.50.41:599][  0]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.27-03.50.41:599][  0]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.27-03.50.41:599][  0]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.01.27-03.50.41:599][  0]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.27-03.50.41:599][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.27-03.50.41:602][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.27-03.50.41:617][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.27-03.50.41:617][  0]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.27-03.50.41:618][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.01.27-03.50.41:626][  0]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.27-03.50.41:626][  0]LogExit: Preparing to exit.
+[2026.01.27-03.50.41:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.27-03.50.42:521][  0]LogEditorDataStorage: Deinitializing
+[2026.01.27-03.50.42:745][  0]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.27-03.50.42:798][  0]LogExit: Editor shut down
+[2026.01.27-03.50.42:807][  0]LogExit: Transaction tracking system shut down
+[2026.01.27-03.50.43:275][  0]LogExit: Object subsystem successfully closed.
+[2026.01.27-03.50.43:363][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.27-03.50.43:597][  0]LogMemoryProfiler: Shutdown
+[2026.01.27-03.50.43:603][  0]LogNetworkingProfiler: Shutdown
+[2026.01.27-03.50.43:603][  0]LoadingProfiler: Shutdown
+[2026.01.27-03.50.43:603][  0]LogTimingProfiler: Shutdown
+[2026.01.27-03.50.43:604][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.27-03.50.43:634][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.27-03.50.44:223][  0]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.27-03.50.44:230][  0]RenderDocPlugin: plugin has been unloaded.
+[2026.01.27-03.50.44:243][  0]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.27-03.50.44:243][  0]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1CB2E374-4C7C-F48C-A72B-EFB39438EEBD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.27-03.50.44:781][  0]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.27-03.50.44:781][  0]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.27-03.50.44:790][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.27-03.50.44:790][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.27-03.50.44:790][  0]LogPakFile: Destroying PakPlatformFile
+[2026.01.27-03.50.45:093][  0]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.27-03.50.45:139][  0]LogExit: Exiting.
+[2026.01.27-03.50.45:170][  0]Log file closed, 01/27/26 00:50:45

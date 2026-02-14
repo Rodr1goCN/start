@@ -2295,3 +2295,910 @@ Script Stack (0 frames) :
 [2026.02.14-00.07.54:469][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2026.02.14-00.07.54:491][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2026.02.14-00.07.54:503][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.334 ms (total: 1.02 sec)
+[2026.02.14-00.14.04:692][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2486.661621
+[2026.02.14-00.14.05:692][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.14.05:692][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2487.328613, Update Interval: 331.399872
+[2026.02.14-00.20.08:077][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2850.050293
+[2026.02.14-00.20.09:077][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.20.09:077][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2850.716797, Update Interval: 324.476440
+[2026.02.14-00.26.17:121][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3219.091064
+[2026.02.14-00.26.18:121][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.26.18:121][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.757568, Update Interval: 334.738007
+[2026.02.14-00.32.51:829][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3613.795898
+[2026.02.14-00.32.52:829][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.32.52:829][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3614.462891, Update Interval: 337.078156
+[2026.02.14-00.34.32:335][ 74]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.14-00.39.16:881][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3998.850342
+[2026.02.14-00.39.17:882][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.39.17:882][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3999.517090, Update Interval: 359.285858
+[2026.02.14-00.46.02:264][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4404.285156
+[2026.02.14-00.46.03:264][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.46.03:264][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4404.952148, Update Interval: 309.864197
+[2026.02.14-00.52.02:640][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4764.709473
+[2026.02.14-00.52.03:640][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.52.03:640][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4765.375977, Update Interval: 326.606049
+[2026.02.14-00.58.29:350][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5151.474121
+[2026.02.14-00.58.30:350][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-00.58.30:350][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5152.141113, Update Interval: 355.182343
+[2026.02.14-01.04.59:403][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5541.591309
+[2026.02.14-01.05.00:404][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.05.00:404][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5542.257812, Update Interval: 332.178101
+[2026.02.14-01.11.04:111][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5906.355469
+[2026.02.14-01.11.05:111][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.11.05:112][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5907.022461, Update Interval: 351.490845
+[2026.02.14-01.17.52:170][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6314.473145
+[2026.02.14-01.17.53:170][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.17.53:170][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6315.140137, Update Interval: 354.938812
+[2026.02.14-01.24.35:218][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6717.588379
+[2026.02.14-01.24.36:218][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.24.36:218][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6718.254395, Update Interval: 344.389771
+[2026.02.14-01.31.14:931][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7117.371094
+[2026.02.14-01.31.15:930][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.31.15:930][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7118.038086, Update Interval: 341.500305
+[2026.02.14-01.34.32:335][873]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.14-01.37.46:971][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7509.478516
+[2026.02.14-01.37.47:970][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.37.47:971][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7510.145508, Update Interval: 359.472656
+[2026.02.14-01.44.17:692][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7900.263672
+[2026.02.14-01.44.18:692][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.44.18:692][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7900.930176, Update Interval: 336.882233
+[2026.02.14-01.50.28:409][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8270.962891
+[2026.02.14-01.50.29:409][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.50.29:409][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8271.628906, Update Interval: 333.897522
+[2026.02.14-01.56.35:791][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8638.072266
+[2026.02.14-01.56.36:791][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-01.56.36:791][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8638.738281, Update Interval: 303.629272
+[2026.02.14-02.02.39:824][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9001.823242
+[2026.02.14-02.02.40:824][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.02.40:824][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9002.489258, Update Interval: 303.550537
+[2026.02.14-02.08.27:919][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9349.666992
+[2026.02.14-02.08.28:919][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.08.28:919][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9350.333984, Update Interval: 321.226227
+[2026.02.14-02.14.33:973][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9715.508789
+[2026.02.14-02.14.34:972][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.14.34:972][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9716.174805, Update Interval: 352.649933
+[2026.02.14-02.18.32:336][550]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.14-02.20.45:327][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.20.45:327][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.20.45:328][215]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.14-02.20.45:365][215]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_0
+[2026.02.14-02.20.45:389][215]LogTexture: Display: Texturas de compilação: /Water/Icons/WaterBodyOceanSprite.WaterBodyOceanSprite (TFO_AutoDXT, 256X256 X1X1X1) (Memória necessária estimada: 11.333209 MB), EncodeSpeed: Fast
+[2026.02.14-02.20.45:436][215]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_0
+[2026.02.14-02.20.46:974][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.14-02.20.46:977][283]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.02.14-02.20.46:991][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.20.46:991][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.20.46:999][283]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1491758747
+[2026.02.14-02.20.47:097][283]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_0 (Estimativa de memória necessária: 0.059801 MB)...
+[2026.02.14-02.20.47:098][283]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1491758747.WaterInfoMesh_0
+[2026.02.14-02.20.47:099][283]LogStaticMesh: Warning: WaterInfoMesh_0 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:099][283]LogStaticMesh: Warning: WaterInfoMesh_0 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:129][283]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_1 (Estimativa de memória necessária: 0.284119 MB)...
+[2026.02.14-02.20.47:132][283]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1491758747.WaterInfoMesh_1
+[2026.02.14-02.20.47:132][283]LogStaticMesh: Warning: WaterInfoMesh_1 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:132][283]LogStaticMesh: Warning: WaterInfoMesh_1 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:133][283]LogStaticMesh: Warning: WaterInfoMesh_2 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:133][283]LogStaticMesh: Warning: WaterInfoMesh_2 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:136][283]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1491758747
+[2026.02.14-02.20.47:137][283]LogStaticMesh: Warning: WaterInfoMesh_3 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:137][283]LogStaticMesh: Warning: WaterInfoMesh_3 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:140][283]LogStaticMesh: Warning: WaterInfoMesh_4 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:140][283]LogStaticMesh: Warning: WaterInfoMesh_4 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:144][283]LogStaticMesh: Warning: WaterInfoMesh_5 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:144][283]LogStaticMesh: Warning: WaterInfoMesh_5 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:147][283]LogStaticMesh: Warning: WaterInfoMesh_6 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:147][283]LogStaticMesh: Warning: WaterInfoMesh_6 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:151][283]LogStaticMesh: Warning: WaterInfoMesh_7 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.20.47:151][283]LogStaticMesh: Warning: WaterInfoMesh_7 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.02:798][ 75]LogStaticMesh: Warning: WaterInfoMesh_8 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.02:798][ 75]LogStaticMesh: Warning: WaterInfoMesh_8 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.11:153][567]Cmd: TRANSACTION UNDO
+[2026.02.14-02.21.11:153][567]LogEditorTransaction: Undo Mover Elementos
+[2026.02.14-02.21.11:191][567]LogStaticMesh: Warning: WaterInfoMesh_9 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.11:191][567]LogStaticMesh: Warning: WaterInfoMesh_9 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.11:192][567]LogStaticMesh: Warning: WaterInfoMesh_10 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.11:192][567]LogStaticMesh: Warning: WaterInfoMesh_10 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.21.11:849][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10113.357422
+[2026.02.14-02.21.12:146][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.21.12:146][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10113.626953, Update Interval: 327.636963
+[2026.02.14-02.21.12:439][598]Cmd: TRANSACTION UNDO
+[2026.02.14-02.21.12:439][598]LogEditorTransaction: Undo Colocar objetos
+[2026.02.14-02.21.16:622][819]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.21.16:622][819]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.21.16:622][819]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.14-02.21.16:633][819]LogTexture: Display: Texturas de compilação: /Water/Icons/WaterBodyLakeSprite.WaterBodyLakeSprite (TFO_AutoDXT, 256X256 X1X1X1) (Memória necessária estimada: 11.333209 MB), EncodeSpeed: Fast
+[2026.02.14-02.21.16:655][819]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_0
+[2026.02.14-02.21.16:694][819]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_0
+[2026.02.14-02.21.19:614][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.14-02.21.19:617][985]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.14-02.21.19:630][985]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.21.19:630][985]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.21.19:639][985]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748
+[2026.02.14-02.21.19:643][985]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_0 (Estimativa de memória necessária: 0.019019 MB)...
+[2026.02.14-02.21.19:643][985]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_0 (Estimativa de memória necessária: 0.019473 MB)...
+[2026.02.14-02.21.19:643][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_0
+[2026.02.14-02.21.19:643][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_0
+[2026.02.14-02.21.19:646][985]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_1 (Estimativa de memória necessária: 0.146338 MB)...
+[2026.02.14-02.21.19:647][985]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_1 (Estimativa de memória necessária: 0.092732 MB)...
+[2026.02.14-02.21.19:647][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_1
+[2026.02.14-02.21.19:648][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_1
+[2026.02.14-02.21.19:653][985]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748
+[2026.02.14-02.22.00:960][153]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_8 (Estimativa de memória necessária: 0.148862 MB)...
+[2026.02.14-02.22.00:960][153]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_8 (Estimativa de memória necessária: 0.094295 MB)...
+[2026.02.14-02.22.00:962][153]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_8
+[2026.02.14-02.22.00:962][153]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_8
+[2026.02.14-02.22.05:828][446]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_10 (Estimativa de memória necessária: 0.146338 MB)...
+[2026.02.14-02.22.05:828][446]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_10 (Estimativa de memória necessária: 0.092732 MB)...
+[2026.02.14-02.22.05:829][446]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_10
+[2026.02.14-02.22.05:829][446]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_10
+[2026.02.14-02.22.13:058][865]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_12 (Estimativa de memória necessária: 0.143708 MB)...
+[2026.02.14-02.22.13:058][865]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_12 (Estimativa de memória necessária: 0.091144 MB)...
+[2026.02.14-02.22.13:059][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_12
+[2026.02.14-02.22.13:059][865]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_12
+[2026.02.14-02.22.23:128][485]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_14 (Estimativa de memória necessária: 0.128541 MB)...
+[2026.02.14-02.22.23:128][485]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_14 (Estimativa de memória necessária: 0.081744 MB)...
+[2026.02.14-02.22.23:129][485]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_14
+[2026.02.14-02.22.23:129][485]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_14
+[2026.02.14-02.22.24:810][585]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_16 (Estimativa de memória necessária: 0.086457 MB)...
+[2026.02.14-02.22.24:810][585]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_16 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-02.22.24:811][585]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_16
+[2026.02.14-02.22.24:811][585]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_16
+[2026.02.14-02.22.26:844][711]LogGeomTools: Triangulation of poly failed.
+[2026.02.14-02.22.26:860][711]LogWater: Warning: Failed to triangulate Lake mesh for WaterBodyLake.  Ensure that the Lake's spline does not form any loops (WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748)
+[2026.02.14-02.22.26:864][711]LogGeomTools: Triangulation of poly failed.
+[2026.02.14-02.22.26:864][711]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_18 (Estimativa de memória necessária: 0.114736 MB)...
+[2026.02.14-02.22.26:864][711]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_18 (Estimativa de memória necessária: 0.116858 MB)...
+[2026.02.14-02.22.26:864][711]LogWater: Warning: Failed to triangulate Lake mesh for WaterBodyLake.  Ensure that the Lake's spline does not form any loops (WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748)
+[2026.02.14-02.22.26:865][711]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_18
+[2026.02.14-02.22.26:865][711]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_18
+[2026.02.14-02.22.26:867][711]LogGeomTools: Triangulation of poly failed.
+[2026.02.14-02.22.29:040][844]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_20 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-02.22.29:040][844]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_20 (Estimativa de memória necessária: 0.105229 MB)...
+[2026.02.14-02.22.29:041][844]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_20
+[2026.02.14-02.22.29:042][844]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_20
+[2026.02.14-02.22.36:889][324]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_22 (Estimativa de memória necessária: 0.17431 MB)...
+[2026.02.14-02.22.36:889][324]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_22 (Estimativa de memória necessária: 0.106818 MB)...
+[2026.02.14-02.22.36:890][324]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_22
+[2026.02.14-02.22.36:890][324]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_22
+[2026.02.14-02.22.39:832][515]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_24 (Estimativa de memória necessária: 0.17431 MB)...
+[2026.02.14-02.22.39:832][515]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_24 (Estimativa de memória necessária: 0.106818 MB)...
+[2026.02.14-02.22.39:833][515]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_24
+[2026.02.14-02.22.39:833][515]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_24
+[2026.02.14-02.23.00:811][876]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_34 (Estimativa de memória necessária: 0.106818 MB)...
+[2026.02.14-02.23.00:811][876]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_34 (Estimativa de memória necessária: 0.17431 MB)...
+[2026.02.14-02.23.00:812][876]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_34
+[2026.02.14-02.23.00:812][876]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_34
+[2026.02.14-02.23.03:807][ 67]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_36 (Estimativa de memória necessária: 0.169076 MB)...
+[2026.02.14-02.23.03:807][ 67]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_36 (Estimativa de memória necessária: 0.103667 MB)...
+[2026.02.14-02.23.03:808][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_36
+[2026.02.14-02.23.03:808][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_36
+[2026.02.14-02.23.25:034][425]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_38 (Estimativa de memória necessária: 0.169076 MB)...
+[2026.02.14-02.23.25:035][425]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_38 (Estimativa de memória necessária: 0.103667 MB)...
+[2026.02.14-02.23.25:036][425]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_38
+[2026.02.14-02.23.25:036][425]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_38
+[2026.02.14-02.23.36:187][107]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_40 (Estimativa de memória necessária: 0.164002 MB)...
+[2026.02.14-02.23.36:187][107]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_40 (Estimativa de memória necessária: 0.100543 MB)...
+[2026.02.14-02.23.36:189][107]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_40
+[2026.02.14-02.23.36:189][107]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_40
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: ================================================
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: Total job queries 873, among them cache hits 94 (10.77%), DDC hits 666 (76.29%), Duplicates 98 (11.23%)
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: Tracking 681 distinct input hashes that result in 455 distinct outputs (66.81%)
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: RAM used: 5,67 MiB of 819,20 MiB budget. Usage: 0.69%
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: Shaders Compiled: 15
+[2026.02.14-02.23.44:334][614]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Average time worker was idle: 23.17 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.24 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Job execution time: average 3.35 s, max 7.80 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Job life time (pending + execution): average 3.48 s, max 7.84
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Shader code size: total 211,699 KiB, numShaders 18, average 11,761 KiB, min 1,727 KiB, max 35,992 KiB
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.59 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Total thread time: 32,766 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Total thread preprocess time: 17,863 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Percentage time preprocessing: 54.52%
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.280758
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity (compiled    3 times, average 5.43 sec, max 5.85 sec, min 5.04 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 1.75 sec, max 1.84 sec, min 1.67 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.11 sec, max 1.22 sec, min 0.91 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    3 times, average 1.03 sec, max 1.08 sec, min 0.96 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.81 sec, max 1.00 sec, min 0.49 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity - 49.72% of total time (compiled    3 times, average 5.43 sec, max 5.85 sec, min 5.04 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 16.05% of total time (compiled    3 times, average 1.75 sec, max 1.84 sec, min 1.67 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.16% of total time (compiled    3 times, average 1.11 sec, max 1.22 sec, min 0.91 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                                  FHitProxyPS - 9.40% of total time (compiled    3 times, average 1.03 sec, max 1.08 sec, min 0.96 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 7.45% of total time (compiled    3 times, average 0.81 sec, max 1.00 sec, min 0.49 sec)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: === Material stats ===
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Materials Translated:    174
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Material Translation Only: 0.12 s (65%)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: Material Cache Hits: 66 (38%)
+[2026.02.14-02.23.44:341][614]LogShaderCompilers: Display: ================================================
+[2026.02.14-02.23.50:758][974]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_42 (Estimativa de memória necessária: 0.164002 MB)...
+[2026.02.14-02.23.50:758][974]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_42 (Estimativa de memória necessária: 0.102105 MB)...
+[2026.02.14-02.23.50:759][974]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_42
+[2026.02.14-02.23.50:759][974]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_42
+[2026.02.14-02.23.52:439][ 78]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_44 (Estimativa de memória necessária: 0.102105 MB)...
+[2026.02.14-02.23.52:439][ 78]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_44 (Estimativa de memória necessária: 0.164002 MB)...
+[2026.02.14-02.23.52:439][ 78]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoDilatedMesh_44
+[2026.02.14-02.23.52:439][ 78]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterInfoMesh_44
+[2026.02.14-02.24.20:041][762]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.24.20:041][762]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.24.20:043][762]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_1
+[2026.02.14-02.24.20:044][762]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_1
+[2026.02.14-02.24.21:192][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.14-02.24.21:376][815]LogEditorActor: Deleted 0 Actors (0.207 secs)
+[2026.02.14-02.24.21:389][815]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.24.21:389][815]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyOcean
+[2026.02.14-02.24.21:397][815]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1706156749
+[2026.02.14-02.24.21:400][815]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_0 (Estimativa de memória necessária: 0.059801 MB)...
+[2026.02.14-02.24.21:400][815]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1706156749.WaterInfoMesh_0
+[2026.02.14-02.24.21:402][815]LogStaticMesh: Warning: WaterInfoMesh_0 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:402][815]LogStaticMesh: Warning: WaterInfoMesh_0 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:403][815]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_1 (Estimativa de memória necessária: 0.284119 MB)...
+[2026.02.14-02.24.21:405][815]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1706156749.WaterInfoMesh_1
+[2026.02.14-02.24.21:405][815]LogStaticMesh: Warning: WaterInfoMesh_1 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:405][815]LogStaticMesh: Warning: WaterInfoMesh_1 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:407][815]LogStaticMesh: Warning: WaterInfoMesh_2 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:407][815]LogStaticMesh: Warning: WaterInfoMesh_2 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:410][815]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyOcean as actor: WaterBodyOcean /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyOcean_UAID_001A7DDA7113D0BE02_1706156749
+[2026.02.14-02.24.21:411][815]LogStaticMesh: Warning: WaterInfoMesh_3 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:411][815]LogStaticMesh: Warning: WaterInfoMesh_3 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:414][815]LogStaticMesh: Warning: WaterInfoMesh_4 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:414][815]LogStaticMesh: Warning: WaterInfoMesh_4 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:417][815]LogStaticMesh: Warning: WaterInfoMesh_5 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:417][815]LogStaticMesh: Warning: WaterInfoMesh_5 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:420][815]LogStaticMesh: Warning: WaterInfoMesh_6 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:420][815]LogStaticMesh: Warning: WaterInfoMesh_6 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:425][815]LogStaticMesh: Warning: WaterInfoMesh_7 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.21:425][815]LogStaticMesh: Warning: WaterInfoMesh_7 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.36:130][392]LogStaticMesh: Warning: WaterInfoMesh_8 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.36:130][392]LogStaticMesh: Warning: WaterInfoMesh_8 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.45:479][741]LogStaticMesh: Warning: WaterInfoMesh_9 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.45:479][741]LogStaticMesh: Warning: WaterInfoMesh_9 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.51:580][ 75]LogStaticMesh: Warning: WaterInfoMesh_10 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.51:580][ 75]LogStaticMesh: Warning: WaterInfoMesh_10 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.57:150][371]LogStaticMesh: Warning: WaterInfoMesh_11 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.24.57:150][371]LogStaticMesh: Warning: WaterInfoMesh_11 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.25.15:793][503]LogStaticMesh: Warning: WaterInfoMesh_12 tem algumas tangentes próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.25.15:793][503]LogStaticMesh: Warning: WaterInfoMesh_12 tem algumas binormais próximas a zero que podem causar problemas. (Tolerância de 1E-4)
+[2026.02.14-02.25.46:715][203]Cmd: DELETE
+[2026.02.14-02.25.46:715][203]Cmd: ACTOR DELETE
+[2026.02.14-02.25.46:716][203]LogEditorActor: Cannot delete component WaterSplineComponent /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D0BE02_1524397748.WaterSpline: Não é possível excluir componentes não instanciados ou a raiz de cena.
+[2026.02.14-02.25.54:204][532]Cmd: DELETE
+[2026.02.14-02.25.54:204][532]Cmd: ACTOR DELETE
+[2026.02.14-02.25.54:244][532]LogEditorActor: Deleted Actor: WaterBodyLake
+[2026.02.14-02.25.54:269][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.14-02.25.54:271][532]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.02.14-02.25.57:441][694]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-02.25.57:441][694]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-02.25.57:447][694]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_2
+[2026.02.14-02.25.57:451][694]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_2
+[2026.02.14-02.25.59:239][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.14-02.25.59:244][773]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.14-02.25.59:256][773]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-02.25.59:256][773]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-02.25.59:269][773]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750
+[2026.02.14-02.25.59:283][773]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: ================================================
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Total job queries 889, among them cache hits 100 (11.25%), DDC hits 666 (74.92%), Duplicates 98 (11.02%)
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Tracking 691 distinct input hashes that result in 465 distinct outputs (67.29%)
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: RAM used: 5,80 MiB of 819,20 MiB budget. Usage: 0.71%
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Shaders Compiled: 25
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Average time worker was idle: 94.39 s
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.24 s
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Job execution time: average 3.01 s, max 7.80 s
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 3.10 s, max 7.84
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Shader code size: total 377,086 KiB, numShaders 30, average 12,569 KiB, min 1,727 KiB, max 39,938 KiB
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.18 s
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Average processing rate: 0.96 jobs/sec
+[2026.02.14-02.26.44:334][  5]LogShaderCompilers: Display: Total thread time: 54,282 s
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Total thread preprocess time: 18,277 s
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Percentage time preprocessing: 33.67%
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.259200
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity (compiled    5 times, average 5.41 sec, max 6.03 sec, min 4.73 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 1.76 sec, max 2.03 sec, min 1.49 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.11 sec, max 1.29 sec, min 0.91 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    5 times, average 1.02 sec, max 1.16 sec, min 0.85 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    5 times, average 0.78 sec, max 0.91 sec, min 0.59 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:            TBasePassPSFNoLightMapPolicySkylightForceVelocity - 49.84% of total time (compiled    5 times, average 5.41 sec, max 6.03 sec, min 4.73 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 16.18% of total time (compiled    5 times, average 1.76 sec, max 2.03 sec, min 1.49 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.26% of total time (compiled    5 times, average 1.11 sec, max 1.29 sec, min 0.91 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                  FHitProxyPS - 9.39% of total time (compiled    5 times, average 1.02 sec, max 1.16 sec, min 0.85 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.20% of total time (compiled    5 times, average 0.78 sec, max 0.91 sec, min 0.59 sec)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: === Material stats ===
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Materials Translated:    174
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Material Translation Only: 0.12 s (65%)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: Material Cache Hits: 66 (38%)
+[2026.02.14-02.26.44:335][  5]LogShaderCompilers: Display: ================================================
+[2026.02.14-02.27.20:429][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10481.946289
+[2026.02.14-02.27.21:763][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.27.21:763][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10482.947266, Update Interval: 342.708832
+[2026.02.14-02.27.26:832][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.14-02.27.26:948][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0_Auto2
+[2026.02.14-02.27.26:949][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NLPX67CXZAMR4HTB6VKWK0_Auto2BE80A8E74EE5CA8A8593DCAA7B926292.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0_Auto2.uasset'
+[2026.02.14-02.27.27:166][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto2
+[2026.02.14-02.27.27:167][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9_Auto22B361C104065D17F3A083AA80F87D199.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto2.uasset'
+[2026.02.14-02.27.27:202][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG_Auto2
+[2026.02.14-02.27.27:203][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG_Auto297F024A94276609B285A0FAB2FC22A17.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG_Auto2.uasset'
+[2026.02.14-02.27.27:223][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT_Auto2
+[2026.02.14-02.27.27:223][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT_Auto219FA52D84E5AFB70391146B3E3AAACEB.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT_Auto2.uasset'
+[2026.02.14-02.27.27:282][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto2
+[2026.02.14-02.27.27:283][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto29F861C03456EF433461A1C8D6B23BB54.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto2.uasset'
+[2026.02.14-02.27.27:304][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H_Auto2
+[2026.02.14-02.27.27:304][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/22M02N1GLVDERW47CIUO2H_Auto2EE9DB23244D4C4298D3F55A965D36644.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H_Auto2.uasset'
+[2026.02.14-02.27.27:324][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/CZ/1V9K6CIWMZ08RPAAHO8P0K_Auto2
+[2026.02.14-02.27.27:324][121]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/1V9K6CIWMZ08RPAAHO8P0K_Auto23587CE2D4606DB2B09614483FF2B73CE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/CZ/1V9K6CIWMZ08RPAAHO8P0K_Auto2.uasset'
+[2026.02.14-02.27.27:325][121]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.515
+[2026.02.14-02.27.27:325][121]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.515
+[2026.02.14-02.32.14:466][ 54]LogStaticMesh: Display: Construindo malha estática WaterBodyMesh_0 (Estimativa de memória necessária: 0.086457 MB)...
+[2026.02.14-02.32.14:467][ 54]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyMesh_0
+[2026.02.14-02.32.18:566][258]LogStaticMesh: Display: Construindo malha estática WaterBodyMesh_3 (Estimativa de memória necessária: 0.020047 MB)...
+[2026.02.14-02.32.18:566][258]LogStaticMesh: Display: Construindo malha estática WaterBodyMesh_4 (Estimativa de memória necessária: 0.050515 MB)...
+[2026.02.14-02.32.18:566][258]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyMesh_3
+[2026.02.14-02.32.18:567][258]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyMesh_4
+[2026.02.14-02.32.28:703][768]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyStaticMeshComponent_1) Not registered. Aborting.
+[2026.02.14-02.32.30:283][856]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyStaticMeshComponent_0) Not registered. Aborting.
+[2026.02.14-02.32.42:998][595]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyStaticMeshComponent_2) Not registered. Aborting.
+[2026.02.14-02.33.31:565][231]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyStaticMeshComponent_3) Not registered. Aborting.
+[2026.02.14-02.33.38:465][642]LogActorComponent: UnregisterComponent: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D0BE02_1804023750.WaterBodyStaticMeshComponent_4) Not registered. Aborting.
+[2026.02.14-02.33.49:868][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10871.422852
+[2026.02.14-02.33.50:100][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.33.50:100][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10871.634766, Update Interval: 334.884491
+[2026.02.14-02.33.56:421][617]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-02.33.56:421][617]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-02.34.15:947][736]Cmd: DELETE
+[2026.02.14-02.34.15:948][736]Cmd: ACTOR DELETE
+[2026.02.14-02.34.15:983][736]LogEditorActor: Deleted Actor: WaterBodyRiver
+[2026.02.14-02.34.16:012][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.14-02.34.16:016][736]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2026.02.14-02.34.32:335][685]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.14-02.35.09:871][213]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.35.09:871][213]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.35.09:873][213]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_1
+[2026.02.14-02.35.09:878][213]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_1
+[2026.02.14-02.35.12:897][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.14-02.35.12:899][336]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.14-02.35.12:913][336]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.35.12:913][336]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.02.14-02.35.12:920][336]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D1BE02_1283938927
+[2026.02.14-02.35.12:935][336]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D1BE02_1283938927
+[2026.02.14-02.40.19:522][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11260.887695
+[2026.02.14-02.40.19:779][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.40.19:779][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11261.125000, Update Interval: 307.688843
+[2026.02.14-02.41.44:030][974]Cmd: TRANSACTION UNDO
+[2026.02.14-02.41.44:030][974]LogEditorTransaction: Undo Dimensionar Elementos
+[2026.02.14-02.42.32:328][673]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_29 (Estimativa de memória necessária: 0.143708 MB)...
+[2026.02.14-02.42.32:328][673]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_29 (Estimativa de memória necessária: 0.091144 MB)...
+[2026.02.14-02.42.32:329][673]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D1BE02_1283938927.WaterInfoMesh_29
+[2026.02.14-02.42.32:329][673]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyLake_UAID_001A7DDA7113D1BE02_1283938927.WaterInfoDilatedMesh_29
+[2026.02.14-02.43.37:881][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.14-02.43.38:167][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto3
+[2026.02.14-02.43.38:167][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Lvl_ThirdPerson_Auto3949EE0354D4D73BD5E40CFB2876215FE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto3.umap'
+[2026.02.14-02.43.38:283][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0_Auto3
+[2026.02.14-02.43.38:284][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NLPX67CXZAMR4HTB6VKWK0_Auto38C788AC8449BAE3B625C869F1AFCBD00.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0_Auto3.uasset'
+[2026.02.14-02.43.38:535][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto3
+[2026.02.14-02.43.38:536][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9_Auto332B312A34F8252EAF8CAA4AE23204842.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto3.uasset'
+[2026.02.14-02.43.38:570][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG_Auto3
+[2026.02.14-02.43.38:571][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG_Auto34E0797524F343B58F887A498966166D4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG_Auto3.uasset'
+[2026.02.14-02.43.38:592][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT_Auto3
+[2026.02.14-02.43.38:592][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT_Auto3331B08844CECF37FAE614A878351CE88.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT_Auto3.uasset'
+[2026.02.14-02.43.38:651][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto3
+[2026.02.14-02.43.38:651][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto3868185054280FF6A5697CA8D50532F8E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto3.uasset'
+[2026.02.14-02.43.38:671][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H_Auto3
+[2026.02.14-02.43.38:671][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/22M02N1GLVDERW47CIUO2H_Auto34DA5631647F3F843C48379B586BA1A10.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H_Auto3.uasset'
+[2026.02.14-02.43.38:693][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/TY/VPET8OGD7D6XCP1EWH2RPQ_Auto3
+[2026.02.14-02.43.38:693][256]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/VPET8OGD7D6XCP1EWH2RPQ_Auto301EE2B0B44D01EF21CD3E6B4E96B23B6.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/TY/VPET8OGD7D6XCP1EWH2RPQ_Auto3.uasset'
+[2026.02.14-02.43.38:694][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.836
+[2026.02.14-02.43.38:694][256]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.836
+[2026.02.14-02.46.05:432][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11606.642578
+[2026.02.14-02.46.05:671][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.46.05:671][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11606.864258, Update Interval: 340.520630
+[2026.02.14-02.52.39:500][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12000.335938
+[2026.02.14-02.52.39:705][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.52.39:705][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12000.525391, Update Interval: 332.267822
+[2026.02.14-02.58.50:473][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12371.019531
+[2026.02.14-02.58.50:692][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-02.58.50:692][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12371.225586, Update Interval: 326.873383
+[2026.02.14-03.04.49:844][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12730.081055
+[2026.02.14-03.04.50:092][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.04.50:092][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12730.311523, Update Interval: 320.026855
+[2026.02.14-03.10.46:208][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13086.159180
+[2026.02.14-03.10.46:430][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.10.46:430][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13086.363281, Update Interval: 349.939880
+[2026.02.14-03.17.12:938][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13472.598633
+[2026.02.14-03.17.13:174][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.17.13:174][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13472.818359, Update Interval: 328.512207
+[2026.02.14-03.23.23:143][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13842.548828
+[2026.02.14-03.23.23:379][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.23.23:379][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13842.768555, Update Interval: 329.801331
+[2026.02.14-03.29.45:390][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14224.401367
+[2026.02.14-03.29.45:647][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.29.45:647][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14224.639648, Update Interval: 317.987000
+[2026.02.14-03.34.32:336][785]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.14-03.35.48:973][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14587.560547
+[2026.02.14-03.35.49:212][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.35.49:212][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14587.782227, Update Interval: 324.448975
+[2026.02.14-03.42.10:306][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14968.706055
+[2026.02.14-03.42.10:537][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.42.10:537][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14968.920898, Update Interval: 350.782196
+[2026.02.14-03.42.31:012][427]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.42.31:012][427]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.42.45:740][219]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.42.45:740][219]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.42.50:273][418]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.42.50:273][418]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.45.43:115][930]Cmd: DELETE
+[2026.02.14-03.45.43:115][930]Cmd: ACTOR DELETE
+[2026.02.14-03.45.43:158][930]LogEditorActor: Deleted Actor: WaterBodyLake
+[2026.02.14-03.45.43:188][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.14-03.45.43:190][930]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.02.14-03.45.45:712][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyCustom
+[2026.02.14-03.45.45:712][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyCustom
+[2026.02.14-03.45.45:713][ 54]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.14-03.45.45:959][ 54]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyCustom as actor: WaterBodyCustom /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyCustom_0
+[2026.02.14-03.45.46:050][ 54]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyCustom as actor: WaterBodyCustom /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyCustom_0
+[2026.02.14-03.45.46:644][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.14-03.45.46:650][ 66]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.02.14-03.45.46:665][ 66]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyCustom
+[2026.02.14-03.45.46:665][ 66]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyCustom
+[2026.02.14-03.45.46:671][ 66]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyCustom as actor: WaterBodyCustom /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyCustom_UAID_001A7DDA7113D5BE02_1222723632
+[2026.02.14-03.45.46:673][ 66]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyCustom as actor: WaterBodyCustom /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyCustom_UAID_001A7DDA7113D5BE02_1222723632
+[2026.02.14-03.48.01:695][421]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.48.01:696][421]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.14-03.48.32:865][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15351.247070
+[2026.02.14-03.48.33:084][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.48.33:084][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15351.453125, Update Interval: 358.857391
+[2026.02.14-03.49.20:746][670]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.02.14-03.49.20:756][670]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.14-03.49.20:756][670]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.14-03.49.20:787][670]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 31.242 ms (total: 172.369 ms)
+[2026.02.14-03.49.20:787][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.14-03.49.21:038][670]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.14-03.49.21:142][670]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.14-03.49.21:257][670]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 115.579 ms (total: 568.688 ms)
+[2026.02.14-03.49.21:259][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219991s)
+[2026.02.14-03.49.21:259][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.220053s)
+[2026.02.14-03.49.21:285][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.14-03.49.21:286][670]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.14-03.49.21:289][670]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.14-03.49.21:289][670]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.14-03.49.21:289][670]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.14-03.49.21:289][670]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.14-03.49.21:312][670]LogWorldPartition: Display: WorldPartition initialize took 23.412 ms (total: 500.387 ms)
+[2026.02.14-03.49.21:312][670]LogPlayLevel: PIE: World Init took: (0.027181s)
+[2026.02.14-03.49.21:314][670]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.14-03.49.21:314][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.14-03.49.21:314][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.14-03.49.21:314][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.14-03.49.21:314][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.14-03.49.21:314][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.14-03.49.21:317][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.14-03.49.21:340][670]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2026.02.14-03.49.21:340][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.14-03.49.21:340][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.14-03.49.21:340][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.14-03.49.21:341][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.14-03.49.21:341][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.14-03.49.21:344][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.14-03.49.21:344][670]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.14-03.49.21:344][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.14-03.49.21:344][670]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.02.14-03.49.21:344][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.14-03.49.21:364][670]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.14-03.49.21:390][670]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.14-00.49.21
+[2026.02.14-03.49.21:394][670]LogWorld: Bringing up level for play took: 0.029760
+[2026.02.14-03.49.21:397][670]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.02.14-03.49.21:414][670]PIE: Servidor conectado
+[2026.02.14-03.49.21:417][670]PIE: Tempo inicial total de reprodução no editor: 0,66 s
+[2026.02.14-03.49.21:537][671]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.14-03.49.49:255][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.14-03.49.49:255][260]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.14-03.49.49:255][260]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.14-03.49.49:258][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.14-03.49.49:258][260]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.14-03.49.49:260][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.14-03.49.49:266][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.14-03.49.49:291][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.14-03.49.49:292][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.14-03.49.49:292][260]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.14-03.49.49:294][260]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.14-03.49.49:300][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.14-03.49.49:304][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.14-03.49.49:637][261]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.02.14-03.51.34:480][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.14-03.51.34:558][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto4
+[2026.02.14-03.51.34:559][839]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto44BEA72C94670E9F047CF029AC947E318.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto4.uasset'
+[2026.02.14-03.51.34:785][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OA/48FUOMSLS7R0WFIHT4TAWG_Auto4
+[2026.02.14-03.51.34:785][839]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/48FUOMSLS7R0WFIHT4TAWG_Auto48E86E98C427FDFC4915ACC9DBB6CE437.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OA/48FUOMSLS7R0WFIHT4TAWG_Auto4.uasset'
+[2026.02.14-03.51.34:786][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.334
+[2026.02.14-03.51.34:786][839]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.334
+[2026.02.14-03.55.25:873][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15764.193359
+[2026.02.14-03.55.26:874][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-03.55.26:874][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15764.859375, Update Interval: 342.798553
+[2026.02.14-04.00.07:629][897]LogSlate: Window 'Plugins' being destroyed
+[2026.02.14-04.00.07:695][897]LogSlate: Window 'Plugins' being destroyed
+[2026.02.14-04.00.51:443][599]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.00.51:443][599]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.00.51:449][599]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_3
+[2026.02.14-04.00.51:453][599]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_3
+[2026.02.14-04.00.52:739][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.14-04.00.52:743][633]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.02.14-04.00.52:759][633]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.00.52:759][633]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.00.52:773][633]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633
+[2026.02.14-04.00.52:788][633]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633
+[2026.02.14-04.01.35:402][345]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_5 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.01.35:404][345]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_5
+[2026.02.14-04.01.53:405][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16151.626953
+[2026.02.14-04.01.53:638][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-04.01.53:638][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16151.838867, Update Interval: 313.118073
+[2026.02.14-04.02.37:979][993]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_6 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.02.37:982][993]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_6
+[2026.02.14-04.02.44:568][269]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_8 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.02.44:570][269]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_8
+[2026.02.14-04.02.50:804][511]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_10 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.02.50:804][511]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_10 (Estimativa de memória necessária: 0.183489 MB)...
+[2026.02.14-04.02.50:806][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_10
+[2026.02.14-04.02.50:806][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_10
+[2026.02.14-04.03.03:375][965]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_12 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.03.03:375][965]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_12 (Estimativa de memória necessária: 0.183489 MB)...
+[2026.02.14-04.03.03:376][965]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_12
+[2026.02.14-04.03.03:376][965]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_12
+[2026.02.14-04.03.09:477][215]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_14 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.03.09:477][215]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_14 (Estimativa de memória necessária: 0.183489 MB)...
+[2026.02.14-04.03.09:478][215]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_14
+[2026.02.14-04.03.09:479][215]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_14
+[2026.02.14-04.03.27:166][922]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_16 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.03.27:166][922]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_16 (Estimativa de memória necessária: 0.183489 MB)...
+[2026.02.14-04.03.27:167][922]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_16
+[2026.02.14-04.03.27:167][922]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_16
+[2026.02.14-04.03.42:694][528]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_18 (Estimativa de memória necessária: 0.176833 MB)...
+[2026.02.14-04.03.42:694][528]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_18 (Estimativa de memória necessária: 0.23369 MB)...
+[2026.02.14-04.03.42:695][528]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_18
+[2026.02.14-04.03.42:696][528]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_18
+[2026.02.14-04.03.48:326][726]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_20 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.03.48:327][726]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_20 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.03.48:328][726]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_20
+[2026.02.14-04.03.48:328][726]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_20
+[2026.02.14-04.03.50:151][804]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_22 (Estimativa de memória necessária: 0.141185 MB)...
+[2026.02.14-04.03.50:151][804]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_22 (Estimativa de memória necessária: 0.189764 MB)...
+[2026.02.14-04.03.50:152][804]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_22
+[2026.02.14-04.03.50:152][804]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_22
+[2026.02.14-04.03.53:291][914]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_24 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.03.53:291][914]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_24 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.03.53:292][914]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_24
+[2026.02.14-04.03.53:292][914]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_24
+[2026.02.14-04.03.59:392][147]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_26 (Estimativa de memória necessária: 0.136138 MB)...
+[2026.02.14-04.03.59:392][147]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_26 (Estimativa de memória necessária: 0.183489 MB)...
+[2026.02.14-04.03.59:393][147]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_26
+[2026.02.14-04.03.59:393][147]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_26
+[2026.02.14-04.04.01:427][234]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_28 (Estimativa de memória necessária: 0.191974 MB)...
+[2026.02.14-04.04.01:428][234]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_28 (Estimativa de memória necessária: 0.252489 MB)...
+[2026.02.14-04.04.01:428][234]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_28
+[2026.02.14-04.04.01:428][234]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_28
+[2026.02.14-04.04.15:270][747]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_30 (Estimativa de memória necessária: 0.151385 MB)...
+[2026.02.14-04.04.15:270][747]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_30 (Estimativa de memória necessária: 0.202288 MB)...
+[2026.02.14-04.04.15:271][747]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_30
+[2026.02.14-04.04.15:271][747]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_30
+[2026.02.14-04.04.20:676][951]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_32 (Estimativa de memória necessária: 0.146338 MB)...
+[2026.02.14-04.04.20:676][951]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_32 (Estimativa de memória necessária: 0.196039 MB)...
+[2026.02.14-04.04.20:678][951]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_32
+[2026.02.14-04.04.20:678][951]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_32
+[2026.02.14-04.04.24:594][ 96]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_34 (Estimativa de memória necessária: 0.166526 MB)...
+[2026.02.14-04.04.24:594][ 96]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_34 (Estimativa de memória necessária: 0.221167 MB)...
+[2026.02.14-04.04.24:596][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_34
+[2026.02.14-04.04.24:596][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_34
+[2026.02.14-04.04.40:733][685]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_36 (Estimativa de memória necessária: 0.105723 MB)...
+[2026.02.14-04.04.40:733][685]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_36 (Estimativa de memória necessária: 0.145838 MB)...
+[2026.02.14-04.04.40:734][685]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_36
+[2026.02.14-04.04.40:734][685]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_36
+[2026.02.14-04.04.43:110][788]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_38 (Estimativa de memória necessária: 0.11077 MB)...
+[2026.02.14-04.04.43:110][788]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_38 (Estimativa de memória necessária: 0.152086 MB)...
+[2026.02.14-04.04.43:111][788]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_38
+[2026.02.14-04.04.43:112][788]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_38
+[2026.02.14-04.04.44:671][853]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_40 (Estimativa de memória necessária: 0.120764 MB)...
+[2026.02.14-04.04.44:671][853]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_40 (Estimativa de memória necessária: 0.085322 MB)...
+[2026.02.14-04.04.44:672][853]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_40
+[2026.02.14-04.04.44:672][853]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_40
+[2026.02.14-04.04.55:399][300]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_42 (Estimativa de memória necessária: 0.114515 MB)...
+[2026.02.14-04.04.55:399][300]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_42 (Estimativa de memória necessária: 0.080276 MB)...
+[2026.02.14-04.04.55:400][300]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_42
+[2026.02.14-04.04.55:401][300]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_42
+[2026.02.14-04.05.02:849][588]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_44 (Estimativa de memória necessária: 0.080276 MB)...
+[2026.02.14-04.05.02:849][588]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_44 (Estimativa de memória necessária: 0.114515 MB)...
+[2026.02.14-04.05.02:850][588]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoMesh_44
+[2026.02.14-04.05.02:850][588]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterInfoDilatedMesh_44
+[2026.02.14-04.05.10:169][865]Cmd: DELETE
+[2026.02.14-04.05.10:169][865]Cmd: ACTOR DELETE
+[2026.02.14-04.05.10:170][865]LogEditorActor: Cannot delete component WaterSplineComponent /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D5BE02_2128817633.WaterSpline: Não é possível excluir componentes não instanciados ou a raiz de cena.
+[2026.02.14-04.05.16:496][100]Cmd: DELETE
+[2026.02.14-04.05.16:496][100]Cmd: ACTOR DELETE
+[2026.02.14-04.05.16:528][100]LogEditorActor: Deleted Actor: WaterBodyRiver
+[2026.02.14-04.05.16:561][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.14-04.05.16:565][100]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2026.02.14-04.05.34:198][809]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_184 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.05.34:198][809]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_184 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.05.34:200][809]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_184
+[2026.02.14-04.05.34:200][809]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_184
+[2026.02.14-04.05.35:736][871]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_185 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.05.35:736][871]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_185 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.05.35:737][871]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_185
+[2026.02.14-04.05.35:737][871]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_185
+[2026.02.14-04.05.38:977][986]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_187 (Estimativa de memória necessária: 0.246241 MB)...
+[2026.02.14-04.05.38:977][986]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_187 (Estimativa de memória necessária: 0.186927 MB)...
+[2026.02.14-04.05.38:978][986]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_187
+[2026.02.14-04.05.38:978][986]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_187
+[2026.02.14-04.05.42:463][121]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_189 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.05.42:463][121]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_189 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.05.42:464][121]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_189
+[2026.02.14-04.05.42:465][121]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_189
+[2026.02.14-04.05.50:169][441]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_191 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.05.50:169][441]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_191 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.05.50:171][441]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_191
+[2026.02.14-04.05.50:171][441]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_191
+[2026.02.14-04.05.53:673][594]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_192 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.05.53:673][594]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_192 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.05.53:674][594]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_192
+[2026.02.14-04.05.53:675][594]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_192
+[2026.02.14-04.05.59:202][832]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_194 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.05.59:202][832]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_194 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.05.59:203][832]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoMesh_194
+[2026.02.14-04.05.59:203][832]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113C7BE02_1099005159.WaterInfoDilatedMesh_194
+[2026.02.14-04.06.36:254][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.14-04.06.36:348][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto5
+[2026.02.14-04.06.36:349][521]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto5ECF75A5045F91275668EB1BB68D8E5CC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto5.uasset'
+[2026.02.14-04.06.36:401][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/WN/K0HR8KIWF6HBPTJSYQFXYT_Auto5
+[2026.02.14-04.06.36:401][521]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/K0HR8KIWF6HBPTJSYQFXYT_Auto5C181F062485FEF34AF512CB6D7EF4EB1.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/WN/K0HR8KIWF6HBPTJSYQFXYT_Auto5.uasset'
+[2026.02.14-04.06.36:403][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.186
+[2026.02.14-04.06.36:403][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
+[2026.02.14-04.08.02:468][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16520.771484
+[2026.02.14-04.08.03:468][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-04.08.03:468][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16521.439453, Update Interval: 340.670807
+[2026.02.14-04.14.14:528][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16893.093750
+[2026.02.14-04.14.15:533][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-04.14.15:533][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16893.761719, Update Interval: 345.887634
+[2026.02.14-04.20.55:399][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17294.216797
+[2026.02.14-04.20.55:654][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-04.20.55:654][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17294.445312, Update Interval: 355.207977
+[2026.02.14-04.21.29:074][112]LogSlate: Window 'Plugins' being destroyed
+[2026.02.14-04.21.29:143][112]LogSlate: Window 'Plugins' being destroyed
+[2026.02.14-04.22.07:790][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.22.07:791][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.22.07:797][582]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_4
+[2026.02.14-04.22.07:801][582]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_4
+[2026.02.14-04.22.10:444][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.14-04.22.10:635][663]LogEditorActor: Deleted 0 Actors (0.222 secs)
+[2026.02.14-04.22.10:650][663]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.22.10:650][663]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.02.14-04.22.10:665][663]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986
+[2026.02.14-04.22.10:680][663]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986
+[2026.02.14-04.22.54:666][522]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_5 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.22.54:666][522]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_5 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.22.54:667][522]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_5
+[2026.02.14-04.22.54:667][522]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_5
+[2026.02.14-04.23.09:684][122]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_7 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.09:685][122]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_7
+[2026.02.14-04.23.30:460][935]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_8 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.30:460][935]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_8 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.23.30:461][935]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_8
+[2026.02.14-04.23.30:461][935]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_8
+[2026.02.14-04.23.33:595][ 73]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_9 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.33:595][ 73]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_9 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.23.33:596][ 73]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_9
+[2026.02.14-04.23.33:596][ 73]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_9
+[2026.02.14-04.23.43:849][491]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_11 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.23.43:849][491]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_11 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.43:850][491]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_11
+[2026.02.14-04.23.43:851][491]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_11
+[2026.02.14-04.23.46:484][607]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_12 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.46:485][607]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_12 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.23.46:486][607]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_12
+[2026.02.14-04.23.46:486][607]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_12
+[2026.02.14-04.23.54:355][927]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_14 (Estimativa de memória necessária: 0.171626 MB)...
+[2026.02.14-04.23.54:355][927]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_14 (Estimativa de memória necessária: 0.227442 MB)...
+[2026.02.14-04.23.54:356][927]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_14
+[2026.02.14-04.23.54:356][927]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_14
+[2026.02.14-04.24.08:137][464]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_16 (Estimativa de memória necessária: 0.217341 MB)...
+[2026.02.14-04.24.08:137][464]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_16 (Estimativa de memória necessária: 0.283892 MB)...
+[2026.02.14-04.24.08:139][464]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_16
+[2026.02.14-04.24.08:139][464]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_16
+[2026.02.14-04.24.10:296][564]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_18 (Estimativa de memória necessária: 0.166526 MB)...
+[2026.02.14-04.24.10:296][564]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_18 (Estimativa de memória necessária: 0.221167 MB)...
+[2026.02.14-04.24.10:298][564]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_18
+[2026.02.14-04.24.10:298][564]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_18
+[2026.02.14-04.24.14:302][711]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_20 (Estimativa de memória necessária: 0.239965 MB)...
+[2026.02.14-04.24.14:302][711]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_20 (Estimativa de memória necessária: 0.18188 MB)...
+[2026.02.14-04.24.14:303][711]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_20
+[2026.02.14-04.24.14:304][711]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_20
+[2026.02.14-04.24.17:657][827]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_22 (Estimativa de memória necessária: 0.191974 MB)...
+[2026.02.14-04.24.17:657][827]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_22 (Estimativa de memória necessária: 0.252489 MB)...
+[2026.02.14-04.24.17:659][827]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_22
+[2026.02.14-04.24.17:660][827]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_22
+[2026.02.14-04.24.21:333][983]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_24 (Estimativa de memória necessária: 0.186927 MB)...
+[2026.02.14-04.24.21:333][983]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_24 (Estimativa de memória necessária: 0.246241 MB)...
+[2026.02.14-04.24.21:335][983]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_24
+[2026.02.14-04.24.21:335][983]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_24
+[2026.02.14-04.24.22:770][ 42]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_26 (Estimativa de memória necessária: 0.156432 MB)...
+[2026.02.14-04.24.22:771][ 42]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_26 (Estimativa de memória necessária: 0.208536 MB)...
+[2026.02.14-04.24.22:772][ 42]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_26
+[2026.02.14-04.24.22:772][ 42]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_26
+[2026.02.14-04.24.29:334][294]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_28 (Estimativa de memória necessária: 0.115817 MB)...
+[2026.02.14-04.24.29:334][294]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_28 (Estimativa de memória necessária: 0.158335 MB)...
+[2026.02.14-04.24.29:336][294]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_28
+[2026.02.14-04.24.29:336][294]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_28
+[2026.02.14-04.24.31:001][369]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_30 (Estimativa de memória necessária: 0.126018 MB)...
+[2026.02.14-04.24.31:001][369]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_30 (Estimativa de memória necessária: 0.170965 MB)...
+[2026.02.14-04.24.31:002][369]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_30
+[2026.02.14-04.24.31:002][369]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_30
+[2026.02.14-04.24.32:923][453]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_32 (Estimativa de memória necessária: 0.105723 MB)...
+[2026.02.14-04.24.32:924][453]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_32 (Estimativa de memória necessária: 0.145838 MB)...
+[2026.02.14-04.24.32:925][453]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_32
+[2026.02.14-04.24.32:925][453]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_32
+[2026.02.14-04.24.38:001][639]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_34 (Estimativa de memória necessária: 0.105723 MB)...
+[2026.02.14-04.24.38:001][639]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_34 (Estimativa de memória necessária: 0.145838 MB)...
+[2026.02.14-04.24.38:002][639]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_34
+[2026.02.14-04.24.38:002][639]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_34
+[2026.02.14-04.24.39:963][723]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_36 (Estimativa de memória necessária: 0.139563 MB)...
+[2026.02.14-04.24.39:963][723]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_36 (Estimativa de memória necessária: 0.100677 MB)...
+[2026.02.14-04.24.39:964][723]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_36
+[2026.02.14-04.24.39:964][723]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_36
+[2026.02.14-04.24.42:376][823]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_38 (Estimativa de memória necessária: 0.085322 MB)...
+[2026.02.14-04.24.42:376][823]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_38 (Estimativa de memória necessária: 0.120764 MB)...
+[2026.02.14-04.24.42:377][823]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_38
+[2026.02.14-04.24.42:377][823]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_38
+[2026.02.14-04.24.58:330][472]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_42 (Estimativa de memória necessária: 0.090423 MB)...
+[2026.02.14-04.24.58:330][472]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_42 (Estimativa de memória necessária: 0.127039 MB)...
+[2026.02.14-04.24.58:331][472]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_42
+[2026.02.14-04.24.58:331][472]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_42
+[2026.02.14-04.25.01:317][609]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_43 (Estimativa de memória necessária: 0.100677 MB)...
+[2026.02.14-04.25.01:317][609]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_43 (Estimativa de memória necessária: 0.139563 MB)...
+[2026.02.14-04.25.01:318][609]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_43
+[2026.02.14-04.25.01:318][609]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_43
+[2026.02.14-04.25.04:287][720]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_45 (Estimativa de memória necessária: 0.152086 MB)...
+[2026.02.14-04.25.04:287][720]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_45 (Estimativa de memória necessária: 0.11077 MB)...
+[2026.02.14-04.25.04:288][720]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_45
+[2026.02.14-04.25.04:288][720]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_45
+[2026.02.14-04.25.05:387][770]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_46 (Estimativa de memória necessária: 0.11077 MB)...
+[2026.02.14-04.25.05:387][770]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_46 (Estimativa de memória necessária: 0.152086 MB)...
+[2026.02.14-04.25.05:388][770]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_46
+[2026.02.14-04.25.05:388][770]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_46
+[2026.02.14-04.25.10:312][950]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_48 (Estimativa de memória necessária: 0.158335 MB)...
+[2026.02.14-04.25.10:312][950]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_48 (Estimativa de memória necessária: 0.115817 MB)...
+[2026.02.14-04.25.10:313][950]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_48
+[2026.02.14-04.25.10:313][950]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_48
+[2026.02.14-04.25.23:090][493]LogStaticMesh: Display: Construindo malha estática WaterInfoMesh_50 (Estimativa de memória necessária: 0.100677 MB)...
+[2026.02.14-04.25.23:090][493]LogStaticMesh: Display: Construindo malha estática WaterInfoDilatedMesh_50 (Estimativa de memória necessária: 0.139563 MB)...
+[2026.02.14-04.25.23:091][493]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoMesh_50
+[2026.02.14-04.25.23:091][493]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.WaterBodyRiver_UAID_001A7DDA7113D7BE02_1259224986.WaterInfoDilatedMesh_50
+[2026.02.14-04.25.25:933][608]Cmd: DELETE
+[2026.02.14-04.25.25:933][608]Cmd: ACTOR DELETE
+[2026.02.14-04.25.25:992][608]LogEditorActor: Deleted Actor: WaterBodyRiver
+[2026.02.14-04.25.26:023][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.14-04.25.26:026][608]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2026.02.14-04.26.28:162][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.14-04.26.28:228][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto6
+[2026.02.14-04.26.28:228][ 46]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto668912E2B46ADA164EA867E92721A307B.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto6.uasset'
+[2026.02.14-04.26.28:431][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.293
+[2026.02.14-04.26.28:432][ 46]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.293
+[2026.02.14-04.27.33:149][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17692.003906
+[2026.02.14-04.27.34:148][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.14-04.27.34:148][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17692.669922, Update Interval: 344.420898
+[2026.02.14-04.33.56:848][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.14-04.33.56:982][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.14-04.33.57:005][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.14-04.33.57:026][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.14-04.33.57:275][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.14-04.33.57:293][891]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.02.14-04.33.57:294][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Lvl_ThirdPerson7161390B4B357C2696613AA667863935.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.02.14-04.33.57:309][891]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.283
+[2026.02.14-04.33.57:416][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0
+[2026.02.14-04.33.57:416][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NLPX67CXZAMR4HTB6VKWK065FAF69A4263917D42AA5EA9D56A1635.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0.uasset'
+[2026.02.14-04.33.57:654][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9
+[2026.02.14-04.33.57:655][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H90326DE394936677B367675AFB4E30BA7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9.uasset'
+[2026.02.14-04.33.57:675][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.02.14-04.33.57:675][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG33A323444EDC9B95F96E6EB6A5645330.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.02.14-04.33.57:697][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.02.14-04.33.57:699][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT5A76D0AD494D5E904F7870BF17201A0C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.02.14-04.33.57:764][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E
+[2026.02.14-04.33.57:765][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9EC29BF26A424592BE863D869F9981E49C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E.uasset'
+[2026.02.14-04.33.57:811][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/WN/K0HR8KIWF6HBPTJSYQFXYT
+[2026.02.14-04.33.57:812][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/K0HR8KIWF6HBPTJSYQFXYT5CBFEAA240D671A59710E29D98179393.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/WN/K0HR8KIWF6HBPTJSYQFXYT.uasset'
+[2026.02.14-04.33.57:834][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H
+[2026.02.14-04.33.57:834][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/22M02N1GLVDERW47CIUO2H6CDE2EA44F743F414DCDF2B8078AE99E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BQ/22M02N1GLVDERW47CIUO2H.uasset'
+[2026.02.14-04.33.57:851][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OA/48FUOMSLS7R0WFIHT4TAWG
+[2026.02.14-04.33.57:851][891]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/48FUOMSLS7R0WFIHT4TAWG5E4F6D934CE1E6272C20E3B62015F884.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OA/48FUOMSLS7R0WFIHT4TAWG.uasset'
+[2026.02.14-04.33.57:921][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.07 sec (total: 2.09 sec)
+[2026.02.14-04.33.57:996][891]LogContentValidation: Display: Starting to validate 9 assets
+[2026.02.14-04.33.57:996][891]LogContentValidation: Enabled validators:
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.14-04.33.57:996][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.14-04.33.57:996][891]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.14-04.33.58:056][891]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.14-04.33.59:753][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.14-04.33.59:919][956]LogStall: Shutdown...
+[2026.02.14-04.33.59:919][956]LogStall: Shutdown complete.
+[2026.02.14-04.34.00:039][956]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.02.14-04.34.00:555][956]Cmd: QUIT_EDITOR
+[2026.02.14-04.34.00:555][957]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.14-04.34.00:647][957]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.14-04.34.00:658][957]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.14-04.34.00:658][957]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.14-04.34.00:685][957]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.14-04.34.00:698][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.14-04.34.00:698][957]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.14-04.34.00:900][957]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.14-04.34.00:921][957]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.14-04.34.01:000][957]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.14-04.34.01:111][957]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.14-04.34.01:112][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.14-04.34.01:112][957]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.14-04.34.01:112][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.14-04.34.01:202][957]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.14-04.34.01:210][957]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.14-04.34.01:249][957]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.14-04.34.01:778][957]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.14-04.34.01:778][957]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.14-04.34.01:778][957]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.02.14-04.34.01:778][957]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.14-04.34.01:778][957]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.14-04.34.01:780][957]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.14-04.34.01:794][957]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.14-04.34.01:800][957]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.14-04.34.01:801][957]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.02.14-04.34.01:832][957]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.14-04.34.01:834][957]LogExit: Preparing to exit.
+[2026.02.14-04.34.02:282][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.14-04.34.03:099][957]LogEditorDataStorage: Deinitializing
+[2026.02.14-04.34.04:421][957]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.14-04.34.05:221][957]LogExit: Editor shut down
+[2026.02.14-04.34.05:230][957]LogExit: Transaction tracking system shut down
+[2026.02.14-04.34.09:877][957]LogExit: Object subsystem successfully closed.
+[2026.02.14-04.34.09:964][957]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.14-04.34.11:834][957]LogMemoryProfiler: Shutdown
+[2026.02.14-04.34.11:857][957]LogNetworkingProfiler: Shutdown
+[2026.02.14-04.34.11:857][957]LoadingProfiler: Shutdown
+[2026.02.14-04.34.11:857][957]LogTimingProfiler: Shutdown
+[2026.02.14-04.34.11:952][957]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.14-04.34.11:971][957]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.14-04.34.13:517][957]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.14-04.34.13:610][957]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.14-04.34.13:621][957]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33215F96-474E-3E2F-E3DA-C493D39994F0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.14-04.34.14:322][957]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.14-04.34.14:396][957]RenderDocPlugin: plugin has been unloaded.
+[2026.02.14-04.34.14:403][957]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.14-04.34.14:628][957]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.14-04.34.14:628][957]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.14-04.34.14:628][957]LogPakFile: Destroying PakPlatformFile
+[2026.02.14-04.34.15:145][957]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.14-04.34.15:317][957]LogExit: Exiting.
+[2026.02.14-04.34.15:369][957]Log file closed, 02/14/26 01:34:15

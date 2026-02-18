@@ -1772,3 +1772,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.18-23.37.32:381][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-23.37.32:381][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-23.37.32:392][979]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.18-23.38.24:987][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 741.326599
+[2026.02.18-23.38.25:988][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.38.25:989][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 741.994141, Update Interval: 350.445251

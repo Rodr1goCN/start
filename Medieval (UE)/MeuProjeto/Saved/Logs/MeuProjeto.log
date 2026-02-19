@@ -1775,3 +1775,1009 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.18-23.38.24:987][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 741.326599
 [2026.02.18-23.38.25:988][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.18-23.38.25:989][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 741.994141, Update Interval: 350.445251
+[2026.02.18-23.44.22:053][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1098.392456
+[2026.02.18-23.44.23:054][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.44.23:054][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1099.059326, Update Interval: 327.869507
+[2026.02.18-23.50.05:203][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1441.541016
+[2026.02.18-23.50.06:203][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.50.06:203][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1442.207764, Update Interval: 320.371094
+[2026.02.18-23.55.53:249][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1789.587402
+[2026.02.18-23.55.54:249][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.55.54:250][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1790.254150, Update Interval: 348.372437
+[2026.02.19-00.02.31:639][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2187.974121
+[2026.02.19-00.02.32:640][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.02.32:640][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2188.641602, Update Interval: 328.336426
+[2026.02.19-00.08.33:355][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2549.692139
+[2026.02.19-00.08.34:356][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.08.34:356][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2550.359131, Update Interval: 357.815491
+[2026.02.19-00.15.16:412][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2952.750244
+[2026.02.19-00.15.17:413][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.15.17:413][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2953.416992, Update Interval: 333.641174
+[2026.02.19-00.21.37:132][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3333.471191
+[2026.02.19-00.21.38:131][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.21.38:131][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3334.137695, Update Interval: 352.540039
+[2026.02.19-00.27.51:965][221]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-00.28.02:844][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3719.178711
+[2026.02.19-00.28.03:844][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.28.03:844][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3719.845215, Update Interval: 327.063812
+[2026.02.19-00.34.28:891][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4105.226074
+[2026.02.19-00.34.29:891][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.34.29:891][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4105.892578, Update Interval: 343.159271
+[2026.02.19-00.40.44:273][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4480.632812
+[2026.02.19-00.40.45:273][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.40.45:273][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4481.299316, Update Interval: 346.292297
+[2026.02.19-00.47.04:989][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4861.374023
+[2026.02.19-00.47.05:990][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.47.05:990][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4862.041016, Update Interval: 328.316284
+[2026.02.19-00.53.10:035][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5226.446777
+[2026.02.19-00.53.11:037][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.53.11:037][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5227.114258, Update Interval: 314.716644
+[2026.02.19-00.59.09:422][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5585.855957
+[2026.02.19-00.59.10:422][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.59.10:422][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5586.522461, Update Interval: 359.027679
+[2026.02.19-01.06.01:138][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5997.613770
+[2026.02.19-01.06.02:139][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.06.02:140][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5998.281738, Update Interval: 335.541870
+[2026.02.19-01.12.25:858][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6382.366699
+[2026.02.19-01.12.26:860][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.12.26:860][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6383.034668, Update Interval: 320.488281
+[2026.02.19-01.18.36:244][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6752.778809
+[2026.02.19-01.18.37:246][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.18.37:246][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6753.445801, Update Interval: 303.008514
+[2026.02.19-01.24.29:964][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7106.520508
+[2026.02.19-01.24.30:965][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.24.30:965][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7107.187500, Update Interval: 348.216797
+[2026.02.19-01.27.51:966][ 19]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-01.30.56:673][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7493.251953
+[2026.02.19-01.30.57:673][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.30.57:673][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7493.918945, Update Interval: 302.666107
+[2026.02.19-01.36.42:723][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7839.325195
+[2026.02.19-01.36.43:724][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.36.43:725][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7839.992188, Update Interval: 305.390778
+[2026.02.19-01.42.31:763][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8188.389648
+[2026.02.19-01.42.32:764][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.42.32:764][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8189.055664, Update Interval: 302.523285
+[2026.02.19-01.48.24:140][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8540.580078
+[2026.02.19-01.48.25:140][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.48.25:140][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8541.246094, Update Interval: 318.305603
+[2026.02.19-01.54.42:879][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8919.203125
+[2026.02.19-01.54.44:212][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.54.44:212][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8920.202148, Update Interval: 306.987518
+[2026.02.19-01.56.33:879][567]Cmd: TRANSACTION UNDO
+[2026.02.19-01.56.33:879][567]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-01.57.03:087][789]Cmd: TRANSACTION UNDO
+[2026.02.19-01.57.03:088][789]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-01.57.19:048][127]Cmd: TRANSACTION UNDO
+[2026.02.19-01.57.19:048][127]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.00.32:233][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9268.488281
+[2026.02.19-02.00.32:529][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.00.32:529][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9268.758789, Update Interval: 321.636414
+[2026.02.19-02.04.47:432][579]Cmd: TRANSACTION UNDO
+[2026.02.19-02.04.47:432][579]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.06.35:944][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9632.163086
+[2026.02.19-02.06.36:188][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.06.36:188][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9632.387695, Update Interval: 311.807007
+[2026.02.19-02.07.32:990][179]Cmd: TRANSACTION UNDO
+[2026.02.19-02.07.32:990][179]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.07.44:713][286]Cmd: TRANSACTION UNDO
+[2026.02.19-02.07.44:713][286]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.08.25:969][679]Cmd: TRANSACTION UNDO
+[2026.02.19-02.08.25:969][679]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.08.53:298][493]Cmd: TRANSACTION UNDO
+[2026.02.19-02.08.53:298][493]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.08.54:009][499]Cmd: TRANSACTION UNDO
+[2026.02.19-02.08.54:009][499]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.12.24:908][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9981.171875
+[2026.02.19-02.12.25:158][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.12.25:158][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9981.400391, Update Interval: 323.344818
+[2026.02.19-02.13.17:560][749]Cmd: TRANSACTION UNDO
+[2026.02.19-02.13.17:560][749]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.14.44:845][876]Cmd: TRANSACTION UNDO
+[2026.02.19-02.14.44:845][876]LogEditorTransaction: Undo Edição de Folhagem
+[2026.02.19-02.15.38:064][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.15.38:235][798]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0
+[2026.02.19-02.15.38:235][798]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NLPX67CXZAMR4HTB6VKWK0C742A0854580D8691EFA0098E9A1E5C5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/F6/NLPX67CXZAMR4HTB6VKWK0.uasset'
+[2026.02.19-02.15.38:647][798]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9
+[2026.02.19-02.15.38:648][798]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H918C5872546B4F59423FCE3A5C32B1043.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9.uasset'
+[2026.02.19-02.15.38:713][798]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.02.19-02.15.38:713][798]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG57BF501343302318B65783B43340AC45.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.02.19-02.15.39:052][798]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.02.19-02.15.39:052][798]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT23AE4BC94D250464FB13F1B2A1D0B99A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.02.19-02.15.39:068][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 3.72 sec)
+[2026.02.19-02.15.39:133][798]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.19-02.15.39:134][798]LogContentValidation: Enabled validators:
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.15.39:134][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.15.39:134][798]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.19-02.16.52:327][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.16.53:080][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9
+[2026.02.19-02.16.53:081][731]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9C5F8F89C453B2BA6461D69BB2D07F96E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9.uasset'
+[2026.02.19-02.16.53:147][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.02.19-02.16.53:148][731]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG82B1CC094506E741106232BAEA150DB7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.02.19-02.16.53:478][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.02.19-02.16.53:479][731]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT4FE0D2664A807798EA6721BB7A953993.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.02.19-02.16.53:496][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 4.89 sec)
+[2026.02.19-02.16.53:582][731]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.19-02.16.53:582][731]LogContentValidation: Enabled validators:
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.16.53:582][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.16.53:582][731]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.19-02.17.28:122][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.02.19-02.17.28:126][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.045
+[2026.02.19-02.17.28:126][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Laranjas] ([1] browsable assets)...
+[2026.02.19-02.17.28:126][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Laranjas]
+[2026.02.19-02.17.28:141][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Folhas_Laranjas_Auto2
+[2026.02.19-02.17.28:141][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_Laranjas_Auto2C931FF3F45556D3B1A214CA3A8162F2F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Folhas_Laranjas_Auto2.uasset'
+[2026.02.19-02.17.28:142][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Verdes] ([1] browsable assets)...
+[2026.02.19-02.17.28:142][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Verdes]
+[2026.02.19-02.17.28:156][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Folhas_Verdes_Auto2
+[2026.02.19-02.17.28:156][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_Verdes_Auto2C3E7FEFE43AB6A432E377BAF42302224.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Folhas_Verdes_Auto2.uasset'
+[2026.02.19-02.17.28:157][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Flor_Vermelha_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.17.28:582][139]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Assets/Flor_Vermelha_FoliageType.Flor_Vermelha_FoliageType]
+[2026.02.19-02.17.28:582][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Flor_Vermelha_FoliageType]
+[2026.02.19-02.17.28:596][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Flor_Vermelha_FoliageType_Auto2
+[2026.02.19-02.17.28:596][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Vermelha_FoliageType_Auto2D158BB1B4943784368940284BBB7F974.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Flor_Vermelha_FoliageType_Auto2.uasset'
+[2026.02.19-02.17.28:596][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Foliage/Flor_Amarela_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.17.28:607][139]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Assets/Foliage/Flor_Amarela_FoliageType.Flor_Amarela_FoliageType]
+[2026.02.19-02.17.28:607][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Amarela_FoliageType]
+[2026.02.19-02.17.28:619][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Amarela_FoliageType_Auto2
+[2026.02.19-02.17.28:619][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Amarela_FoliageType_Auto22347D4A74CF05635184B75BAC1FDEAA9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Amarela_FoliageType_Auto2.uasset'
+[2026.02.19-02.17.28:621][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Foliage/Flor_Azul_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.17.28:631][139]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Assets/Foliage/Flor_Azul_FoliageType.Flor_Azul_FoliageType]
+[2026.02.19-02.17.28:631][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Azul_FoliageType]
+[2026.02.19-02.17.28:651][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Azul_FoliageType_Auto2
+[2026.02.19-02.17.28:651][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Azul_FoliageType_Auto27AD907E843C3F6E0D6B1049569B950CE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Azul_FoliageType_Auto2.uasset'
+[2026.02.19-02.17.28:652][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Foliage/Flor_Rosa_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.17.28:663][139]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Assets/Foliage/Flor_Rosa_FoliageType.Flor_Rosa_FoliageType]
+[2026.02.19-02.17.28:663][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Rosa_FoliageType]
+[2026.02.19-02.17.28:674][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Rosa_FoliageType_Auto2
+[2026.02.19-02.17.28:674][139]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Rosa_FoliageType_Auto261317DF44A9787479D42C995E23816C4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Rosa_FoliageType_Auto2.uasset'
+[2026.02.19-02.17.28:675][139]LogFileHelpers: Auto-saving content packages took 0.549
+[2026.02.19-02.18.24:074][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10340.340820
+[2026.02.19-02.18.25:074][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.18.25:074][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10341.007812, Update Interval: 354.025085
+[2026.02.19-02.24.50:149][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10726.283203
+[2026.02.19-02.24.51:149][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.24.51:149][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10726.949219, Update Interval: 348.231445
+[2026.02.19-02.25.05:830][815]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2026.02.19-02.25.05:907][815]LogInteractiveToolsContext: Display: Selecione uma malha. Alterne as ferramentas para pintar cores de vértices, misturar texturas ou pintar diretamente em um arquivo de textura.
+[2026.02.19-02.25.17:800][867]LogInteractiveToolsContext: Display: Selecione uma malha. Alterne as ferramentas para pintar cores de vértices, misturar texturas ou pintar diretamente em um arquivo de textura.
+[2026.02.19-02.25.18:382][900]LogInteractiveToolsContext: Display: Selecione uma malha. Alterne as ferramentas para pintar cores de vértices, misturar texturas ou pintar diretamente em um arquivo de textura.
+[2026.02.19-02.25.19:530][964]LogInteractiveToolsContext: Display: Selecione uma malha. Alterne as ferramentas para pintar cores de vértices, misturar texturas ou pintar diretamente em um arquivo de textura.
+[2026.02.19-02.25.27:616][382]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-02.25.29:228][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2026.02.19-02.26.12:424][970]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-02.26.12:450][970]LogInterchangeEngine: [Pendente] Importando
+[2026.02.19-02.26.12:450][970]LogInterchangeEngine: Display: Interchange start importing source [D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/T_Areia_Diffuse.png]
+[2026.02.19-02.26.12:451][970]LogInterchangeEngine: [Pendente] Importando -  (2)
+[2026.02.19-02.26.12:451][970]LogInterchangeEngine: Display: Interchange start importing source [D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/T_Areia_NormalMap.png]
+[2026.02.19-02.26.12:644][972]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-02.26.12:713][974]LogTexture: Display: Texturas de compilação: /Game/Textures/T_Areia_Diffuse.T_Areia_Diffuse (TFO_AutoDXT, 1024X1024 X1X1X1) (Memória necessária estimada: 115.583323 MB), EncodeSpeed: Fast
+[2026.02.19-02.26.12:728][974]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.02.19-02.26.12:732][975]LogTexture: Display: Texturas de compilação: /Game/Textures/T_Areia_NormalMap.T_Areia_NormalMap (TFO_BC5, 1024X1024 X1X1X1) (Memória necessária estimada: 169.499988 MB), EncodeSpeed: Fast
+[2026.02.19-02.26.12:907][976]LogInterchangeEngine: Display: Interchange import completed [D:/Arquivos/Document.../start/Medieval (UE)/T_Areia_Diffuse.png]
+[2026.02.19-02.26.12:907][976]LogInterchangeEngine: [Pendente] Importando -  (1)
+[2026.02.19-02.26.12:907][976]LogInterchangeEngine: Display: Interchange import completed [D:/Arquivos/Document.../start/Medieval (UE)/T_Areia_NormalMap.png]
+[2026.02.19-02.26.12:917][976]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2026.02.19-02.26.12:917][976]LogInterchangeEngine: [Sucesso] Importação concluída
+[2026.02.19-02.26.13:041][977]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 86974
+[2026.02.19-02.26.13:041][977]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.19-02.26.13:053][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.26.27:266][538]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/T_Areia_Diffuse.T_Areia_Diffuse
+[2026.02.19-02.26.28:241][538]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.02.19-02.26.28:250][538]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.02.19-02.26.28:250][538]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.02.19-02.26.28:250][538]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.02.19-02.26.30:704][644]LogSlate: Window 'T_Areia_Diffuse' being destroyed
+[2026.02.19-02.26.30:714][644]LogSlate: Window 'T_Areia_Diffuse' being destroyed
+[2026.02.19-02.26.51:552][560]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materiais/I_Terreno.I_Terreno
+[2026.02.19-02.26.52:084][560]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.19-02.27.07:892][195]LogSlate: Window 'I_Terreno' being destroyed
+[2026.02.19-02.27.07:907][195]LogSlate: Window 'I_Terreno' being destroyed
+[2026.02.19-02.27.08:024][195]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.27.08:024][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.27.08:254][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-02.27.10:663][314]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materiais/M_Terreno.M_Terreno
+[2026.02.19-02.27.10:744][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.19-02.27.11:838][314]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.27.11:839][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.27.11:839][314]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.27.11:839][314]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.27.11:881][314]LogSlate: Took 0.010404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.27.12:320][316]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.27.49:205][589]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.27.49:205][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.27.49:205][589]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.27.49:205][589]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.27.49:474][590]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.27.51:966][687]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-02.28.26:413][261]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.28.26:414][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.26:414][261]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.28.26:414][261]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.28.26:617][262]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.28.34:942][627]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.28.34:943][627]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.34:943][627]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.28.34:943][627]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.28.35:176][629]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.28.45:832][ 58]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.28.45:832][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.45:832][ 58]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.28.45:832][ 58]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.28.45:999][ 61]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.28.46:000][ 61]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.28.46:000][ 61]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.28.46:000][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.28.46:000][ 61]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.28.46:000][ 61]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.20:010][439]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.29.20:010][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.20:010][439]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.29.20:010][439]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.29.20:162][442]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.40:033][342]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.29.40:033][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.40:033][342]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.29.40:033][342]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.29.40:243][343]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Total job queries 1.719, among them cache hits 295 (17.16%), DDC hits 1.082 (62.94%), Duplicates 296 (17.22%)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Tracking 1.128 distinct input hashes that result in 750 distinct outputs (66.49%)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: RAM used: 7,84 MiB of 819,20 MiB budget. Usage: 0.96%
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Shaders Compiled: 46
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100%)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Average time worker was idle: 3807.16 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 0.60 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Job execution time: average 3.73 s, max 7.90 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Job life time (pending + execution): average 4.05 s, max 8.45
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Shader code size: total 387,67 KiB, numShaders 48, average 8,076 KiB, min 3,719 KiB, max 17,076 KiB
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.31 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.53 jobs/batch
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Total thread time: 54,563 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Total thread preprocess time: 37,052 s
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Percentage time preprocessing: 67.91%
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.305722
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 3.02 sec, max 3.02 sec, min 3.02 sec)
+[2026.02.19-02.29.42:161][419]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.53% of total time (compiled   18 times, average 0.90 sec, max 1.53 sec, min 0.59 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.48% of total time (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.44% of total time (compiled    4 times, average 0.88 sec, max 1.11 sec, min 0.65 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.62% of total time (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.54% of total time (compiled    1 times, average 3.02 sec, max 3.02 sec, min 3.02 sec)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Materials Translated:    296
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Material Total Translate Time: 0.57 s
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Material Translation Only: 0.22 s (38%)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: Material Cache Hits: 55 (19%)
+[2026.02.19-02.29.42:162][419]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.29.48:310][677]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.29.48:310][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.48:310][677]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.29.48:310][677]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.29.48:369][678]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.29.59:973][212]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.29.59:973][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.29.59:973][212]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.29.59:973][212]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.30.00:184][215]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.30.00:184][215]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.30.00:185][215]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.30.00:185][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.30.00:185][215]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.30.00:185][215]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.30.13:392][801]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-02.30.13:392][801]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.30.13:392][801]MaterialEditorStats: Shader Count: 0
+[2026.02.19-02.30.13:392][801]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Base pass shader: 169 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Shader Count: 5
+[2026.02.19-02.30.13:539][804]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-02.30.48:536][459]LogMaterialEditor: Saving and Compiling material M_Terreno
+[2026.02.19-02.30.49:866][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-02.30.51:630][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.19-02.30.51:653][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.30.51:741][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materiais/M_Terreno] ([1] browsable assets)...
+[2026.02.19-02.30.51:808][459]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materiais/M_Terreno.M_Terreno]
+[2026.02.19-02.30.51:808][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materiais/M_Terreno]
+[2026.02.19-02.30.51:808][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiais/M_Terreno" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Materiais/M_Terreno.uasset" SILENT=true
+[2026.02.19-02.30.51:828][459]LogSavePackage: Moving output files for package: /Game/Materiais/M_Terreno
+[2026.02.19-02.30.51:829][459]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Terreno39EA55954986CC1DD8B7E987B2EE8A82.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Materiais/M_Terreno.uasset'
+[2026.02.19-02.30.51:879][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.546 ms (total: 5.11 sec)
+[2026.02.19-02.30.51:939][459]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-02.30.51:939][459]LogContentValidation: Enabled validators:
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.30.51:939][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.30.51:939][459]AssetCheck: /Game/Materiais/M_Terreno Validando ativo
+[2026.02.19-02.30.58:621][748]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a3dcd56ff51e3b34edd870ad1760617dafe1f1f3), compiling. Is special engine material.
+[2026.02.19-02.31.23:472][696]LogSlate: Window 'Novo objeto de informações de camada da paisagem' being destroyed
+[2026.02.19-02.31.23:494][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11119.611328
+[2026.02.19-02.31.23:738][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.31.23:738][707]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11119.833008, Update Interval: 302.466492
+[2026.02.19-02.32.03:465][342]Cmd: TRANSACTION UNDO
+[2026.02.19-02.32.03:465][342]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.32.03:528][342]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.19-02.32.03:560][342]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.19-02.32.03:570][342]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.19-02.32.03:581][342]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.02.19-02.32.03:581][342]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.02.19-02.32.03:581][342]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.19-02.32.03:591][342]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.02.19-02.32.13:093][796]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: fde7e4d38c15fc4cac1a06e4f54c58fe250d113c), compiling. Is special engine material.
+[2026.02.19-02.32.19:939][ 50]LogSlate: Window 'Message' being destroyed
+[2026.02.19-02.32.19:970][ 50]Message dialog closed, result: Yes, title: Message, text: Tem certeza de que deseja excluir esta camada?
+[2026.02.19-02.32.26:683][337]LogSlate: Window 'Novo objeto de informações de camada da paisagem' being destroyed
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Total job queries 1.993, among them cache hits 507 (25.44%), DDC hits 1.101 (55.24%), Duplicates 311 (15.60%)
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Tracking 1.175 distinct input hashes that result in 766 distinct outputs (65.19%)
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: RAM used: 7,92 MiB of 819,20 MiB budget. Usage: 0.97%
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Shaders Compiled: 49
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Jobs assigned 64, completed 49 (76.56%)
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Average time worker was idle: 2600.77 s
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.60 s
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Job execution time: average 3.58 s, max 7.90 s
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Job life time (pending + execution): average 3.89 s, max 8.45
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Shader code size: total 417,044 KiB, numShaders 51, average 8,177 KiB, min 3,719 KiB, max 17,076 KiB
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.87 s
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.19-02.32.42:172][167]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.52 jobs/batch
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Total thread time: 57,683 s
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Total thread preprocess time: 41,812 s
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Percentage time preprocessing: 72.49%
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.302053
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 2.16 sec, max 3.02 sec, min 1.30 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.60 sec, max 1.60 sec, min 1.60 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.93% of total time (compiled   18 times, average 0.90 sec, max 1.53 sec, min 0.59 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.49% of total time (compiled    2 times, average 2.16 sec, max 3.02 sec, min 1.30 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.08% of total time (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.09% of total time (compiled    4 times, average 0.88 sec, max 1.11 sec, min 0.65 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.32% of total time (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Materials Translated:    312
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Material Total Translate Time: 0.59 s
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Material Translation Only: 0.23 s (39%)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: Material Cache Hits: 55 (18%)
+[2026.02.19-02.32.42:173][167]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.32.54:970][711]Cmd: TRANSACTION UNDO
+[2026.02.19-02.32.54:970][711]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.32.54:993][711]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.32.55:802][729]Cmd: TRANSACTION UNDO
+[2026.02.19-02.32.55:802][729]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.32.55:851][729]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.32.56:404][751]Cmd: TRANSACTION UNDO
+[2026.02.19-02.32.56:404][751]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.32.56:442][751]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.32.56:442][751]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.32.56:442][751]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.32.56:442][751]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.33.22:058][226]Cmd: TRANSACTION UNDO
+[2026.02.19-02.33.22:058][226]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.33.22:066][226]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.33.25:511][362]Cmd: TRANSACTION UNDO
+[2026.02.19-02.33.25:511][362]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.33.46:024][539]Cmd: TRANSACTION UNDO
+[2026.02.19-02.33.46:024][539]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.33.46:035][539]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.33.47:606][582]Cmd: TRANSACTION UNDO
+[2026.02.19-02.33.47:606][582]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.33.57:605][248]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_0 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.33.57:894][249]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_1 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.06:930][562]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.06:930][562]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.06:951][562]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.17:001][102]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.17:001][102]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.17:010][102]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.37:062][341]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.37:062][341]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.37:071][341]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.37:552][347]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.37:552][347]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.37:560][347]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.37:928][360]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.37:928][360]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.38:165][365]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.38:165][365]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.38:191][365]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.38:192][365]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_0 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.38:384][369]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.38:384][369]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.38:401][369]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.38:401][369]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.38:401][369]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.38:401][369]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.38:413][369]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.38:627][374]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.38:627][374]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.38:865][383]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.38:865][383]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.38:907][383]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_8 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.34.39:107][388]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.39:107][388]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.39:330][393]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.39:330][393]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.34.39:349][393]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.39:350][393]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.39:350][393]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.39:350][393]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0 : the proxy's root component isn't properly set or registered
+[2026.02.19-02.34.39:707][404]Cmd: TRANSACTION UNDO
+[2026.02.19-02.34.39:707][404]LogEditorTransaction: Undo Criando nova camada da paisagem
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Total job queries 2.031, among them cache hits 517 (25.46%), DDC hits 1.101 (54.21%), Duplicates 320 (15.76%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Tracking 1.194 distinct input hashes that result in 786 distinct outputs (65.83%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: RAM used: 8,17 MiB of 819,20 MiB budget. Usage: 1.00%
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Shaders Compiled: 93
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Jobs assigned 93, completed 93 (100%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Average time worker was idle: 1517.04 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 3.23 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Job execution time: average 3.24 s, max 7.90 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Job life time (pending + execution): average 3.79 s, max 8.45
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Shader code size: total 940,685 KiB, numShaders 95, average 9,901 KiB, min 2,105 KiB, max 28,184 KiB
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.60 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.41 jobs/batch
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Average processing rate: 2.61 jobs/sec
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Total thread time: 122,27 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Total thread preprocess time: 43,488 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Percentage time preprocessing: 35.57%
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.429289
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 3.05 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 2.31 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    5 times, average 2.05 sec, max 2.60 sec, min 1.15 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.09% of total time (compiled   22 times, average 0.95 sec, max 1.65 sec, min 0.59 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.95% of total time (compiled    6 times, average 3.05 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.45% of total time (compiled    5 times, average 2.31 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.37% of total time (compiled    5 times, average 2.05 sec, max 2.60 sec, min 1.15 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.88% of total time (compiled   10 times, average 0.84 sec, max 1.13 sec, min 0.57 sec)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Materials Translated:    313
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Material Total Translate Time: 0.59 s
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Material Translation Only: 0.23 s (39%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: Material Cache Hits: 55 (18%)
+[2026.02.19-02.35.42:184][451]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.36.17:545][470]Cmd: TRANSACTION UNDO
+[2026.02.19-02.36.17:545][470]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.36.17:561][470]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_47 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.36.27:291][996]Cmd: TRANSACTION UNDO
+[2026.02.19-02.36.27:291][996]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.36.27:301][996]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_47 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.36.37:251][524]Cmd: TRANSACTION UNDO
+[2026.02.19-02.36.37:251][524]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.36.57:328][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11453.448242
+[2026.02.19-02.36.57:576][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.36.57:578][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11453.677734, Update Interval: 345.647766
+[2026.02.19-02.38.09:304][854]Cmd: TRANSACTION UNDO
+[2026.02.19-02.38.09:304][854]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.38.09:313][854]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_3 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Total job queries 2.067, among them cache hits 519 (25.11%), DDC hits 1.101 (53.27%), Duplicates 329 (15.92%)
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Tracking 1.219 distinct input hashes that result in 796 distinct outputs (65.30%)
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: RAM used: 8,29 MiB of 819,20 MiB budget. Usage: 1.01%
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Shaders Compiled: 118
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Jobs assigned 118, completed 118 (100%)
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Average time worker was idle: 1180.56 s
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Time job spent in pending queue: average 0.61 s, longest 3.35 s
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Job execution time: average 3.13 s, max 7.90 s
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Job life time (pending + execution): average 3.74 s, max 8.45
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Shader code size: total 1,201 MiB, numShaders 120, average 10,253 KiB, min 2,105 KiB, max 28,184 KiB
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.97 s
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Jobs were issued in 84 batches (only local compilation was used), average 1.40 jobs/batch
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Average processing rate: 2.88 jobs/sec
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Total thread time: 156,596 s
+[2026.02.19-02.38.42:188][321]LogShaderCompilers: Display: Total thread preprocess time: 44,337 s
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Percentage time preprocessing: 28.31%
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Effective parallelization: 3.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.477766
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 3.14 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 2.36 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    7 times, average 2.20 sec, max 2.63 sec, min 1.15 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.05% of total time (compiled    8 times, average 3.14 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.76% of total time (compiled   24 times, average 0.96 sec, max 1.65 sec, min 0.59 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.56% of total time (compiled    7 times, average 2.36 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.82% of total time (compiled    7 times, average 2.20 sec, max 2.63 sec, min 1.15 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.79% of total time (compiled   13 times, average 0.82 sec, max 1.13 sec, min 0.51 sec)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Materials Translated:    314
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Material Total Translate Time: 0.60 s
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Material Translation Only: 0.23 s (39%)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: Material Cache Hits: 55 (18%)
+[2026.02.19-02.38.42:189][321]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.40.23:744][872]Cmd: TRANSACTION UNDO
+[2026.02.19-02.40.23:744][872]LogEditorTransaction: Undo Edição de Paisagem: Pintar
+[2026.02.19-02.40.23:754][872]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_47 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Total job queries 2.102, among them cache hits 520 (24.74%), DDC hits 1.101 (52.38%), Duplicates 338 (16.08%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Tracking 1.244 distinct input hashes that result in 806 distinct outputs (64.79%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: RAM used: 8,41 MiB of 819,20 MiB budget. Usage: 1.03%
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Shaders Compiled: 143
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Jobs assigned 143, completed 143 (100%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Average time worker was idle: 978.65 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 3.35 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Job execution time: average 3.00 s, max 7.90 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Job life time (pending + execution): average 3.63 s, max 8.45
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Shader code size: total 1,473 MiB, numShaders 145, average 10,4 KiB, min 2,105 KiB, max 28,184 KiB
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.14 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Jobs were issued in 101 batches (only local compilation was used), average 1.42 jobs/batch
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Average processing rate: 3.10 jobs/sec
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Total thread time: 184,465 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Total thread preprocess time: 45,312 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Percentage time preprocessing: 24.56%
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Effective parallelization: 4.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.499780
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.07 sec, max 3.07 sec, min 3.07 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 3.05 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 2.27 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    9 times, average 2.15 sec, max 2.63 sec, min 1.15 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.04 sec, max 2.25 sec, min 1.83 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.55% of total time (compiled   10 times, average 3.05 sec, max 4.46 sec, min 1.30 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.62% of total time (compiled   26 times, average 0.97 sec, max 1.65 sec, min 0.59 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.09% of total time (compiled    9 times, average 2.27 sec, max 2.64 sec, min 1.30 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.49% of total time (compiled    9 times, average 2.15 sec, max 2.63 sec, min 1.15 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.80% of total time (compiled   16 times, average 0.78 sec, max 1.13 sec, min 0.45 sec)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Materials Translated:    315
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Material Total Translate Time: 0.60 s
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Material Translation Only: 0.23 s (39%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: Material Cache Hits: 55 (17%)
+[2026.02.19-02.41.42:191][354]LogShaderCompilers: Display: ================================================
+[2026.02.19-02.43.19:607][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11835.828125
+[2026.02.19-02.43.20:044][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.43.20:044][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11836.247070, Update Interval: 309.366119
+[2026.02.19-02.44.21:980][365]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.02.19-02.44.22:336][365]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.19-02.44.22:336][365]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.19-02.44.22:427][365]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 91.111 ms
+[2026.02.19-02.44.22:539][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.19-02.44.22:681][365]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.19-02.44.22:682][365]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.19-02.44.22:683][365]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.19-02.44.22:977][365]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.19-02.44.23:297][365]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 319.917 ms
+[2026.02.19-02.44.23:300][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.616186s)
+[2026.02.19-02.44.23:300][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.616408s)
+[2026.02.19-02.44.23:334][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.19-02.44.23:351][365]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.19-02.44.23:376][365]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.19-02.44.23:376][365]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.19-02.44.23:376][365]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.19-02.44.23:376][365]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.19-02.44.23:424][365]LogWorldPartition: Display: WorldPartition initialize took 49.492 ms (total: 7.80 sec)
+[2026.02.19-02.44.23:425][365]LogPlayLevel: PIE: World Init took: (0.073951s)
+[2026.02.19-02.44.23:447][365]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.19-02.44.23:447][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.19-02.44.23:447][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.19-02.44.23:447][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.19-02.44.23:447][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.19-02.44.23:447][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.19-02.44.23:450][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.19-02.44.23:472][365]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2026.02.19-02.44.23:472][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.19-02.44.23:472][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.19-02.44.23:472][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.19-02.44.23:473][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.19-02.44.23:473][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.19-02.44.23:475][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.19-02.44.23:475][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.19-02.44.23:475][365]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.19-02.44.23:475][365]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.02.19-02.44.23:475][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.19-02.44.23:542][365]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.19-02.44.23:598][365]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.18-23.44.23
+[2026.02.19-02.44.23:603][365]LogWorld: Bringing up level for play took: 0.049840
+[2026.02.19-02.44.23:606][365]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.02.19-02.44.24:095][365]PIE: Servidor conectado
+[2026.02.19-02.44.24:108][365]PIE: Tempo inicial total de reprodução no editor: 1,846 s
+[2026.02.19-02.44.24:456][365]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.19-02.46.01:085][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-02.46.01:085][765]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.19-02.46.01:086][765]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.46.01:098][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.46.01:098][765]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.19-02.46.01:114][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.19-02.46.01:151][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.46.01:174][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.19-02.46.01:202][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.19-02.46.01:226][765]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.19-02.46.01:228][765]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.19-02.46.01:248][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-02.46.01:334][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.19-02.46.01:571][766]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.02.19-02.46.11:102][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.19-02.46.11:526][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto3
+[2026.02.19-02.46.11:527][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9_Auto37C7512FA4BD2B5FA0F6BBBA9BBB0DEF7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9_Auto3.uasset'
+[2026.02.19-02.46.11:564][273]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_47 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.46.11:566][273]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_3 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.46.11:639][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto3
+[2026.02.19-02.46.11:640][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto3E61A1E974545B0735CFA9E84B13C9B27.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto3.uasset'
+[2026.02.19-02.46.11:695][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/5N/VQOKA73SE1AO9JWGDPAVDS_Auto3
+[2026.02.19-02.46.11:696][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/VQOKA73SE1AO9JWGDPAVDS_Auto3B56C3B814F28C289CF0951888F1E9BFD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/5N/VQOKA73SE1AO9JWGDPAVDS_Auto3.uasset'
+[2026.02.19-02.46.11:701][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.622
+[2026.02.19-02.46.11:701][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.622
+[2026.02.19-02.46.11:702][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Laranjas] ([1] browsable assets)...
+[2026.02.19-02.46.11:702][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Laranjas]
+[2026.02.19-02.46.11:715][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Folhas_Laranjas_Auto3
+[2026.02.19-02.46.11:715][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_Laranjas_Auto35B3905774786C6251FC85399BA35DAFF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Folhas_Laranjas_Auto3.uasset'
+[2026.02.19-02.46.11:715][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Verdes] ([1] browsable assets)...
+[2026.02.19-02.46.11:715][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Verdes]
+[2026.02.19-02.46.11:729][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Folhas_Verdes_Auto3
+[2026.02.19-02.46.11:729][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_Verdes_Auto374BB2DC449CA533C5FA02DB82E9AD8CD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Folhas_Verdes_Auto3.uasset'
+[2026.02.19-02.46.11:730][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Flor_Vermelha_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.46.11:730][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Flor_Vermelha_FoliageType]
+[2026.02.19-02.46.11:742][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Flor_Vermelha_FoliageType_Auto3
+[2026.02.19-02.46.11:742][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Vermelha_FoliageType_Auto333A78CD94FDA6D27DB318481AD422FB6.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Flor_Vermelha_FoliageType_Auto3.uasset'
+[2026.02.19-02.46.11:743][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Amarela_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.46.11:743][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Amarela_FoliageType]
+[2026.02.19-02.46.11:752][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Amarela_FoliageType_Auto3
+[2026.02.19-02.46.11:752][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Amarela_FoliageType_Auto3AB689B364A3C8E3CDED3ACB4A6C9B31D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Amarela_FoliageType_Auto3.uasset'
+[2026.02.19-02.46.11:753][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Azul_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.46.11:753][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Azul_FoliageType]
+[2026.02.19-02.46.11:763][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Azul_FoliageType_Auto3
+[2026.02.19-02.46.11:763][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Azul_FoliageType_Auto3285563E641CF80855CB92E8FB620F166.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Azul_FoliageType_Auto3.uasset'
+[2026.02.19-02.46.11:764][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Rosa_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.46.11:764][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Rosa_FoliageType]
+[2026.02.19-02.46.11:773][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Foliage/Flor_Rosa_FoliageType_Auto3
+[2026.02.19-02.46.11:773][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Rosa_FoliageType_Auto3121710A343D7B6E14EED70A97BAA50B9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Foliage/Flor_Rosa_FoliageType_Auto3.uasset'
+[2026.02.19-02.46.11:774][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Areia_Diffuse] ([1] browsable assets)...
+[2026.02.19-02.46.11:777][273]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Areia_Diffuse.T_Areia_Diffuse]
+[2026.02.19-02.46.11:777][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Areia_Diffuse]
+[2026.02.19-02.46.11:797][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/T_Areia_Diffuse_Auto3
+[2026.02.19-02.46.11:797][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Areia_Diffuse_Auto3A0DF85AB427DD2B20FD3E7A4EC019CEF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Textures/T_Areia_Diffuse_Auto3.uasset'
+[2026.02.19-02.46.11:798][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_Areia_NormalMap] ([1] browsable assets)...
+[2026.02.19-02.46.11:800][273]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_Areia_NormalMap.T_Areia_NormalMap]
+[2026.02.19-02.46.11:800][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Areia_NormalMap]
+[2026.02.19-02.46.11:825][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/T_Areia_NormalMap_Auto3
+[2026.02.19-02.46.11:825][273]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Areia_NormalMap_Auto3C58BCAFD4B49ECF20E8E3A87E6654992.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Textures/T_Areia_NormalMap_Auto3.uasset'
+[2026.02.19-02.46.11:826][273]LogFileHelpers: Auto-saving content packages took 0.125
+[2026.02.19-02.47.46:221][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.47.46:323][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_0 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:324][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_2 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:325][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_20 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:326][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_21 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:326][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_22 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:326][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_23 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:328][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_4 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:329][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Heightmap_6 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:330][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_10 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:331][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_20 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:331][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_26 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:332][234]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_6 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.145824 MB), EncodeSpeed: Fast
+[2026.02.19-02.47.46:742][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9
+[2026.02.19-02.47.46:743][234]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9DA760960494ED45AEF6E7E952847B5C1.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9.uasset'
+[2026.02.19-02.47.46:952][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.02.19-02.47.46:952][234]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG1D7ADCEF4B155C3BD4A4D1B21050CD29.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.02.19-02.47.47:031][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E
+[2026.02.19-02.47.47:032][234]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9EB59BA52541F3F41EBD3551A5F6CA5527.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E.uasset'
+[2026.02.19-02.47.47:046][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/5N/VQOKA73SE1AO9JWGDPAVDS
+[2026.02.19-02.47.47:047][234]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/VQOKA73SE1AO9JWGDPAVDSA9852DD74942CC78A136599E5B864A1A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/5N/VQOKA73SE1AO9JWGDPAVDS.uasset'
+[2026.02.19-02.47.47:090][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 869.957 ms (total: 5.98 sec)
+[2026.02.19-02.47.47:163][234]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.19-02.47.47:163][234]LogContentValidation: Enabled validators:
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.47.47:163][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.47.47:163][234]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.19-02.47.49:261][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.19-02.47.50:690][338]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2026.02.19-02.47.50:723][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.47.50:795][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Amarela_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.47.50:797][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Amarela_FoliageType]
+[2026.02.19-02.47.50:808][338]LogSavePackage: Moving output files for package: /Game/Assets/Foliage/Flor_Amarela_FoliageType
+[2026.02.19-02.47.50:809][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Amarela_FoliageType0F9E2A1B48072F5495692597EB2E319D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Foliage/Flor_Amarela_FoliageType.uasset'
+[2026.02.19-02.47.50:810][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Azul_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.47.50:810][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Azul_FoliageType]
+[2026.02.19-02.47.50:822][338]LogSavePackage: Moving output files for package: /Game/Assets/Foliage/Flor_Azul_FoliageType
+[2026.02.19-02.47.50:823][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Azul_FoliageTypeD4E5856D4F54CEA82CB0FC8EA6BD1BD4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Foliage/Flor_Azul_FoliageType.uasset'
+[2026.02.19-02.47.50:824][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Foliage/Flor_Rosa_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.47.50:824][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Foliage/Flor_Rosa_FoliageType]
+[2026.02.19-02.47.50:835][338]LogSavePackage: Moving output files for package: /Game/Assets/Foliage/Flor_Rosa_FoliageType
+[2026.02.19-02.47.50:836][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Rosa_FoliageTypeF4CD6928432FE298CB275DA199AC903A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Foliage/Flor_Rosa_FoliageType.uasset'
+[2026.02.19-02.47.50:837][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Flor_Vermelha_FoliageType] ([1] browsable assets)...
+[2026.02.19-02.47.50:837][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Flor_Vermelha_FoliageType]
+[2026.02.19-02.47.50:837][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flor_Vermelha_FoliageType" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Flor_Vermelha_FoliageType.uasset" SILENT=true
+[2026.02.19-02.47.50:849][338]LogSavePackage: Moving output files for package: /Game/Assets/Flor_Vermelha_FoliageType
+[2026.02.19-02.47.50:874][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Flor_Vermelha_FoliageType44840E694F9B7B859419CF84B57135C7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Flor_Vermelha_FoliageType.uasset'
+[2026.02.19-02.47.50:875][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Laranjas] ([1] browsable assets)...
+[2026.02.19-02.47.50:875][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Laranjas]
+[2026.02.19-02.47.50:875][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Folhas_Laranjas" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Laranjas.uasset" SILENT=true
+[2026.02.19-02.47.50:888][338]LogSavePackage: Moving output files for package: /Game/Assets/Folhas_Laranjas
+[2026.02.19-02.47.50:888][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_Laranjas81222A43426D5BDD6130109255FCAED7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Laranjas.uasset'
+[2026.02.19-02.47.50:890][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Verdes] ([1] browsable assets)...
+[2026.02.19-02.47.50:890][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Verdes]
+[2026.02.19-02.47.50:890][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Folhas_Verdes" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Verdes.uasset" SILENT=true
+[2026.02.19-02.47.50:902][338]LogSavePackage: Moving output files for package: /Game/Assets/Folhas_Verdes
+[2026.02.19-02.47.50:902][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_VerdesD0D8958E48EEC95871AF59973B864B38.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Verdes.uasset'
+[2026.02.19-02.47.50:904][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/T_Areia_Diffuse] ([1] browsable assets)...
+[2026.02.19-02.47.50:904][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Areia_Diffuse]
+[2026.02.19-02.47.50:904][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Areia_Diffuse" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Areia_Diffuse.uasset" SILENT=true
+[2026.02.19-02.47.50:941][338]LogSavePackage: Moving output files for package: /Game/Textures/T_Areia_Diffuse
+[2026.02.19-02.47.50:941][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Areia_Diffuse2BDCBE02431339188E6B0F8DF3B552FC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Areia_Diffuse.uasset'
+[2026.02.19-02.47.50:943][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/T_Areia_NormalMap] ([1] browsable assets)...
+[2026.02.19-02.47.50:943][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Areia_NormalMap]
+[2026.02.19-02.47.50:944][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Areia_NormalMap" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Areia_NormalMap.uasset" SILENT=true
+[2026.02.19-02.47.50:983][338]LogSavePackage: Moving output files for package: /Game/Textures/T_Areia_NormalMap
+[2026.02.19-02.47.50:983][338]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Areia_NormalMapEEDC28024E726BF02EFEB4AAF06F600A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Areia_NormalMap.uasset'
+[2026.02.19-02.47.50:997][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.376 ms (total: 6.26 sec)
+[2026.02.19-02.47.51:090][338]LogStall: Shutdown...
+[2026.02.19-02.47.51:090][338]LogStall: Shutdown complete.
+[2026.02.19-02.47.51:186][338]LogSlate: Window 'M_Terreno' being destroyed
+[2026.02.19-02.47.51:296][338]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.47.51:296][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.47.51:364][338]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.02.19-02.47.51:902][338]LogContentValidation: Display: Starting to validate 8 assets
+[2026.02.19-02.47.51:902][338]LogContentValidation: Enabled validators:
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.47.51:902][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Foliage/Flor_Amarela_FoliageType Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Foliage/Flor_Azul_FoliageType Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Foliage/Flor_Rosa_FoliageType Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Flor_Vermelha_FoliageType Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Folhas_Laranjas Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Assets/Folhas_Verdes Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Textures/T_Areia_Diffuse Validando ativo
+[2026.02.19-02.47.51:903][338]AssetCheck: /Game/Textures/T_Areia_NormalMap Validando ativo
+[2026.02.19-02.47.51:971][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.19-02.47.52:008][338]Cmd: QUIT_EDITOR
+[2026.02.19-02.47.52:008][338]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.19-02.47.52:011][338]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-02.47.52:093][339]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.19-02.47.52:112][339]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.19-02.47.52:112][339]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.19-02.47.52:157][339]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.47.52:166][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.47.52:166][339]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.19-02.47.52:363][339]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.19-02.47.52:390][339]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.19-02.47.52:462][339]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.19-02.47.52:541][339]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.47.52:541][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.47.52:571][339]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.47.52:571][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.47.52:572][339]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.47.52:572][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.47.52:664][339]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.19-02.47.52:668][339]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.19-02.47.52:680][339]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.19-02.47.52:884][339]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.19-02.47.52:884][339]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.19-02.47.52:884][339]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.02.19-02.47.52:885][339]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.19-02.47.52:885][339]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.19-02.47.52:888][339]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.19-02.47.52:900][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.19-02.47.52:900][339]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.19-02.47.52:901][339]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.02.19-02.47.52:929][339]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.19-02.47.52:931][339]LogExit: Preparing to exit.
+[2026.02.19-02.47.53:269][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.19-02.47.54:483][339]LogEditorDataStorage: Deinitializing
+[2026.02.19-02.47.55:609][339]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.19-02.47.56:294][339]LogExit: Editor shut down
+[2026.02.19-02.47.56:304][339]LogExit: Transaction tracking system shut down
+[2026.02.19-02.48.01:160][339]LogExit: Object subsystem successfully closed.
+[2026.02.19-02.48.01:242][339]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.19-02.48.03:022][339]LogMemoryProfiler: Shutdown
+[2026.02.19-02.48.03:045][339]LogNetworkingProfiler: Shutdown
+[2026.02.19-02.48.03:045][339]LoadingProfiler: Shutdown
+[2026.02.19-02.48.03:045][339]LogTimingProfiler: Shutdown
+[2026.02.19-02.48.03:156][339]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.19-02.48.03:170][339]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.19-02.48.04:520][339]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.19-02.48.04:629][339]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.19-02.48.04:637][339]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92F06214-44D7-96BC-9DC6-0AA9BA70973D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.19-02.48.05:410][339]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.19-02.48.05:437][339]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.19-02.48.05:469][339]RenderDocPlugin: plugin has been unloaded.
+[2026.02.19-02.48.05:649][339]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.19-02.48.05:649][339]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.19-02.48.05:649][339]LogPakFile: Destroying PakPlatformFile
+[2026.02.19-02.48.06:416][339]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.19-02.48.06:627][339]LogExit: Exiting.
+[2026.02.19-02.48.06:668][339]Log file closed, 02/18/26 23:48:06

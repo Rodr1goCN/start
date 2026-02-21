@@ -3596,3 +3596,184 @@ Sampler Limit: 32
 [2026.02.20-23.46.05:182][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Materiais_Props/M_Folha_Chao_Auto6
 [2026.02.20-23.46.05:182][129]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Folha_Chao_Auto6C29833274AD41B5676A203B4DCF0B2BF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Materiais_Props/M_Folha_Chao_Auto6.uasset'
 [2026.02.20-23.46.05:183][129]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.20-23.51.16:021][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5164.996582
+[2026.02.20-23.51.17:021][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-23.51.17:021][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5165.663086, Update Interval: 301.007111
+[2026.02.20-23.56.58:406][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5507.386719
+[2026.02.20-23.56.59:406][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-23.56.59:406][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5508.053223, Update Interval: 301.001617
+[2026.02.21-00.02.56:782][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5865.785645
+[2026.02.21-00.02.57:783][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.02.57:783][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5866.452148, Update Interval: 330.667450
+[2026.02.21-00.09.21:496][420]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6250.520996
+[2026.02.21-00.09.22:495][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.09.22:495][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6251.187500, Update Interval: 334.642792
+[2026.02.21-00.15.42:551][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6631.587891
+[2026.02.21-00.15.43:552][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.15.43:552][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6632.255859, Update Interval: 309.765320
+[2026.02.21-00.21.29:940][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6978.998047
+[2026.02.21-00.21.30:939][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.21.30:939][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6979.664551, Update Interval: 318.475891
+[2026.02.21-00.26.59:563][594]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.21-00.27.30:318][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7339.405762
+[2026.02.21-00.27.31:317][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.27.31:317][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7340.072266, Update Interval: 315.390472
+[2026.02.21-00.33.32:363][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7701.454102
+[2026.02.21-00.33.33:363][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.33.33:363][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7702.120605, Update Interval: 321.504578
+[2026.02.21-00.39.50:419][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8079.522461
+[2026.02.21-00.39.51:419][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.39.51:419][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8080.188965, Update Interval: 325.478088
+[2026.02.21-00.45.49:127][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8438.101562
+[2026.02.21-00.45.50:127][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.45.50:128][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8438.767578, Update Interval: 357.590271
+[2026.02.21-00.52.46:193][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8854.960938
+[2026.02.21-00.52.47:193][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.52.47:193][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8855.627930, Update Interval: 336.400635
+[2026.02.21-00.59.12:911][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9241.503906
+[2026.02.21-00.59.13:911][396]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-00.59.13:911][396]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9242.169922, Update Interval: 318.633392
+[2026.02.21-01.05.25:632][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9614.027344
+[2026.02.21-01.05.26:633][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-01.05.26:633][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9614.694336, Update Interval: 316.582550
+[2026.02.21-01.09.41:662][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Folhas_Laranjas.Folhas_Laranjas
+[2026.02.21-01.09.41:662][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Folhas_Laranjas.Folhas_Laranjas
+[2026.02.21-01.09.41:663][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Folhas_Laranjas.Folhas_Laranjas as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_1
+[2026.02.21-01.09.47:387][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.21-01.09.47:395][104]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.02.21-01.10.19:083][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.21-01.10.19:104][789]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AS/6YROI5BQ7S3ZO1NVENVBW0_Auto7
+[2026.02.21-01.10.19:104][789]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6YROI5BQ7S3ZO1NVENVBW0_Auto706C44A4F474E93976DC5B6BCFB4C99C7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AS/6YROI5BQ7S3ZO1NVENVBW0_Auto7.uasset'
+[2026.02.21-01.10.19:105][789]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.043
+[2026.02.21-01.10.19:105][789]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.02.21-01.11.20:450][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9968.886719
+[2026.02.21-01.11.20:694][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-01.11.20:694][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9969.109375, Update Interval: 352.250732
+[2026.02.21-01.18.02:184][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10370.603516
+[2026.02.21-01.18.03:177][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-01.18.03:177][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10371.264648, Update Interval: 320.568878
+[2026.02.21-01.18.10:578][462]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Folhas_Laranjas.Folhas_Laranjas
+[2026.02.21-01.18.10:667][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.21-01.18.25:443][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-01.18.25:515][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Folhas_Laranjas] ([1] browsable assets)...
+[2026.02.21-01.18.25:515][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Folhas_Laranjas]
+[2026.02.21-01.18.25:515][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Folhas_Laranjas" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Laranjas.uasset" SILENT=true
+[2026.02.21-01.18.25:529][826]LogSavePackage: Moving output files for package: /Game/Assets/Folhas_Laranjas
+[2026.02.21-01.18.25:530][826]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Folhas_LaranjasB127A8C2466323288536A0AFC7C05138.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Folhas_Laranjas.uasset'
+[2026.02.21-01.18.25:542][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.075 ms (total: 44.7 sec)
+[2026.02.21-01.18.25:614][826]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-01.18.25:614][826]LogContentValidation: Enabled validators:
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-01.18.25:614][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-01.18.25:614][826]AssetCheck: /Game/Assets/Folhas_Laranjas Validando ativo
+[2026.02.21-01.18.41:795][993]LogSlate: Window 'Folhas_Laranjas' being destroyed
+[2026.02.21-01.18.41:901][993]LogSlate: Window 'Folhas_Laranjas' being destroyed
+[2026.02.21-01.18.41:964][993]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.18.41:964][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.18.42:029][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.21-01.19.01:164][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-01.19.01:262][165]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/Z8/ZG0DVYNLH6W4FVSH259451
+[2026.02.21-01.19.01:262][165]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZG0DVYNLH6W4FVSH259451404850984CAC0DE6E72D9DAFC3EA4369.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/Z8/ZG0DVYNLH6W4FVSH259451.uasset'
+[2026.02.21-01.19.01:276][165]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AS/6YROI5BQ7S3ZO1NVENVBW0
+[2026.02.21-01.19.01:276][165]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6YROI5BQ7S3ZO1NVENVBW01C3814614074594824C9519AA2C88CF2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AS/6YROI5BQ7S3ZO1NVENVBW0.uasset'
+[2026.02.21-01.19.01:289][165]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/U0/YN4UC0BVHQ0ODH6F4HST6M
+[2026.02.21-01.19.01:290][165]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/YN4UC0BVHQ0ODH6F4HST6M96EB395F467CE32ED5732D83842DC560.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/U0/YN4UC0BVHQ0ODH6F4HST6M.uasset'
+[2026.02.21-01.19.01:301][165]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/8Q/U62Z4AITXZHNI2O5IY0AOJ
+[2026.02.21-01.19.01:301][165]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/U62Z4AITXZHNI2O5IY0AOJ08568098406857F9B2CED698CEE99216.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/8Q/U62Z4AITXZHNI2O5IY0AOJ.uasset'
+[2026.02.21-01.19.01:317][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.586 ms (total: 44.9 sec)
+[2026.02.21-01.19.01:381][165]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.21-01.19.01:381][165]LogContentValidation: Enabled validators:
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-01.19.01:381][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-01.19.01:381][165]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.02.21-01.19.01:410][165]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-01.19.04:502][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.21-01.19.07:181][303]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2026.02.21-01.19.07:220][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-01.19.07:280][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Materiais_Props/M_Folha_Chao] ([1] browsable assets)...
+[2026.02.21-01.19.07:280][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materiais_Props/M_Folha_Chao]
+[2026.02.21-01.19.07:293][303]LogSavePackage: Moving output files for package: /Game/Assets/Materiais_Props/M_Folha_Chao
+[2026.02.21-01.19.07:293][303]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Folha_ChaoCE9D57E246AD26B642FA85A9C7D78320.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Materiais_Props/M_Folha_Chao.uasset'
+[2026.02.21-01.19.07:295][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Materiais_Props/M_Folha_Chao_Inst] ([1] browsable assets)...
+[2026.02.21-01.19.07:295][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materiais_Props/M_Folha_Chao_Inst]
+[2026.02.21-01.19.07:307][303]LogSavePackage: Moving output files for package: /Game/Assets/Materiais_Props/M_Folha_Chao_Inst
+[2026.02.21-01.19.07:307][303]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/M_Folha_Chao_Inst3516697E40508C13A8BA48ABA2B1D0F9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Materiais_Props/M_Folha_Chao_Inst.uasset'
+[2026.02.21-01.19.07:309][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Planta_lago_01] ([1] browsable assets)...
+[2026.02.21-01.19.07:309][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Planta_lago_01]
+[2026.02.21-01.19.07:309][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Planta_lago_01" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Planta_lago_01.uasset" SILENT=true
+[2026.02.21-01.19.07:322][303]LogSavePackage: Moving output files for package: /Game/Assets/Planta_lago_01
+[2026.02.21-01.19.07:322][303]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Planta_lago_014154506440D53835B86CBE96ED066512.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Planta_lago_01.uasset'
+[2026.02.21-01.19.07:324][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Planta_lago_02] ([1] browsable assets)...
+[2026.02.21-01.19.07:324][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Planta_lago_02]
+[2026.02.21-01.19.07:324][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Planta_lago_02" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Planta_lago_02.uasset" SILENT=true
+[2026.02.21-01.19.07:338][303]LogSavePackage: Moving output files for package: /Game/Assets/Planta_lago_02
+[2026.02.21-01.19.07:338][303]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Planta_lago_020D7F055A45739CE2DD24A7980E94808F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Planta_lago_02.uasset'
+[2026.02.21-01.19.07:340][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/T_Folhas_Diffuso] ([1] browsable assets)...
+[2026.02.21-01.19.07:340][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_Folhas_Diffuso]
+[2026.02.21-01.19.07:340][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Folhas_Diffuso" FILE="D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Folhas_Diffuso.uasset" SILENT=true
+[2026.02.21-01.19.07:393][303]LogSavePackage: Moving output files for package: /Game/Textures/T_Folhas_Diffuso
+[2026.02.21-01.19.07:393][303]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Folhas_DiffusoDB7626C44BCB2F57D894C28ADDE19696.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Textures/T_Folhas_Diffuso.uasset'
+[2026.02.21-01.19.07:405][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.686 ms (total: 45.0 sec)
+[2026.02.21-01.19.07:549][303]LogStall: Shutdown...
+[2026.02.21-01.19.07:559][303]LogStall: Shutdown complete.
+[2026.02.21-01.19.07:788][303]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.02.21-01.19.08:917][303]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.21-01.19.08:917][303]LogContentValidation: Enabled validators:
+[2026.02.21-01.19.08:917][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-01.19.08:917][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-01.19.08:918][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-01.19.08:918][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-01.19.08:918][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-01.19.08:918][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-01.19.08:918][303]AssetCheck: /Game/Assets/Materiais_Props/M_Folha_Chao Validando ativo
+[2026.02.21-01.19.08:918][303]AssetCheck: /Game/Assets/Materiais_Props/M_Folha_Chao_Inst Validando ativo
+[2026.02.21-01.19.08:918][303]AssetCheck: /Game/Assets/Planta_lago_01 Validando ativo
+[2026.02.21-01.19.08:918][303]AssetCheck: /Game/Assets/Planta_lago_02 Validando ativo
+[2026.02.21-01.19.08:918][303]AssetCheck: /Game/Textures/T_Folhas_Diffuso Validando ativo
+[2026.02.21-01.19.08:921][303]Cmd: QUIT_EDITOR
+[2026.02.21-01.19.08:921][303]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.21-01.19.08:923][303]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-01.19.09:055][304]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.21-01.19.09:106][304]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.21-01.19.09:115][304]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.21-01.19.09:460][304]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.19.09:508][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.19.09:508][304]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.21-01.19.09:983][304]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.21-01.19.10:007][304]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.21-01.19.10:133][304]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.21-01.19.10:360][304]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.19.10:360][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.19.10:360][304]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.19.10:360][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.19.10:474][304]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.19.10:474][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.19.10:474][304]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-01.19.10:475][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-01.19.10:632][304]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.21-01.19.10:647][304]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.21-01.19.10:710][304]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.21-01.19.10:882][304]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.21-01.19.10:882][304]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.21-01.19.10:887][304]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.02.21-01.19.10:924][304]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.21-01.19.11:023][304]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.21-01.19.11:032][304]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.21-01.19.11:048][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.21-01.19.11:048][304]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.21-01.19.11:053][304]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.02.21-01.19.11:105][304]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.21-01.19.11:126][304]LogExit: Preparing to exit.
+[2026.02.21-01.19.12:066][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.21-01.19.13:009][304]LogEditorDataStorage: Deinitializing
+[2026.02.21-01.19.15:094][304]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.21-01.19.16:631][304]LogExit: Editor shut down
+[2026.02.21-01.19.16:657][304]LogExit: Transaction tracking system shut down

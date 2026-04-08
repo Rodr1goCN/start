@@ -5869,3 +5869,172 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.08-03.32.22:229][347]LogEditorTransaction: Undo Mover Elementos
 [2026.04.08-03.32.22:614][375]Cmd: TRANSACTION UNDO
 [2026.04.08-03.32.22:614][375]LogEditorTransaction: Undo Mover Elementos
+[2026.04.08-03.33.41:037][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.08-03.33.41:314][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/MF/RN8QX0K6M4TPBG2AJ6L4NL_Auto7
+[2026.04.08-03.33.41:315][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/RN8QX0K6M4TPBG2AJ6L4NL_Auto7076C4C854A2523F51E5C978062CB8DDD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/MF/RN8QX0K6M4TPBG2AJ6L4NL_Auto7.uasset'
+[2026.04.08-03.33.41:327][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/F/4Z/IZVXDJOOQ3XYUMHLX7VJW1_Auto7
+[2026.04.08-03.33.41:328][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IZVXDJOOQ3XYUMHLX7VJW1_Auto782422E6E414838FD22B569BD97B0BF32.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/F/4Z/IZVXDJOOQ3XYUMHLX7VJW1_Auto7.uasset'
+[2026.04.08-03.33.41:378][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/TR/IKRWAMDJD943LHHQIJ1MNK_Auto7
+[2026.04.08-03.33.41:378][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IKRWAMDJD943LHHQIJ1MNK_Auto7C3FE8AE64C0E940FEC9867B17FFDA9CE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/TR/IKRWAMDJD943LHHQIJ1MNK_Auto7.uasset'
+[2026.04.08-03.33.41:389][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/6/UV/VQN5NGZJMM32ZHM3QYM0A0_Auto7
+[2026.04.08-03.33.41:390][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/VQN5NGZJMM32ZHM3QYM0A0_Auto74EB42E58447B0158DC1EC2A8C0FB315E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/6/UV/VQN5NGZJMM32ZHM3QYM0A0_Auto7.uasset'
+[2026.04.08-03.33.41:401][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PM/Y9HH0F8SIUL8L2LCD715OP_Auto7
+[2026.04.08-03.33.41:401][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Y9HH0F8SIUL8L2LCD715OP_Auto7C0ABFE334B9D22E8332EADAA54A89A3C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PM/Y9HH0F8SIUL8L2LCD715OP_Auto7.uasset'
+[2026.04.08-03.33.41:414][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/P8/PCNEON6TEMBY0CF8L980VW_Auto7
+[2026.04.08-03.33.41:414][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PCNEON6TEMBY0CF8L980VW_Auto71F42C49E418899B76B8C848097C3F72F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/P8/PCNEON6TEMBY0CF8L980VW_Auto7.uasset'
+[2026.04.08-03.33.41:425][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/RR/PTGUI4OW5YDS14KRSWRSE8_Auto7
+[2026.04.08-03.33.41:425][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PTGUI4OW5YDS14KRSWRSE8_Auto7AA6365844228F219A8A324A1AF990580.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/RR/PTGUI4OW5YDS14KRSWRSE8_Auto7.uasset'
+[2026.04.08-03.33.41:436][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/A3/XQ3BMVVFVMMYWZCVGLUVF9_Auto7
+[2026.04.08-03.33.41:436][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/XQ3BMVVFVMMYWZCVGLUVF9_Auto747405C124FA61CC87F034EBDC2745FB8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/A3/XQ3BMVVFVMMYWZCVGLUVF9_Auto7.uasset'
+[2026.04.08-03.33.41:444][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.433
+[2026.04.08-03.33.41:444][468]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.433
+[2026.04.08-03.33.41:444][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2] ([1] browsable assets)...
+[2026.04.08-03.33.41:444][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2]
+[2026.04.08-03.33.41:455][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2_Auto7
+[2026.04.08-03.33.41:455][468]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Casa_Ricos_Muralha_Telhado_03_9F244FA549C90F135FFD90BD1DF0AC5B.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2_Auto7.uasset'
+[2026.04.08-03.33.41:456][468]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.04.08-03.33.55:102][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.08-03.33.55:228][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.08-03.33.55:253][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.08-03.33.55:275][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.08-03.33.55:287][574]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/MF/RN8QX0K6M4TPBG2AJ6L4NL
+[2026.04.08-03.33.55:288][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/RN8QX0K6M4TPBG2AJ6L4NL71633D404F8D3E66F102DBA4F0352214.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/MF/RN8QX0K6M4TPBG2AJ6L4NL.uasset'
+[2026.04.08-03.33.55:299][574]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/F/4Z/IZVXDJOOQ3XYUMHLX7VJW1
+[2026.04.08-03.33.55:299][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IZVXDJOOQ3XYUMHLX7VJW198BDBFAB498364490A241FA55BFF60D1.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/F/4Z/IZVXDJOOQ3XYUMHLX7VJW1.uasset'
+[2026.04.08-03.33.55:311][574]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/TR/IKRWAMDJD943LHHQIJ1MNK
+[2026.04.08-03.33.55:312][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IKRWAMDJD943LHHQIJ1MNK47F03EA64E04F89A826A1D9CA1E6705D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/TR/IKRWAMDJD943LHHQIJ1MNK.uasset'
+[2026.04.08-03.33.55:323][574]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/6/UV/VQN5NGZJMM32ZHM3QYM0A0
+[2026.04.08-03.33.55:323][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/VQN5NGZJMM32ZHM3QYM0A06DE957F74A3B3B4111BAC48979853DB5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/6/UV/VQN5NGZJMM32ZHM3QYM0A0.uasset'
+[2026.04.08-03.33.55:335][574]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PM/Y9HH0F8SIUL8L2LCD715OP
+[2026.04.08-03.33.55:335][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Y9HH0F8SIUL8L2LCD715OPCA611A474A03BAC8D559F0AA4E4D539A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PM/Y9HH0F8SIUL8L2LCD715OP.uasset'
+[2026.04.08-03.33.55:347][574]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/P8/PCNEON6TEMBY0CF8L980VW
+[2026.04.08-03.33.55:347][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PCNEON6TEMBY0CF8L980VW3DE9D9214EDE2B9417200B8F0580A2FB.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/P8/PCNEON6TEMBY0CF8L980VW.uasset'
+[2026.04.08-03.33.55:403][574]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/RR/PTGUI4OW5YDS14KRSWRSE8
+[2026.04.08-03.33.55:404][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PTGUI4OW5YDS14KRSWRSE8B433495E4CEC8047DAC8899209DDD416.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/RR/PTGUI4OW5YDS14KRSWRSE8.uasset'
+[2026.04.08-03.33.55:415][574]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/A3/XQ3BMVVFVMMYWZCVGLUVF9
+[2026.04.08-03.33.55:415][574]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/XQ3BMVVFVMMYWZCVGLUVF9CDE5CE2F47CC7FBC42E943B5B5A7BAF5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/D/A3/XQ3BMVVFVMMYWZCVGLUVF9.uasset'
+[2026.04.08-03.33.55:427][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 325.347 ms (total: 21.0 sec)
+[2026.04.08-03.33.55:495][574]LogContentValidation: Display: Starting to validate 8 assets
+[2026.04.08-03.33.55:495][574]LogContentValidation: Enabled validators:
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.08-03.33.55:495][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.08-03.33.55:496][574]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.04.08-03.33.55:584][574]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.08-03.33.56:832][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.08-03.33.58:474][672]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2026.04.08-03.33.58:486][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.08-03.33.58:561][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2] ([1] browsable assets)...
+[2026.04.08-03.33.58:561][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2]
+[2026.04.08-03.33.58:572][672]LogSavePackage: Moving output files for package: /Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2
+[2026.04.08-03.33.58:572][672]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/T_Casa_Ricos_Muralha_Telhado_03_B631494A4E6E6B6DE40BEC87994CEA53.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2.uasset'
+[2026.04.08-03.33.58:610][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.953 ms (total: 21.1 sec)
+[2026.04.08-03.33.58:716][672]LogStall: Shutdown...
+[2026.04.08-03.33.58:716][672]LogStall: Shutdown complete.
+[2026.04.08-03.33.58:812][672]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.04.08-03.34.00:080][672]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.08-03.34.00:080][672]LogContentValidation: Enabled validators:
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.08-03.34.00:080][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.08-03.34.00:080][672]AssetCheck: /Game/Assets/Materiais_Props/T_Casa_Ricos_Muralha_Telhado_03_Inst2 Validando ativo
+[2026.04.08-03.34.00:083][672]Cmd: QUIT_EDITOR
+[2026.04.08-03.34.00:083][672]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.08-03.34.00:093][672]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.08-03.34.00:143][673]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.08-03.34.00:150][673]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.08-03.34.00:150][673]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.08-03.34.00:255][673]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:256][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:256][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.08-03.34.00:257][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_56a8c591183cbb67_0.Cerca
+[2026.04.08-03.34.00:257][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_63939b2595e7c7ed_0.Cerca
+[2026.04.08-03.34.00:258][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa02_LevelInstance_493c1a1a1b6bead8_0.Casa02
+[2026.04.08-03.34.00:259][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9c40c32056b0eaa7_0.Cerca
+[2026.04.08-03.34.00:259][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Minitorre_rico01_LevelInstance_46faa399218a3ee4_0.Minitorre_rico01
+[2026.04.08-03.34.00:260][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_989fa2d92fafdcad_0.Cerca
+[2026.04.08-03.34.00:260][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa03_LevelInstance_4287218f26468be0_0.Casa03
+[2026.04.08-03.34.00:262][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_7cc66ec425ce33a2_0.Cerca
+[2026.04.08-03.34.00:263][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa01_LevelInstance_28e18178e94c75c3_0.Casa01
+[2026.04.08-03.34.00:263][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9a6945238181ffef_0.Cerca
+[2026.04.08-03.34.00:263][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_5cde8cdd868979c3_0.Cerca
+[2026.04.08-03.34.00:263][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_9a5d68beb3b329ee_0.Torre_Muralha
+[2026.04.08-03.34.00:264][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_846a6d7daceb8159_0.Torre_Muralha
+[2026.04.08-03.34.00:264][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_f0199558808ed7f8_0.Torre_Muralha
+[2026.04.08-03.34.00:264][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_5b767800a958e83d_0.Torre_Muralha
+[2026.04.08-03.34.00:264][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Lateral_Muralha_LevelInstance_23992c477601e1a4_0.Lateral_Muralha
+[2026.04.08-03.34.00:265][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/muralha02_LevelInstance_a476f57d46af46d8_0.muralha02
+[2026.04.08-03.34.00:266][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_LevelInstance_416a84306f1d689a_0.Muralha
+[2026.04.08-03.34.00:267][673]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_Fundo_LevelInstance_29440a6ba4bf3948_0.Muralha_Fundo
+[2026.04.08-03.34.00:268][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:268][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:268][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:268][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:269][673]LogWorld: UWorld::CleanupWorld for Casa02, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:269][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:271][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:271][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:271][673]LogWorld: UWorld::CleanupWorld for Minitorre_rico01, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:271][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:271][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:271][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:271][673]LogWorld: UWorld::CleanupWorld for Casa03, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:271][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:274][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:274][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:274][673]LogWorld: UWorld::CleanupWorld for Casa01, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:274][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:274][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:274][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:274][673]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:274][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:274][673]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:274][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:275][673]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:275][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:275][673]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:275][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:275][673]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:275][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:275][673]LogWorld: UWorld::CleanupWorld for Lateral_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:275][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:276][673]LogWorld: UWorld::CleanupWorld for muralha02, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:276][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:277][673]LogWorld: UWorld::CleanupWorld for Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:277][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:278][673]LogWorld: UWorld::CleanupWorld for Muralha_Fundo, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:278][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:385][673]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.08-03.34.00:404][673]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.08-03.34.00:451][673]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.08-03.34.00:568][673]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:568][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:568][673]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-03.34.00:568][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-03.34.00:650][673]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.08-03.34.00:657][673]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.08-03.34.00:686][673]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.08-03.34.00:840][673]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.08-03.34.00:840][673]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.08-03.34.00:840][673]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.04.08-03.34.00:840][673]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.08-03.34.00:840][673]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.08-03.34.00:843][673]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.08-03.34.00:853][673]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.08-03.34.00:854][673]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.08-03.34.00:855][673]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.04.08-03.34.00:875][673]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.08-03.34.00:877][673]LogExit: Preparing to exit.
+[2026.04.08-03.34.01:242][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.08-03.34.01:817][673]LogEditorDataStorage: Deinitializing
+[2026.04.08-03.34.02:840][673]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.08-03.34.03:338][673]LogExit: Editor shut down
+[2026.04.08-03.34.03:348][673]LogExit: Transaction tracking system shut down
+[2026.04.08-03.34.08:018][673]LogExit: Object subsystem successfully closed.
+[2026.04.08-03.34.08:056][673]LogShaderCompilers: Display: Shaders left to compile 0

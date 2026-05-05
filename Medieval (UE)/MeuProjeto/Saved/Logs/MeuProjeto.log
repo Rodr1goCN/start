@@ -2526,3 +2526,251 @@ Sampler Limit: 32
 [2026.05.05-01.51.15:561][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14738.517578
 [2026.05.05-01.51.16:537][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.05-01.51.16:537][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14739.162109, Update Interval: 355.771973
+[2026.05.05-01.57.54:574][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15137.474609
+[2026.05.05-01.57.55:904][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-01.57.55:906][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15138.473633, Update Interval: 325.364532
+[2026.05.05-01.59.25:367][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2026.05.05-02.04.05:155][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15507.948242
+[2026.05.05-02.04.05:367][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-02.04.05:367][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15508.146484, Update Interval: 301.298248
+[2026.05.05-02.04.41:569][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.05.05-02.04.41:727][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.05.05-02.04.41:793][548]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.PostProcessVolume_UAID_F4B5200DAC6EF4D702_1924115520
+[2026.05.05-02.04.42:082][548]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.PostProcessVolume_UAID_F4B5200DAC6EF4D702_1924115520
+[2026.05.05-02.04.42:297][548]LogStreaming: Display: FlushAsyncLoading(7414): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.05-02.05.25:269][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.05.05-02.05.25:279][773]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_14 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.05.05-02.05.25:289][773]LogTexture: Display: Texturas de compilação: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.LandscapeStreamingProxy_3QVAZVUOA84CCMID49GA5D3BG_126_0_0_0.Weightmap_1 (BGRA8, 64X64 X1X1X1) (Memória necessária estimada: 1.140617 MB), EncodeSpeed: Fast
+[2026.05.05-02.05.25:354][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto5
+[2026.05.05-02.05.25:354][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E_Auto53FD58CEB4DF9089ACAC2FCB613A3CDB0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E_Auto5.uasset'
+[2026.05.05-02.05.25:390][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3C/RX0KJCX581L7JLPC0A4URT_Auto5
+[2026.05.05-02.05.25:390][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/RX0KJCX581L7JLPC0A4URT_Auto539755C06429EB3A1CDD03BA27A471D63.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3C/RX0KJCX581L7JLPC0A4URT_Auto5.uasset'
+[2026.05.05-02.05.25:400][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/VG/IDCPHY64Z3OMFB5BS19UH5_Auto5
+[2026.05.05-02.05.25:400][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IDCPHY64Z3OMFB5BS19UH5_Auto5135C38364E84F8F1FDF1BE9AE8566D11.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/VG/IDCPHY64Z3OMFB5BS19UH5_Auto5.uasset'
+[2026.05.05-02.05.25:411][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KO/SZ5RNIWIN4X2YET4MFKU15_Auto5
+[2026.05.05-02.05.25:411][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SZ5RNIWIN4X2YET4MFKU15_Auto51FEF3C8A490D7302762ECC93515DAD78.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KO/SZ5RNIWIN4X2YET4MFKU15_Auto5.uasset'
+[2026.05.05-02.05.25:421][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CX/EPDAJQVII6O44NJ3PNOG0N_Auto5
+[2026.05.05-02.05.25:421][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EPDAJQVII6O44NJ3PNOG0N_Auto5AF89BEA44DDD0D05573F1CB2376CCD2F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CX/EPDAJQVII6O44NJ3PNOG0N_Auto5.uasset'
+[2026.05.05-02.05.25:430][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EF/JH8S9NXMOBHMY299YT3UQ1_Auto5
+[2026.05.05-02.05.25:430][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JH8S9NXMOBHMY299YT3UQ1_Auto5E906B3024ACAA160BD4589A6F995F091.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EF/JH8S9NXMOBHMY299YT3UQ1_Auto5.uasset'
+[2026.05.05-02.05.25:440][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SQ/GPIX2WZLHEQ8PWTO1R1FNF_Auto5
+[2026.05.05-02.05.25:440][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/GPIX2WZLHEQ8PWTO1R1FNF_Auto5A338A1C14FC860E846D73A8CE18CA3F2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SQ/GPIX2WZLHEQ8PWTO1R1FNF_Auto5.uasset'
+[2026.05.05-02.05.25:450][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/8C/EG0MPOL9VPYBGWYIDQ2FES_Auto5
+[2026.05.05-02.05.25:450][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EG0MPOL9VPYBGWYIDQ2FES_Auto571954DEE4D4A5E81722A9B9B3C0F3072.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/8C/EG0MPOL9VPYBGWYIDQ2FES_Auto5.uasset'
+[2026.05.05-02.05.25:459][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/91/KFTFEJREYWGOXHCC0JSS3L_Auto5
+[2026.05.05-02.05.25:459][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KFTFEJREYWGOXHCC0JSS3L_Auto526D8CD6142FF7F37B09E66B02B4306C8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/91/KFTFEJREYWGOXHCC0JSS3L_Auto5.uasset'
+[2026.05.05-02.05.25:470][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/X2/BD1I240MZSIFZG4XQSRKZJ_Auto5
+[2026.05.05-02.05.25:470][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/BD1I240MZSIFZG4XQSRKZJ_Auto54C9D6064445FA11EAD6A70B9B1926639.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/X2/BD1I240MZSIFZG4XQSRKZJ_Auto5.uasset'
+[2026.05.05-02.05.25:480][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/KH/XOUZCBX53FO3O8TLX4BQ5N_Auto5
+[2026.05.05-02.05.25:480][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/XOUZCBX53FO3O8TLX4BQ5N_Auto5F936255D40201D8260423EB412925653.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/KH/XOUZCBX53FO3O8TLX4BQ5N_Auto5.uasset'
+[2026.05.05-02.05.25:489][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/UM/R2XDSWUEZBL0ZQG6F2ZP8L_Auto5
+[2026.05.05-02.05.25:490][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R2XDSWUEZBL0ZQG6F2ZP8L_Auto5E1C0DAA84A411C705954B7A5D6E3FF03.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/UM/R2XDSWUEZBL0ZQG6F2ZP8L_Auto5.uasset'
+[2026.05.05-02.05.25:499][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/IM/KXBJPV4W9A3M8CFHV1RBBQ_Auto5
+[2026.05.05-02.05.25:499][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KXBJPV4W9A3M8CFHV1RBBQ_Auto53AA992984D74FB6C420A8DB9B2FA24F6.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/IM/KXBJPV4W9A3M8CFHV1RBBQ_Auto5.uasset'
+[2026.05.05-02.05.25:509][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8Y/MFXJ613CBALF0PGVG5QIP9_Auto5
+[2026.05.05-02.05.25:509][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MFXJ613CBALF0PGVG5QIP9_Auto588DF633F45047BF5D2383F8BC440AFFF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8Y/MFXJ613CBALF0PGVG5QIP9_Auto5.uasset'
+[2026.05.05-02.05.25:519][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/FP/3N30QH3JH2DZA5V70S72N8_Auto5
+[2026.05.05-02.05.25:519][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3N30QH3JH2DZA5V70S72N8_Auto5CA80193D40FCF8A903F2519EBF769124.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/FP/3N30QH3JH2DZA5V70S72N8_Auto5.uasset'
+[2026.05.05-02.05.25:529][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4E/Z6WHODVNPRQIQKIGIDO5CV_Auto5
+[2026.05.05-02.05.25:529][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Z6WHODVNPRQIQKIGIDO5CV_Auto52E8DA54040E915234DA149A8F5697A67.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4E/Z6WHODVNPRQIQKIGIDO5CV_Auto5.uasset'
+[2026.05.05-02.05.25:539][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/XL/0HJQBN0PBIR2V7DSP1QB5C_Auto5
+[2026.05.05-02.05.25:539][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0HJQBN0PBIR2V7DSP1QB5C_Auto5B106E8034446AB89EC3F27881650F62D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/XL/0HJQBN0PBIR2V7DSP1QB5C_Auto5.uasset'
+[2026.05.05-02.05.25:550][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JM/OREXTR2E6XZ4QFG81O4ECS_Auto5
+[2026.05.05-02.05.25:550][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/OREXTR2E6XZ4QFG81O4ECS_Auto5E8381175462001061A8BC19ABD5176E0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JM/OREXTR2E6XZ4QFG81O4ECS_Auto5.uasset'
+[2026.05.05-02.05.25:560][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/RV/ZF588IWK1JIK4HZ7LN95FV_Auto5
+[2026.05.05-02.05.25:560][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZF588IWK1JIK4HZ7LN95FV_Auto52919086F404991020AC5269CAEB07862.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/RV/ZF588IWK1JIK4HZ7LN95FV_Auto5.uasset'
+[2026.05.05-02.05.25:569][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PS/BADISFB4TD14EDC05UWK4K_Auto5
+[2026.05.05-02.05.25:570][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/BADISFB4TD14EDC05UWK4K_Auto5919AA7724BE9EFCD95C388BE9389BCA4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PS/BADISFB4TD14EDC05UWK4K_Auto5.uasset'
+[2026.05.05-02.05.25:580][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UQ/HU3Z0Z7EW8QUO00YCJWRX1_Auto5
+[2026.05.05-02.05.25:580][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/HU3Z0Z7EW8QUO00YCJWRX1_Auto5A161E9494C4DD1164F51FB8067486A95.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UQ/HU3Z0Z7EW8QUO00YCJWRX1_Auto5.uasset'
+[2026.05.05-02.05.25:591][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK_Auto5
+[2026.05.05-02.05.25:591][773]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/LBKY39FQ3Y4UM2PGG9QPZK_Auto5517C81FE4B070128930A36825DD3FD2A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK_Auto5.uasset'
+[2026.05.05-02.05.25:599][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.402
+[2026.05.05-02.05.25:599][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.402
+[2026.05.05-02.07.48:038][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-02.07.48:176][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.05-02.07.48:200][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.05-02.07.48:224][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.05-02.07.48:292][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E
+[2026.05.05-02.07.48:293][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R81W5U2JD9BVF30YJ74B9E2F1C2CE34A3F664AABDDA9B20448D075.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3S/R81W5U2JD9BVF30YJ74B9E.uasset'
+[2026.05.05-02.07.48:304][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3C/RX0KJCX581L7JLPC0A4URT
+[2026.05.05-02.07.48:305][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/RX0KJCX581L7JLPC0A4URT56EFAA0545DD227B590BF8AE79C363D5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3C/RX0KJCX581L7JLPC0A4URT.uasset'
+[2026.05.05-02.07.48:316][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/VG/IDCPHY64Z3OMFB5BS19UH5
+[2026.05.05-02.07.48:316][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/IDCPHY64Z3OMFB5BS19UH56B9B6F954679851420AB839A1C2564C6.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/VG/IDCPHY64Z3OMFB5BS19UH5.uasset'
+[2026.05.05-02.07.48:326][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KO/SZ5RNIWIN4X2YET4MFKU15
+[2026.05.05-02.07.48:327][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SZ5RNIWIN4X2YET4MFKU15F737F349482C561004A14BBA56787211.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KO/SZ5RNIWIN4X2YET4MFKU15.uasset'
+[2026.05.05-02.07.48:337][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CX/EPDAJQVII6O44NJ3PNOG0N
+[2026.05.05-02.07.48:337][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EPDAJQVII6O44NJ3PNOG0N5E087D4A4DC1D52EC4FD2692303522E5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CX/EPDAJQVII6O44NJ3PNOG0N.uasset'
+[2026.05.05-02.07.48:348][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EF/JH8S9NXMOBHMY299YT3UQ1
+[2026.05.05-02.07.48:349][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JH8S9NXMOBHMY299YT3UQ1CE7BB4264045631EA55973BA3FABFF53.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EF/JH8S9NXMOBHMY299YT3UQ1.uasset'
+[2026.05.05-02.07.48:361][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SQ/GPIX2WZLHEQ8PWTO1R1FNF
+[2026.05.05-02.07.48:361][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/GPIX2WZLHEQ8PWTO1R1FNF2C9A835C466AFD90F3F55BAF8F9CC4E3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SQ/GPIX2WZLHEQ8PWTO1R1FNF.uasset'
+[2026.05.05-02.07.48:372][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/8C/EG0MPOL9VPYBGWYIDQ2FES
+[2026.05.05-02.07.48:372][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EG0MPOL9VPYBGWYIDQ2FES3AC59AD34BD14F911DFAA5B4DE8F563D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/8C/EG0MPOL9VPYBGWYIDQ2FES.uasset'
+[2026.05.05-02.07.48:383][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/91/KFTFEJREYWGOXHCC0JSS3L
+[2026.05.05-02.07.48:384][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KFTFEJREYWGOXHCC0JSS3L12DE8EDE4A52992D9A2059801841EDA5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/91/KFTFEJREYWGOXHCC0JSS3L.uasset'
+[2026.05.05-02.07.48:393][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/X2/BD1I240MZSIFZG4XQSRKZJ
+[2026.05.05-02.07.48:394][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/BD1I240MZSIFZG4XQSRKZJ1EA0C2D74139ECD0AC0B41BC3526FB1A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/X2/BD1I240MZSIFZG4XQSRKZJ.uasset'
+[2026.05.05-02.07.48:405][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/KH/XOUZCBX53FO3O8TLX4BQ5N
+[2026.05.05-02.07.48:406][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/XOUZCBX53FO3O8TLX4BQ5N2346BD934B1B04FC3026C297D401AE41.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/KH/XOUZCBX53FO3O8TLX4BQ5N.uasset'
+[2026.05.05-02.07.48:415][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/UM/R2XDSWUEZBL0ZQG6F2ZP8L
+[2026.05.05-02.07.48:416][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R2XDSWUEZBL0ZQG6F2ZP8L4203902649C61B050F5347827C48259C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/UM/R2XDSWUEZBL0ZQG6F2ZP8L.uasset'
+[2026.05.05-02.07.48:426][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/IM/KXBJPV4W9A3M8CFHV1RBBQ
+[2026.05.05-02.07.48:427][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KXBJPV4W9A3M8CFHV1RBBQ46988343463B6D41899E968E9461541E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/IM/KXBJPV4W9A3M8CFHV1RBBQ.uasset'
+[2026.05.05-02.07.48:437][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8Y/MFXJ613CBALF0PGVG5QIP9
+[2026.05.05-02.07.48:437][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MFXJ613CBALF0PGVG5QIP9D38825264AFA7E03503452A88E143B4F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8Y/MFXJ613CBALF0PGVG5QIP9.uasset'
+[2026.05.05-02.07.48:448][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/FP/3N30QH3JH2DZA5V70S72N8
+[2026.05.05-02.07.48:449][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3N30QH3JH2DZA5V70S72N8CFB4632C45BFC1E552B38E8BB08B752B.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/FP/3N30QH3JH2DZA5V70S72N8.uasset'
+[2026.05.05-02.07.48:459][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4E/Z6WHODVNPRQIQKIGIDO5CV
+[2026.05.05-02.07.48:460][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Z6WHODVNPRQIQKIGIDO5CVF0FFD87C4C8F6CB2CAD38E9E21CAE03C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4E/Z6WHODVNPRQIQKIGIDO5CV.uasset'
+[2026.05.05-02.07.48:471][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/XL/0HJQBN0PBIR2V7DSP1QB5C
+[2026.05.05-02.07.48:472][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0HJQBN0PBIR2V7DSP1QB5CB23DC9304C17C3F4B1B4848B14F43DC8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/XL/0HJQBN0PBIR2V7DSP1QB5C.uasset'
+[2026.05.05-02.07.48:482][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JM/OREXTR2E6XZ4QFG81O4ECS
+[2026.05.05-02.07.48:483][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/OREXTR2E6XZ4QFG81O4ECS546AF3264FCB5ECCBDED23A8824124DD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/JM/OREXTR2E6XZ4QFG81O4ECS.uasset'
+[2026.05.05-02.07.48:494][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/RV/ZF588IWK1JIK4HZ7LN95FV
+[2026.05.05-02.07.48:494][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZF588IWK1JIK4HZ7LN95FV9BA539AE4565B932765BED8B0E1AF147.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/RV/ZF588IWK1JIK4HZ7LN95FV.uasset'
+[2026.05.05-02.07.48:504][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PS/BADISFB4TD14EDC05UWK4K
+[2026.05.05-02.07.48:505][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/BADISFB4TD14EDC05UWK4K0B8E1AC448EE7AF78FA59A970F54131F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PS/BADISFB4TD14EDC05UWK4K.uasset'
+[2026.05.05-02.07.48:515][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UQ/HU3Z0Z7EW8QUO00YCJWRX1
+[2026.05.05-02.07.48:517][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/HU3Z0Z7EW8QUO00YCJWRX19FB7D1F2451ACE6665A6C1A9D7224C50.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UQ/HU3Z0Z7EW8QUO00YCJWRX1.uasset'
+[2026.05.05-02.07.48:527][901]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK
+[2026.05.05-02.07.48:527][901]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/LBKY39FQ3Y4UM2PGG9QPZKE04C3AB846301736B81D3D909169A94D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK.uasset'
+[2026.05.05-02.07.48:603][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 564.799 ms (total: 4.91 sec)
+[2026.05.05-02.07.48:682][901]LogContentValidation: Display: Starting to validate 22 assets
+[2026.05.05-02.07.48:682][901]LogContentValidation: Enabled validators:
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-02.07.48:682][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-02.07.48:683][901]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.05-02.07.48:779][901]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.05-02.09.55:563][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15858.274414
+[2026.05.05-02.09.56:563][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-02.09.56:563][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15858.940430, Update Interval: 304.376343
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 1 (upload completely sent off: 445 bytes)
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 3 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.05.05-02.14.35:982][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 5 (shutting down connection #4)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 7 (Send failure: Connection was reset)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B042B4C54-4E75-4E51-FB06-7191F2A92812%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 12 (necessary data rewind was not possible)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 13 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 14 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 15 (IPv6: (none))
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 16 (IPv4: 52.72.178.17, 54.237.180.144, 44.218.205.56, 34.230.139.23, 54.237.169.75, 54.84.191.156, 98.85.152.254, 3.224.109.68)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 17 (  Trying 52.72.178.17:443...)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 18 (SSL reusing session)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 19 (ALPN: curl offers http/1.1)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 24 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 25 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 26 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 27 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 28 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 29 (ALPN: server accepted http/1.1)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 30 (Server certificate:)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 31 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 32 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 33 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 34 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 35 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 36 ( SSL certificate verify ok.)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 37 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 38 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 39 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 40 (Connected to datarouter.ol.epicgames.com (52.72.178.17) port 443)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 41 (using HTTP/1.x)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 42 (client read function EOF fail, only 0/445 of needed bytes read)
+[2026.05.05-02.14.35:983][756]LogHttp: Warning: 000001FD5CC27E00: libcurl info message cache 43 (closing connection #5)
+[2026.05.05-02.14.36:231][756]LogHttp: Warning: 000001FD5CC27E00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B042B4C54-4E75-4E51-FB06-7191F2A92812%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.57s
+[2026.05.05-02.15.31:046][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.05-02.15.31:066][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK_Auto6
+[2026.05.05-02.15.31:066][997]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/LBKY39FQ3Y4UM2PGG9QPZK_Auto6820C1C7E45D84F3719DF429C613F1214.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK_Auto6.uasset'
+[2026.05.05-02.15.31:076][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.056
+[2026.05.05-02.15.31:076][997]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2026.05.05-02.15.58:645][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16221.273438
+[2026.05.05-02.15.59:646][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-02.15.59:646][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16221.939453, Update Interval: 329.407623
+[2026.05.05-02.21.12:863][171]LogInterchangeEngine: [Pendente] Importando
+[2026.05.05-02.21.12:863][171]LogInterchangeEngine: Display: Interchange start importing source [D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/props/Base_Tronco.fbx]
+[2026.05.05-02.21.13:070][178]LogStaticMesh: Display: Construindo malha estática Base_tronco (Estimativa de memória necessária: 1.078403 MB)...
+[2026.05.05-02.21.13:076][178]LogStaticMesh: Adjacency [0.00s], tris: 696, UVs 1
+[2026.05.05-02.21.13:079][178]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.05.05-02.21.13:079][178]LogStaticMesh: Leaves [0.00s]
+[2026.05.05-02.21.13:112][180]LogStaticMesh: Reduce [0.03s]
+[2026.05.05-02.21.13:122][181]LogStaticMesh: Fallback [0.01s], num tris: 626
+[2026.05.05-02.21.13:137][181]LogStaticMesh: Fallback [0.02s], num tris: 396
+[2026.05.05-02.21.13:138][181]LogStaticMesh: ConstrainClusters:
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Input: 12 Clusters, 1452 Triangles and 1053 Vertices
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Output without splits: 12 Clusters, 1452 Triangles and 1054 Vertices
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Output with splits: 12 Clusters, 1452 Triangles and 1054 Vertices
+[2026.05.05-02.21.13:138][181]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.05-02.21.13:138][181]LogStaticMesh: WritePages:
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Root: GPU size: 14412 bytes. 1 Pages. 14412.000 bytes per page (43.982% utilization).
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Streaming: 0 bytes.
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Page data disk size: 12672 bytes. Fixup data size: 72 bytes.
+[2026.05.05-02.21.13:138][181]LogStaticMesh:   Total GPU size: 14412 bytes, Total disk size: 12744 bytes.
+[2026.05.05-02.21.13:138][181]LogStaticMesh: Encode [0.00s]
+[2026.05.05-02.21.13:139][181]LogStaticMesh: NaniteBuild [0.06s]
+[2026.05.05-02.21.13:174][182]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Modelos_Medios/Base_tronco.Base_tronco
+[2026.05.05-02.21.13:187][183]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.000 Y=-3.816 Z=52.460, BoxExtent=(X=59.690 Y=98.306 Z=53.621), SphereRadius=(165.065430)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.150 Z=50.358, BoxExtent=(X=59.384 Y=94.640 Z=51.422), SphereRadius=(120.729864)) is significative for StaticMesh /Game/Assets/Modelos_Medios/Base_tronco.Base_tronco
+[2026.05.05-02.21.13:288][184]LogInterchangeEngine: Display: Interchange import completed [D:/Arquivos/Document.../Medieval (UE)/props/Base_Tronco.fbx]
+[2026.05.05-02.21.13:288][184]Interchange: Warning: [D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/props/Base_Tronco.fbx : 'Base_tronco', StaticMesh] Nenhuma informação de grupo de suavização foi encontrada para a malha "Plane_006" no arquivo FBX. Certifique-se de ativar a opção "Exportar grupos de suavização" no exportador de FBX antes de exportar o arquivo.
+[2026.05.05-02.21.13:298][184]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2026.05.05-02.21.13:298][184]LogInterchangeEngine: [Sucesso] Importação concluída
+[2026.05.05-02.21.13:302][185]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.000 Y=-3.816 Z=52.460, BoxExtent=(X=59.690 Y=98.306 Z=53.621), SphereRadius=(165.065430)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.150 Z=50.358, BoxExtent=(X=59.384 Y=94.640 Z=51.422), SphereRadius=(120.729864)) is significative for StaticMesh /Game/Assets/Modelos_Medios/Base_tronco.Base_tronco
+[2026.05.05-02.21.37:698][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-02.21.37:834][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.05-02.21.37:858][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.05-02.21.37:880][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.05-02.21.37:884][113]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/T0/AGF7WUPE3ALS2YAMLRUUX7
+[2026.05.05-02.21.37:884][113]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/AGF7WUPE3ALS2YAMLRUUX76948C1AB4927D068C79A9682896F95C2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/T0/AGF7WUPE3ALS2YAMLRUUX7.uasset'
+[2026.05.05-02.21.37:898][113]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK
+[2026.05.05-02.21.37:898][113]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/LBKY39FQ3Y4UM2PGG9QPZK1F166B694E8C3BE62748358169FCBCBF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/TV/LBKY39FQ3Y4UM2PGG9QPZK.uasset'
+[2026.05.05-02.21.37:910][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.573 ms (total: 5.12 sec)
+[2026.05.05-02.21.37:978][113]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.05-02.21.37:978][113]LogContentValidation: Enabled validators:
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-02.21.37:978][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-02.21.37:978][113]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.05-02.22.26:039][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16608.785156
+[2026.05.05-02.22.26:300][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-02.22.26:300][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16609.021484, Update Interval: 352.637115
+[2026.05.05-02.24.01:454][ 89]Cmd: DELETE
+[2026.05.05-02.24.01:454][ 89]Cmd: ACTOR DELETE
+[2026.05.05-02.24.01:587][ 89]LogEditorActor: Deleted Actor: PostProcessVolume
+[2026.05.05-02.24.01:614][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.05-02.24.01:619][ 89]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2026.05.05-02.24.03:287][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-02.24.03:427][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.05-02.24.03:453][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.05-02.24.03:476][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.05-02.24.03:511][148]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS
+[2026.05.05-02.24.03:512][148]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/TYFCMQ9MC435YW6FZBF5FS2A21BD5646C88CBFE1F614916FD12C75.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset'
+[2026.05.05-02.24.03:526][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.100 ms (total: 5.36 sec)
+[2026.05.05-02.24.03:596][148]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.05-02.24.03:596][148]LogContentValidation: Enabled validators:
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-02.24.03:596][148]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.05-02.24.03:631][148]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json

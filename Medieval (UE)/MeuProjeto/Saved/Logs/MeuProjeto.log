@@ -2774,3 +2774,142 @@ Sampler Limit: 32
 [2026.05.05-02.24.03:596][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.05-02.24.03:596][148]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
 [2026.05.05-02.24.03:631][148]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.05-02.25.10:439][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-02.25.10:556][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.05-02.25.10:579][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.05-02.25.10:600][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.05-02.25.10:613][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.970 ms (total: 5.54 sec)
+[2026.05.05-02.25.12:060][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.05-02.25.13:279][580]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2026.05.05-02.25.13:319][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-02.25.13:380][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Modelos_Medios/Base_tronco] ([1] browsable assets)...
+[2026.05.05-02.25.13:578][580]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Modelos_Medios/Base_tronco.Base_tronco]
+[2026.05.05-02.25.13:578][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Modelos_Medios/Base_tronco]
+[2026.05.05-02.25.13:592][580]LogSavePackage: Moving output files for package: /Game/Assets/Modelos_Medios/Base_tronco
+[2026.05.05-02.25.13:593][580]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Base_troncoAC99BA984148245E50EDED994144C9E2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Modelos_Medios/Base_tronco.uasset'
+[2026.05.05-02.25.13:595][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Modelos_Medios/Caixa_Madeira] ([1] browsable assets)...
+[2026.05.05-02.25.13:595][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Modelos_Medios/Caixa_Madeira]
+[2026.05.05-02.25.13:611][580]LogSavePackage: Moving output files for package: /Game/Assets/Modelos_Medios/Caixa_Madeira
+[2026.05.05-02.25.13:611][580]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Caixa_Madeira5CC1953F446F23DBBBF740960F2007E7.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/Assets/Modelos_Medios/Caixa_Madeira.uasset'
+[2026.05.05-02.25.13:622][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.772 ms (total: 5.84 sec)
+[2026.05.05-02.25.13:704][580]LogStall: Shutdown...
+[2026.05.05-02.25.13:704][580]LogStall: Shutdown complete.
+[2026.05.05-02.25.13:773][580]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.05.05-02.25.14:797][580]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.05-02.25.14:797][580]LogContentValidation: Enabled validators:
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-02.25.14:797][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-02.25.14:797][580]AssetCheck: /Game/Assets/Modelos_Medios/Base_tronco Validando ativo
+[2026.05.05-02.25.14:797][580]AssetCheck: /Game/Assets/Modelos_Medios/Caixa_Madeira Validando ativo
+[2026.05.05-02.25.14:800][580]Cmd: QUIT_EDITOR
+[2026.05.05-02.25.14:800][581]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.05-02.25.14:848][581]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.05-02.25.14:873][581]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.05-02.25.14:873][581]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.05-02.25.15:027][581]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:029][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:029][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.05-02.25.15:053][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Poco_LevelInstance_1b0bb453b6130640_0.Poco
+[2026.05.05-02.25.15:053][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/torre_LevelInstance_0ced79c6412625b8_0.torre
+[2026.05.05-02.25.15:053][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_56a8c591183cbb67_0.Cerca
+[2026.05.05-02.25.15:053][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_63939b2595e7c7ed_0.Cerca
+[2026.05.05-02.25.15:054][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_f0199558808ed7f8_0.Torre_Muralha
+[2026.05.05-02.25.15:054][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa02_LevelInstance_493c1a1a1b6bead8_0.Casa02
+[2026.05.05-02.25.15:056][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9c40c32056b0eaa7_0.Cerca
+[2026.05.05-02.25.15:056][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Minitorre_rico01_LevelInstance_46faa399218a3ee4_0.Minitorre_rico01
+[2026.05.05-02.25.15:057][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_989fa2d92fafdcad_0.Cerca
+[2026.05.05-02.25.15:057][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Lateral_Muralha_LevelInstance_23992c477601e1a4_0.Lateral_Muralha
+[2026.05.05-02.25.15:058][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Lateral_Esq_Muralha_LevelInstance_e6b4ec1b07e95854_0.Lateral_Esq_Muralha
+[2026.05.05-02.25.15:059][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/muralha02_LevelInstance_a476f57d46af46d8_0.muralha02
+[2026.05.05-02.25.15:060][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_LevelInstance_416a84306f1d689a_0.Muralha
+[2026.05.05-02.25.15:061][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_Fundo_LevelInstance_29440a6ba4bf3948_0.Muralha_Fundo
+[2026.05.05-02.25.15:062][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_846a6d7daceb8159_0.Torre_Muralha
+[2026.05.05-02.25.15:063][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa03_LevelInstance_4287218f26468be0_0.Casa03
+[2026.05.05-02.25.15:065][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_7cc66ec425ce33a2_0.Cerca
+[2026.05.05-02.25.15:065][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa01_LevelInstance_28e18178e94c75c3_0.Casa01
+[2026.05.05-02.25.15:066][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa01_LevelInstance_289b3a2dfd90e849_0.Casa01
+[2026.05.05-02.25.15:066][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9a6945238181ffef_0.Cerca
+[2026.05.05-02.25.15:066][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/casa04_LevelInstance_fda65ca25acf39d0_0.casa04
+[2026.05.05-02.25.15:067][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_5cde8cdd868979c3_0.Cerca
+[2026.05.05-02.25.15:067][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_5b767800a958e83d_0.Torre_Muralha
+[2026.05.05-02.25.15:067][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_9a5d68beb3b329ee_0.Torre_Muralha
+[2026.05.05-02.25.15:067][581]LogWorld: UWorld::CleanupWorld for Poco, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:068][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:068][581]LogWorld: UWorld::CleanupWorld for torre, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:068][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:068][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:068][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:068][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:068][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:068][581]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:068][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:068][581]LogWorld: UWorld::CleanupWorld for Casa02, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:069][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:071][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:071][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:071][581]LogWorld: UWorld::CleanupWorld for Minitorre_rico01, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:071][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:071][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:071][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:071][581]LogWorld: UWorld::CleanupWorld for Lateral_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:071][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:072][581]LogWorld: UWorld::CleanupWorld for Lateral_Esq_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:072][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:073][581]LogWorld: UWorld::CleanupWorld for muralha02, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:073][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:074][581]LogWorld: UWorld::CleanupWorld for Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:074][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:074][581]LogWorld: UWorld::CleanupWorld for Muralha_Fundo, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:074][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:076][581]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:076][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:076][581]LogWorld: UWorld::CleanupWorld for Casa03, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:076][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:078][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:078][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:078][581]LogWorld: UWorld::CleanupWorld for Casa01, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:078][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for Casa01, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for casa04, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:079][581]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:079][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:224][581]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.05-02.25.15:242][581]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.05-02.25.15:348][581]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.05-02.25.15:409][581]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:409][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:433][581]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:433][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:434][581]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-02.25.15:434][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-02.25.15:500][581]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.05-02.25.15:512][581]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.05-02.25.15:542][581]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.05-02.25.15:737][581]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.05-02.25.15:737][581]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.05-02.25.15:737][581]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.05.05-02.25.15:737][581]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.05-02.25.15:738][581]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.05-02.25.15:742][581]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.05-02.25.15:757][581]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.05-02.25.15:757][581]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.05-02.25.15:761][581]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.05.05-02.25.15:789][581]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.05-02.25.15:790][581]LogExit: Preparing to exit.
+[2026.05.05-02.25.16:196][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.05-02.25.17:429][581]LogEditorDataStorage: Deinitializing
+[2026.05.05-02.25.18:645][581]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.05-02.25.19:240][581]LogExit: Editor shut down
+[2026.05.05-02.25.19:250][581]LogExit: Transaction tracking system shut down

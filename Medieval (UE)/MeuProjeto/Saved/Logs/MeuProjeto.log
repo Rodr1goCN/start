@@ -1382,3 +1382,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.06-02.36.21:814][479]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-02.40.44:651][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1033.751099
+[2026.05.06-02.40.44:880][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-02.40.44:880][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1033.967407, Update Interval: 306.277039
+[2026.05.06-02.40.54:711][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-02.40.55:000][883]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.05.06-02.40.55:000][883]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG4CE562094A5931EAEFA3A7A7F192901A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.05.06-02.40.55:833][883]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-02.40.55:833][883]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWTC5A3965944DD186E8F1F9D897641B10D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-02.40.55:871][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 3.87 sec)
+[2026.05.06-02.40.55:938][883]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.06-02.40.55:938][883]LogContentValidation: Enabled validators:
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-02.40.55:938][883]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo

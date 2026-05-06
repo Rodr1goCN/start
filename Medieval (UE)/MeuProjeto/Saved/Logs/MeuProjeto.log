@@ -1362,3 +1362,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-02.30.04:183][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 393.279999
 [2026.05.06-02.30.05:183][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.06-02.30.05:183][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 393.946564, Update Interval: 327.561890
+[2026.05.06-02.35.36:277][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 725.375488
+[2026.05.06-02.35.36:646][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-02.35.36:646][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 725.671387, Update Interval: 301.997742
+[2026.05.06-02.36.20:042][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-02.36.20:348][479]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.05.06-02.36.20:349][479]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNGA0EA7E9444D1CFD4B372C8B9A782B401.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.05.06-02.36.21:173][479]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-02.36.21:174][479]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT21EECC104DB0BED267281DBC796FD0A8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-02.36.21:717][479]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9
+[2026.05.06-02.36.21:718][479]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/L8R4DCKZ55Q7XIIANY29H9AAB568B646C838E3A4A5988795201A40.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/L8R4DCKZ55Q7XIIANY29H9.uasset'
+[2026.05.06-02.36.21:755][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.71 sec (total: 2.71 sec)
+[2026.05.06-02.36.21:814][479]LogContentValidation: Display: Starting to validate 3 assets
+[2026.05.06-02.36.21:814][479]LogContentValidation: Enabled validators:
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-02.36.21:814][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-02.36.21:814][479]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo

@@ -1452,3 +1452,64 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-03.04.04:640][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.06-03.04.04:640][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.06-03.04.04:640][252]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-03.05.00:167][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2489.261230
+[2026.05.06-03.05.01:167][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-03.05.01:167][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2489.925049, Update Interval: 308.353516
+[2026.05.06-03.10.56:240][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2845.331787
+[2026.05.06-03.10.57:239][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-03.10.57:240][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2846.000732, Update Interval: 343.772705
+[2026.05.06-03.16.40:777][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-03.16.42:053][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-03.16.42:053][433]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWTCF30F00E4E692A9F8D2B58B684061113.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-03.16.42:106][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.32 sec (total: 9.03 sec)
+[2026.05.06-03.16.42:170][433]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-03.16.42:170][433]LogContentValidation: Enabled validators:
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-03.16.42:170][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-03.16.42:170][433]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-03.17.14:906][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3223.991943
+[2026.05.06-03.17.15:376][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-03.17.15:376][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3224.339600, Update Interval: 321.691345
+[2026.05.06-03.18.38:841][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-03.18.40:268][817]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-03.18.40:268][817]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT72BB14A4405A2F1D745A75ADCE703210.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-03.18.40:299][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.45 sec (total: 10.4 sec)
+[2026.05.06-03.18.40:395][817]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-03.18.40:395][817]LogContentValidation: Enabled validators:
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-03.18.40:395][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-03.18.40:395][817]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-03.21.14:156][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-03.21.15:741][502]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-03.21.15:742][502]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWTED8C151D42077E8A1B92DA94A28041C9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-03.21.15:770][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.61 sec (total: 12.1 sec)
+[2026.05.06-03.21.15:844][502]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-03.21.15:844][502]LogContentValidation: Enabled validators:
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-03.21.15:844][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-03.21.15:844][502]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-03.22.01:932][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-03.22.03:387][271]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-03.22.03:388][271]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWT977D25E1453D6AD741048193AEF70F8C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-03.22.03:450][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.51 sec (total: 13.6 sec)
+[2026.05.06-03.22.03:524][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-03.22.03:524][271]LogContentValidation: Enabled validators:
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-03.22.03:524][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-03.22.03:524][271]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo

@@ -1400,3 +1400,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.06-02.40.55:938][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.06-02.40.55:938][883]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.05.06-02.44.26:846][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-02.44.27:136][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG
+[2026.05.06-02.44.27:137][365]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PQVSE5RXGE3SUPY37I0GNG03BF281047BDAC4506990C90BED8F187.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/1Z/PQVSE5RXGE3SUPY37I0GNG.uasset'
+[2026.05.06-02.44.28:015][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT
+[2026.05.06-02.44.28:016][365]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/R7BMFI3NFRS2BFIII0XAWTFBE1254D406E182238D94E9A3D970A9E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/OF/R7BMFI3NFRS2BFIII0XAWT.uasset'
+[2026.05.06-02.44.28:039][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.19 sec (total: 5.07 sec)
+[2026.05.06-02.44.28:125][365]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.06-02.44.28:125][365]LogContentValidation: Enabled validators:
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-02.44.28:125][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-02.44.28:125][365]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo

@@ -2857,3 +2857,5 @@ Sampler Limit: 32
 [2026.06.29-23.57.30:190][510]AssetCheck: /Game/Assets/Materiais_Props/T_Casa_Pobre_Inst Validando ativo
 [2026.06.29-23.57.30:190][510]AssetCheck: /Game/Textures/T_Pobre_2 Validando ativo
 [2026.06.29-23.57.30:231][510]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.29-23.57.56:470][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.29-23.57.56:482][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.036

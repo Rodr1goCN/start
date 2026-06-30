@@ -2859,3 +2859,986 @@ Sampler Limit: 32
 [2026.06.29-23.57.30:231][510]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
 [2026.06.29-23.57.56:470][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2026.06.29-23.57.56:482][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.036
+[2026.06.30-00.00.53:948][434]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (High Definition Audio Device), InstanceID=1
+[2026.06.30-00.00.53:983][434]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{1c89e789-3ca6-4af8-9434-422010280a9a}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.06.30-00.00.54:034][434]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (High Definition Audio Device), InstanceID=1
+[2026.06.30-00.00.54:034][434]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.30-00.00.54:034][434]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{1c89e789-3ca6-4af8-9434-422010280a9a}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.06.30-00.00.54:036][434]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{1c89e789-3ca6-4af8-9434-422010280a9a}]
+[2026.06.30-00.00.54:036][434]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.06.30-00.00.54:036][434]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.06.30-00.00.54:038][435]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.06.30-00.00.54:694][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1c89e789-3ca6-4af8-9434-422010280a9a}, Name=Alto-falantes (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=57.82
+[2026.06.30-00.00.54:724][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.06.30-00.00.54:724][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.06.30-00.00.54:727][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.06.30-00.02.43:408][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3390.629150
+[2026.06.30-00.02.44:408][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.02.44:408][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3391.295654, Update Interval: 339.132660
+[2026.06.30-00.07.40:377][653]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.30-00.07.56:938][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.06.30-00.07.56:949][702]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.032
+[2026.06.30-00.09.19:523][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3786.744141
+[2026.06.30-00.09.20:523][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.09.20:523][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3787.411133, Update Interval: 355.830566
+[2026.06.30-00.16.01:242][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4188.463867
+[2026.06.30-00.16.02:242][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.16.02:242][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4189.130371, Update Interval: 337.962585
+[2026.06.30-00.17.57:678][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-00.17.57:687][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.06.30-00.22.23:948][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4571.173340
+[2026.06.30-00.22.24:948][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.22.24:948][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4571.840332, Update Interval: 301.926331
+[2026.06.30-00.27.58:077][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-00.27.58:088][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.06.30-00.28.08:993][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4916.225586
+[2026.06.30-00.28.10:326][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.28.10:326][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4917.225586, Update Interval: 302.951752
+[2026.06.30-00.34.01:706][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5268.954102
+[2026.06.30-00.34.02:707][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.34.02:707][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5269.620605, Update Interval: 322.075867
+[2026.06.30-00.37.58:488][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-00.37.58:498][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.032
+[2026.06.30-00.40.17:752][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5645.019531
+[2026.06.30-00.40.18:752][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.40.18:752][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5645.686523, Update Interval: 359.373749
+[2026.06.30-00.47.04:128][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6051.391602
+[2026.06.30-00.47.05:128][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.47.05:128][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6052.058105, Update Interval: 347.275604
+[2026.06.30-00.47.58:894][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-00.47.58:905][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.06.30-00.53.44:194][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6451.471191
+[2026.06.30-00.53.45:194][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-00.53.45:194][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6452.138672, Update Interval: 338.376404
+[2026.06.30-00.57.59:323][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-00.57.59:333][708]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.06.30-01.00.02:244][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6829.530273
+[2026.06.30-01.00.03:246][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.00.03:246][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6830.196777, Update Interval: 347.414764
+[2026.06.30-01.06.41:300][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7228.599121
+[2026.06.30-01.06.42:633][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.06.42:633][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7229.599121, Update Interval: 354.565277
+[2026.06.30-01.07.40:367][452]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.30-01.07.59:736][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.30-01.07.59:746][509]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.06.30-01.13.35:682][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7642.981445
+[2026.06.30-01.13.36:682][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.13.36:682][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7643.648438, Update Interval: 324.361084
+[2026.06.30-01.18.00:464][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.06.30-01.18.00:473][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.032
+[2026.06.30-01.19.46:054][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8013.354980
+[2026.06.30-01.19.47:053][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.19.47:053][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8014.021484, Update Interval: 338.830536
+[2026.06.30-01.26.22:446][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8409.636719
+[2026.06.30-01.26.23:446][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.26.23:446][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8410.302734, Update Interval: 322.529968
+[2026.06.30-01.28.01:202][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.06.30-01.28.01:211][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.036
+[2026.06.30-01.32.17:485][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8764.490234
+[2026.06.30-01.32.18:484][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.32.18:484][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8765.156250, Update Interval: 328.341919
+[2026.06.30-01.38.01:613][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.06.30-01.38.01:622][914]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2026.06.30-01.38.30:864][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9137.721680
+[2026.06.30-01.38.31:865][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.38.31:865][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9138.387695, Update Interval: 353.757751
+[2026.06.30-01.45.18:706][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9545.603516
+[2026.06.30-01.45.18:994][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.45.18:994][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9545.877930, Update Interval: 345.552551
+[2026.06.30-01.45.46:022][963]Cmd: TRANSACTION UNDO
+[2026.06.30-01.45.46:287][963]LogEditorTransaction: Undo Dimensionar Elementos
+[2026.06.30-01.48.33:730][ 23]Cmd: ELEMENT MIRROR X=-1
+[2026.06.30-01.48.40:635][510]Cmd: TRANSACTION UNDO
+[2026.06.30-01.48.40:635][510]LogEditorTransaction: Undo Espelhando Elementos
+[2026.06.30-01.48.46:562][930]Cmd: ELEMENT MIRROR Y=-1
+[2026.06.30-01.48.49:508][138]Cmd: TRANSACTION UNDO
+[2026.06.30-01.48.49:508][138]LogEditorTransaction: Undo Espelhando Elementos
+[2026.06.30-01.48.54:132][405]Cmd: ELEMENT MIRROR Z=-1
+[2026.06.30-01.49.00:792][881]Cmd: TRANSACTION UNDO
+[2026.06.30-01.49.00:792][881]LogEditorTransaction: Undo Espelhando Elementos
+[2026.06.30-01.49.39:658][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.30-01.49.39:735][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH_Auto3
+[2026.06.30-01.49.39:735][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/FV8MSHEL2XQS69BB7MB5YH_Auto36FB1CD154FC460AA57E66C81FE3EE940.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH_Auto3.uasset'
+[2026.06.30-01.49.39:748][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM_Auto3
+[2026.06.30-01.49.39:748][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/J731DM7M2SFBALUW9DFWPM_Auto3D2D5064048F9A9D5B16E2CB00B291CF3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM_Auto3.uasset'
+[2026.06.30-01.49.39:760][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY_Auto3
+[2026.06.30-01.49.39:760][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/227SH8N532EABGG6I07HWY_Auto352DBEFE348CAE71D9BA17591710E4922.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY_Auto3.uasset'
+[2026.06.30-01.49.39:773][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2_Auto3
+[2026.06.30-01.49.39:773][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KFX07A8ZSEP7EWHSJS3HR2_Auto3669142F740E9895B2202DDA38D6E5E02.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2_Auto3.uasset'
+[2026.06.30-01.49.39:784][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO_Auto3
+[2026.06.30-01.49.39:784][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZZS56BSVVSZSK8KPXHTRJO_Auto35EEB794E48BA1261E339A8B49B737C70.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO_Auto3.uasset'
+[2026.06.30-01.49.39:796][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ_Auto3
+[2026.06.30-01.49.39:796][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/5QI9FOSVPIOZ28C0F949GQ_Auto387673CDB4E5D76E6CCA1A0B6C43908F3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ_Auto3.uasset'
+[2026.06.30-01.49.39:808][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL_Auto3
+[2026.06.30-01.49.39:808][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/K8YZOMXWTR8IWXHP0HH5WL_Auto323E222E44F9D6B73737BDE9B480A7FEF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL_Auto3.uasset'
+[2026.06.30-01.49.39:819][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6_Auto3
+[2026.06.30-01.49.39:819][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JZY7O3XI18212VMVM0X9F6_Auto309B7705142FDEAAB050FEEB25F742B7D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6_Auto3.uasset'
+[2026.06.30-01.49.39:831][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V_Auto3
+[2026.06.30-01.49.39:831][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/QOJ3AON43IB2B633VNEG7V_Auto3022A8F62459FF36147A63D853D7E952D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V_Auto3.uasset'
+[2026.06.30-01.49.39:844][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR_Auto3
+[2026.06.30-01.49.39:844][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PMWYUNZ70AQ4I1LZPDUOYR_Auto30B67E86F4F4E0EFDDA9476835D8F78E3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR_Auto3.uasset'
+[2026.06.30-01.49.39:856][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70_Auto3
+[2026.06.30-01.49.39:857][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0JQ0V2A813ZK009O0HXJ70_Auto33265471649305EFFF5FF9491E0E8D499.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70_Auto3.uasset'
+[2026.06.30-01.49.39:868][ 68]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA_Auto3
+[2026.06.30-01.49.39:868][ 68]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/HGC506GA1S9PRF23AWD3MA_Auto308E083F743BEF170998661B2F62DA75F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA_Auto3.uasset'
+[2026.06.30-01.49.39:869][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.239
+[2026.06.30-01.49.39:869][ 68]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.239
+[2026.06.30-01.50.02:145][340]Cmd: TRANSACTION UNDO
+[2026.06.30-01.50.02:145][340]LogEditorTransaction: Undo Girar Elementos
+[2026.06.30-01.51.15:502][351]Cmd: TRANSACTION UNDO
+[2026.06.30-01.51.15:502][351]LogEditorTransaction: Undo Mover Elementos
+[2026.06.30-01.52.02:173][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9949.071289
+[2026.06.30-01.52.02:442][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.52.02:442][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9949.330078, Update Interval: 343.410126
+[2026.06.30-01.52.49:592][450]Cmd: DELETE
+[2026.06.30-01.52.49:837][450]Cmd: ACTOR DELETE
+[2026.06.30-01.52.50:021][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-01.52.50:046][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.30-01.52.50:051][450]LogEditorActor: Deleted 1 Actors (0.214 secs)
+[2026.06.30-01.56.48:312][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico
+[2026.06.30-01.56.48:312][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico
+[2026.06.30-01.56.48:313][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_6
+[2026.06.30-01.56.51:224][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.30-01.56.51:230][ 57]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.06.30-01.56.51:249][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico
+[2026.06.30-01.56.51:249][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico
+[2026.06.30-01.56.51:253][ 57]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Madeira_Telhado_Cima_Rico.Madeira_Telhado_Cima_Rico as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138EE902_1572978570
+[2026.06.30-01.57.48:453][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico
+[2026.06.30-01.57.48:453][267]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico
+[2026.06.30-01.57.48:455][267]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_7
+[2026.06.30-01.57.49:570][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-01.57.49:574][329]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.06.30-01.57.49:597][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico
+[2026.06.30-01.57.49:597][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico
+[2026.06.30-01.57.49:601][329]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Janela_Madeira_rico.Janela_Madeira_rico as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138EE902_1631326571
+[2026.06.30-01.58.07:590][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02
+[2026.06.30-01.58.07:590][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02
+[2026.06.30-01.58.07:592][464]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02 as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_8
+[2026.06.30-01.58.08:664][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.30-01.58.08:669][546]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.06.30-01.58.08:691][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02
+[2026.06.30-01.58.08:691][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02
+[2026.06.30-01.58.08:694][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Porta_Rico_02.Porta_Rico_02 as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138EE902_1650420572
+[2026.06.30-01.58.43:235][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10350.165039
+[2026.06.30-01.58.43:585][978]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-01.58.43:585][978]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10350.501953, Update Interval: 348.119751
+[2026.06.30-02.02.26:725][139]Cmd: TRANSACTION UNDO
+[2026.06.30-02.02.26:725][139]LogEditorTransaction: Undo Dimensionar Elementos
+[2026.06.30-02.05.06:107][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10733.135742
+[2026.06.30-02.05.06:398][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.05.06:398][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10733.413086, Update Interval: 354.567108
+[2026.06.30-02.07.40:367][734]LogDerivedDataCache: C:/Users/drigo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.30-02.07.57:901][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.06.30-02.07.57:931][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BL/37K9CHKP904XK8DZZSK5SL_Auto4
+[2026.06.30-02.07.57:931][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/37K9CHKP904XK8DZZSK5SL_Auto48118FD7047B681E7C6B644A0A7510417.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BL/37K9CHKP904XK8DZZSK5SL_Auto4.uasset'
+[2026.06.30-02.07.57:944][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/OF/NKWBEHAF222RJH4IT0BZ8H_Auto4
+[2026.06.30-02.07.57:944][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NKWBEHAF222RJH4IT0BZ8H_Auto4BFBCD93F4DEFBA9288562B8A569DF782.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/OF/NKWBEHAF222RJH4IT0BZ8H_Auto4.uasset'
+[2026.06.30-02.07.57:957][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/NM/52N8X7GL3K5RXSNQYHW9Z2_Auto4
+[2026.06.30-02.07.57:957][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/52N8X7GL3K5RXSNQYHW9Z2_Auto46F2DE9FB486651C3CD6EE39CB37DD7E0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/NM/52N8X7GL3K5RXSNQYHW9Z2_Auto4.uasset'
+[2026.06.30-02.07.57:969][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/2F/H6QUGPG186UIKO28PV8U7Z_Auto4
+[2026.06.30-02.07.57:969][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/H6QUGPG186UIKO28PV8U7Z_Auto43463BCDC4985C55F8B50C8944FE6A577.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/2F/H6QUGPG186UIKO28PV8U7Z_Auto4.uasset'
+[2026.06.30-02.07.57:980][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/OF/6SOAJGEP3OYVDPIZ3Z9DKY_Auto4
+[2026.06.30-02.07.57:981][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6SOAJGEP3OYVDPIZ3Z9DKY_Auto47D79B4B94243139A0689799EC114FF28.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/OF/6SOAJGEP3OYVDPIZ3Z9DKY_Auto4.uasset'
+[2026.06.30-02.07.57:992][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/FR/JABLX9RV5K96FNRPYYRIWF_Auto4
+[2026.06.30-02.07.57:992][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JABLX9RV5K96FNRPYYRIWF_Auto4067C80AA403223D4E35849ADA2EC36DD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/FR/JABLX9RV5K96FNRPYYRIWF_Auto4.uasset'
+[2026.06.30-02.07.58:004][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/H9/SU792BQRSECN6XSRNX3QIV_Auto4
+[2026.06.30-02.07.58:005][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SU792BQRSECN6XSRNX3QIV_Auto4CD3A8D3F45CEC9237229A39B454F688B.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/H9/SU792BQRSECN6XSRNX3QIV_Auto4.uasset'
+[2026.06.30-02.07.58:015][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH_Auto4
+[2026.06.30-02.07.58:015][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/FV8MSHEL2XQS69BB7MB5YH_Auto41B0DD0D24ED9EBCA946FA38922A56FAA.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH_Auto4.uasset'
+[2026.06.30-02.07.58:027][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NN/0G0AJ5FLFLMS35RS58GVR2_Auto4
+[2026.06.30-02.07.58:027][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0G0AJ5FLFLMS35RS58GVR2_Auto4A8EB809148196AE048D2CE95A48F79F3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NN/0G0AJ5FLFLMS35RS58GVR2_Auto4.uasset'
+[2026.06.30-02.07.58:039][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/PB/C9ZLEANZKWD2H5SU5Y4GVO_Auto4
+[2026.06.30-02.07.58:039][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/C9ZLEANZKWD2H5SU5Y4GVO_Auto4BA4211774A9593C1C657AF85B82F76DB.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/PB/C9ZLEANZKWD2H5SU5Y4GVO_Auto4.uasset'
+[2026.06.30-02.07.58:051][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/A3/DAIDTEDWGU4O416RKHEAKW_Auto4
+[2026.06.30-02.07.58:051][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/DAIDTEDWGU4O416RKHEAKW_Auto4EF8084074F6DD8540273E5B2CF722F82.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/A3/DAIDTEDWGU4O416RKHEAKW_Auto4.uasset'
+[2026.06.30-02.07.58:061][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM_Auto4
+[2026.06.30-02.07.58:061][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/J731DM7M2SFBALUW9DFWPM_Auto4990FA0DC4D62D65206EAA981A0F034E2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM_Auto4.uasset'
+[2026.06.30-02.07.58:074][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY_Auto4
+[2026.06.30-02.07.58:074][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/227SH8N532EABGG6I07HWY_Auto4585EF0C7456CEFC10108F1B6F7547F25.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY_Auto4.uasset'
+[2026.06.30-02.07.58:086][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2_Auto4
+[2026.06.30-02.07.58:086][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KFX07A8ZSEP7EWHSJS3HR2_Auto4B560817D4C8E5F57ADABA9B0606FAF49.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2_Auto4.uasset'
+[2026.06.30-02.07.58:096][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO_Auto4
+[2026.06.30-02.07.58:096][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZZS56BSVVSZSK8KPXHTRJO_Auto4D3C8EFA14F9B6E2063ADAEAAD141382C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO_Auto4.uasset'
+[2026.06.30-02.07.58:109][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ_Auto4
+[2026.06.30-02.07.58:109][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/5QI9FOSVPIOZ28C0F949GQ_Auto4C4106D5F4FA1559430C2D583EA397566.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ_Auto4.uasset'
+[2026.06.30-02.07.58:120][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL_Auto4
+[2026.06.30-02.07.58:120][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/K8YZOMXWTR8IWXHP0HH5WL_Auto4C05BD35A482B4620596C249097395648.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL_Auto4.uasset'
+[2026.06.30-02.07.58:132][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6_Auto4
+[2026.06.30-02.07.58:132][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JZY7O3XI18212VMVM0X9F6_Auto40384489A40EE170C9AC6FD841A975E46.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6_Auto4.uasset'
+[2026.06.30-02.07.58:142][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V_Auto4
+[2026.06.30-02.07.58:142][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/QOJ3AON43IB2B633VNEG7V_Auto41F96F8B64FF67594F9A39091EA60BD79.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V_Auto4.uasset'
+[2026.06.30-02.07.58:153][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR_Auto4
+[2026.06.30-02.07.58:153][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PMWYUNZ70AQ4I1LZPDUOYR_Auto47C2339A34FF834C93ADEF2891C4C305D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR_Auto4.uasset'
+[2026.06.30-02.07.58:165][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70_Auto4
+[2026.06.30-02.07.58:165][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0JQ0V2A813ZK009O0HXJ70_Auto44CF7D58A43446BED50684E915F79670E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70_Auto4.uasset'
+[2026.06.30-02.07.58:177][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA_Auto4
+[2026.06.30-02.07.58:177][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/HGC506GA1S9PRF23AWD3MA_Auto4E265B5D947DA92CFF1D9FA9CB8DF9EBC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA_Auto4.uasset'
+[2026.06.30-02.07.58:189][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P4/7D9H72ZRPT1KYWRX45ME42_Auto4
+[2026.06.30-02.07.58:189][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/7D9H72ZRPT1KYWRX45ME42_Auto450BE49F9463DAE4D9DE82AB1B6FA08BF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P4/7D9H72ZRPT1KYWRX45ME42_Auto4.uasset'
+[2026.06.30-02.07.58:202][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/IH/0037QLA06WKRKUVA4M3C6A_Auto4
+[2026.06.30-02.07.58:202][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0037QLA06WKRKUVA4M3C6A_Auto486D1556C455AD4296DE9CFAE547BF2FC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/IH/0037QLA06WKRKUVA4M3C6A_Auto4.uasset'
+[2026.06.30-02.07.58:214][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/TD/WRLRRSQL8KRDR7NBS9UZL6_Auto4
+[2026.06.30-02.07.58:214][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/WRLRRSQL8KRDR7NBS9UZL6_Auto46A8D40E44DA936599BDE46BBE264080F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/TD/WRLRRSQL8KRDR7NBS9UZL6_Auto4.uasset'
+[2026.06.30-02.07.58:226][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0F/9NJ4ZPQ53AUCR1087W9YOF_Auto4
+[2026.06.30-02.07.58:226][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9NJ4ZPQ53AUCR1087W9YOF_Auto42374B07B4B1E1AA5CF44D18343DC9208.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0F/9NJ4ZPQ53AUCR1087W9YOF_Auto4.uasset'
+[2026.06.30-02.07.58:238][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/JP/KQO0MJ3Y65VUHEKMTI1KUH_Auto4
+[2026.06.30-02.07.58:238][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KQO0MJ3Y65VUHEKMTI1KUH_Auto42FE548D9446F7650600E8C94195F0D3C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/JP/KQO0MJ3Y65VUHEKMTI1KUH_Auto4.uasset'
+[2026.06.30-02.07.58:251][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/PI/0APRTTG1LCW77S447JOCVM_Auto4
+[2026.06.30-02.07.58:251][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0APRTTG1LCW77S447JOCVM_Auto48C26564D426793888B5DC88FA6A1434E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/PI/0APRTTG1LCW77S447JOCVM_Auto4.uasset'
+[2026.06.30-02.07.58:263][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/CB/6AUWJZKFN0951T7QNWBE85_Auto4
+[2026.06.30-02.07.58:263][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6AUWJZKFN0951T7QNWBE85_Auto427E2C3B345F4BE0416119991D73D2FA4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/CB/6AUWJZKFN0951T7QNWBE85_Auto4.uasset'
+[2026.06.30-02.07.58:274][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/Y0/EFKRHE78P4P9SPDQOCV9VW_Auto4
+[2026.06.30-02.07.58:274][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EFKRHE78P4P9SPDQOCV9VW_Auto4B3713A80439E132DD318CC95A825789F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/Y0/EFKRHE78P4P9SPDQOCV9VW_Auto4.uasset'
+[2026.06.30-02.07.58:289][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/YW/3YFQI3CXV2GZN3VR96RSKA_Auto4
+[2026.06.30-02.07.58:289][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3YFQI3CXV2GZN3VR96RSKA_Auto44AAB0F434444BAE7D995F19C0E010978.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/YW/3YFQI3CXV2GZN3VR96RSKA_Auto4.uasset'
+[2026.06.30-02.07.58:302][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/AP/YNW1YI8SVO79ZC437H6M3L_Auto4
+[2026.06.30-02.07.58:302][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/YNW1YI8SVO79ZC437H6M3L_Auto456298A6144BF1D277F2C16B720F54AC9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/AP/YNW1YI8SVO79ZC437H6M3L_Auto4.uasset'
+[2026.06.30-02.07.58:314][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/IA/D8KM56M3F3ITYE25E87VX8_Auto4
+[2026.06.30-02.07.58:314][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/D8KM56M3F3ITYE25E87VX8_Auto456D4E4CC40B9CA09BA9511B8096307BF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/IA/D8KM56M3F3ITYE25E87VX8_Auto4.uasset'
+[2026.06.30-02.07.58:326][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/A8/6HQCLFPHYW0GDNALRR7S8N_Auto4
+[2026.06.30-02.07.58:326][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6HQCLFPHYW0GDNALRR7S8N_Auto427014B984E8A98A730F8BE93304203A2.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/A8/6HQCLFPHYW0GDNALRR7S8N_Auto4.uasset'
+[2026.06.30-02.07.58:339][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/ZJ/4O0O7UU83M48YF1OCXHP90_Auto4
+[2026.06.30-02.07.58:339][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/4O0O7UU83M48YF1OCXHP90_Auto4395248CC46AA210962932C9F4B222149.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/ZJ/4O0O7UU83M48YF1OCXHP90_Auto4.uasset'
+[2026.06.30-02.07.58:351][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/FJ/3DIAEKAYWNZYWFV0EYVZ9D_Auto4
+[2026.06.30-02.07.58:351][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3DIAEKAYWNZYWFV0EYVZ9D_Auto4EACBF00D4282B411D73189BF2DBC9AFE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/FJ/3DIAEKAYWNZYWFV0EYVZ9D_Auto4.uasset'
+[2026.06.30-02.07.58:362][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/63/9GZYNTV2AYKKDHT8HE1MCH_Auto4
+[2026.06.30-02.07.58:364][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9GZYNTV2AYKKDHT8HE1MCH_Auto42F5AFFF94464CBD1B536D384BE7DD1C8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/63/9GZYNTV2AYKKDHT8HE1MCH_Auto4.uasset'
+[2026.06.30-02.07.58:376][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/GD/3CPFZP1SKVDAO1BI6CI9MP_Auto4
+[2026.06.30-02.07.58:376][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3CPFZP1SKVDAO1BI6CI9MP_Auto46C37E7114355D7BF27BFD09203A62ECA.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/GD/3CPFZP1SKVDAO1BI6CI9MP_Auto4.uasset'
+[2026.06.30-02.07.58:389][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/78/YOL9J4Y4C8ZGE37DFZSLTZ_Auto4
+[2026.06.30-02.07.58:389][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/YOL9J4Y4C8ZGE37DFZSLTZ_Auto48FF841C44196FACF9AB9CBAA65C8ACD0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/78/YOL9J4Y4C8ZGE37DFZSLTZ_Auto4.uasset'
+[2026.06.30-02.07.58:402][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/HU/6G35U3U2KG0OIV5A0SJ00G_Auto4
+[2026.06.30-02.07.58:402][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6G35U3U2KG0OIV5A0SJ00G_Auto4AA85ABEC423F1500688C9C9ACAD29C29.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/HU/6G35U3U2KG0OIV5A0SJ00G_Auto4.uasset'
+[2026.06.30-02.07.58:414][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/LS/OM8LOPYFQSOH9L98I3RBS4_Auto4
+[2026.06.30-02.07.58:414][786]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/OM8LOPYFQSOH9L98I3RBS4_Auto42AB01D8746657C57191B84A5DC51B56E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/LS/OM8LOPYFQSOH9L98I3RBS4_Auto4.uasset'
+[2026.06.30-02.07.58:415][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.539
+[2026.06.30-02.07.58:415][786]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.539
+[2026.06.30-02.08.13:184][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.06.30-02.08.13:196][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.08.13:444][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-02.08.13:469][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-02.08.13:492][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.08.13:505][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BL/37K9CHKP904XK8DZZSK5SL
+[2026.06.30-02.08.13:506][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/37K9CHKP904XK8DZZSK5SL2D4DCCEE44722C062EEF00BC2E51F4A3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BL/37K9CHKP904XK8DZZSK5SL.uasset'
+[2026.06.30-02.08.13:519][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/OF/NKWBEHAF222RJH4IT0BZ8H
+[2026.06.30-02.08.13:519][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/NKWBEHAF222RJH4IT0BZ8H0B4C0083470D466CD55F3587A343BA32.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/OF/NKWBEHAF222RJH4IT0BZ8H.uasset'
+[2026.06.30-02.08.13:532][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/NM/52N8X7GL3K5RXSNQYHW9Z2
+[2026.06.30-02.08.13:532][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/52N8X7GL3K5RXSNQYHW9Z2FFC9BD954B23E640B7F011A09D51C13E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/NM/52N8X7GL3K5RXSNQYHW9Z2.uasset'
+[2026.06.30-02.08.13:544][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/2F/H6QUGPG186UIKO28PV8U7Z
+[2026.06.30-02.08.13:545][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/H6QUGPG186UIKO28PV8U7ZA126EC5348070026BCBE8E9BE1B1F59B.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/2F/H6QUGPG186UIKO28PV8U7Z.uasset'
+[2026.06.30-02.08.13:557][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/OF/6SOAJGEP3OYVDPIZ3Z9DKY
+[2026.06.30-02.08.13:557][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6SOAJGEP3OYVDPIZ3Z9DKY5B52912441A11CB60E311FA5C19363DA.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/OF/6SOAJGEP3OYVDPIZ3Z9DKY.uasset'
+[2026.06.30-02.08.13:570][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/FR/JABLX9RV5K96FNRPYYRIWF
+[2026.06.30-02.08.13:571][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JABLX9RV5K96FNRPYYRIWF6F11750E4375DC8F37D3F49BC7F6028E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/FR/JABLX9RV5K96FNRPYYRIWF.uasset'
+[2026.06.30-02.08.13:581][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/H9/SU792BQRSECN6XSRNX3QIV
+[2026.06.30-02.08.13:582][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SU792BQRSECN6XSRNX3QIVB247CF4C4953426DCDF42DAF41E7492A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/H9/SU792BQRSECN6XSRNX3QIV.uasset'
+[2026.06.30-02.08.13:594][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH
+[2026.06.30-02.08.13:595][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/FV8MSHEL2XQS69BB7MB5YH0BE296AC4E3171BA4623BF957245BA88.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/0E/FV8MSHEL2XQS69BB7MB5YH.uasset'
+[2026.06.30-02.08.13:608][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NN/0G0AJ5FLFLMS35RS58GVR2
+[2026.06.30-02.08.13:608][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0G0AJ5FLFLMS35RS58GVR24A9D08D54E8DD3171E5B28894E9E83D0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NN/0G0AJ5FLFLMS35RS58GVR2.uasset'
+[2026.06.30-02.08.13:620][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/PB/C9ZLEANZKWD2H5SU5Y4GVO
+[2026.06.30-02.08.13:621][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/C9ZLEANZKWD2H5SU5Y4GVO508B103E4E0219FBC85EB4B276727E34.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/PB/C9ZLEANZKWD2H5SU5Y4GVO.uasset'
+[2026.06.30-02.08.13:633][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/A3/DAIDTEDWGU4O416RKHEAKW
+[2026.06.30-02.08.13:634][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/DAIDTEDWGU4O416RKHEAKWF81984F54062D4CE508A459BCB4D63F1.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/A3/DAIDTEDWGU4O416RKHEAKW.uasset'
+[2026.06.30-02.08.13:645][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM
+[2026.06.30-02.08.13:645][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/J731DM7M2SFBALUW9DFWPM8F67C148412970AEF80300B714992949.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/0Y/J731DM7M2SFBALUW9DFWPM.uasset'
+[2026.06.30-02.08.13:659][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY
+[2026.06.30-02.08.13:659][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/227SH8N532EABGG6I07HWYB3F6F7A84A2C2CEA3AD75E91F5FF108A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/EA/227SH8N532EABGG6I07HWY.uasset'
+[2026.06.30-02.08.13:672][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2
+[2026.06.30-02.08.13:672][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KFX07A8ZSEP7EWHSJS3HR2FA7A4A2441358BD4582B5B9D1105EA1D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/I8/KFX07A8ZSEP7EWHSJS3HR2.uasset'
+[2026.06.30-02.08.13:684][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO
+[2026.06.30-02.08.13:684][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/ZZS56BSVVSZSK8KPXHTRJOCD49F63A445EE574699B0C965D0BAEDE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/5/CF/ZZS56BSVVSZSK8KPXHTRJO.uasset'
+[2026.06.30-02.08.13:696][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ
+[2026.06.30-02.08.13:697][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/5QI9FOSVPIOZ28C0F949GQ69F0016543FD6B0AA95383A2936CA3F4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/3/B2/5QI9FOSVPIOZ28C0F949GQ.uasset'
+[2026.06.30-02.08.13:711][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL
+[2026.06.30-02.08.13:711][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/K8YZOMXWTR8IWXHP0HH5WLA404520141073D3F7F981DB2DC7B2B5A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/94/K8YZOMXWTR8IWXHP0HH5WL.uasset'
+[2026.06.30-02.08.13:723][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6
+[2026.06.30-02.08.13:723][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/JZY7O3XI18212VMVM0X9F62E7C3EAD4DE5264B2D4EC5B52C3BFA69.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/17/JZY7O3XI18212VMVM0X9F6.uasset'
+[2026.06.30-02.08.13:736][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V
+[2026.06.30-02.08.13:736][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/QOJ3AON43IB2B633VNEG7VDC83C7FA4EB5E276540E29A346EB69BC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/78/QOJ3AON43IB2B633VNEG7V.uasset'
+[2026.06.30-02.08.13:747][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR
+[2026.06.30-02.08.13:747][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/PMWYUNZ70AQ4I1LZPDUOYRAF653C7348F33DC46BF2148338122292.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/06/PMWYUNZ70AQ4I1LZPDUOYR.uasset'
+[2026.06.30-02.08.13:761][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70
+[2026.06.30-02.08.13:761][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0JQ0V2A813ZK009O0HXJ70BFD48F2D4E2997ECE2703F878BF19B8F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/KH/0JQ0V2A813ZK009O0HXJ70.uasset'
+[2026.06.30-02.08.13:774][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA
+[2026.06.30-02.08.13:774][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/HGC506GA1S9PRF23AWD3MA5C880C994B7428BC911167902DE24869.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P7/HGC506GA1S9PRF23AWD3MA.uasset'
+[2026.06.30-02.08.13:786][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P4/7D9H72ZRPT1KYWRX45ME42
+[2026.06.30-02.08.13:786][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/7D9H72ZRPT1KYWRX45ME4229E73207455A89D35A3636915E1F1ED0.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/P4/7D9H72ZRPT1KYWRX45ME42.uasset'
+[2026.06.30-02.08.13:798][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/IH/0037QLA06WKRKUVA4M3C6A
+[2026.06.30-02.08.13:798][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0037QLA06WKRKUVA4M3C6AB233BA1D4F92FFDA7D3F0AB14F6993A4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/IH/0037QLA06WKRKUVA4M3C6A.uasset'
+[2026.06.30-02.08.13:810][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/TD/WRLRRSQL8KRDR7NBS9UZL6
+[2026.06.30-02.08.13:810][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/WRLRRSQL8KRDR7NBS9UZL6A3CD8CD54E5F8000F042819DA0CEF42E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/TD/WRLRRSQL8KRDR7NBS9UZL6.uasset'
+[2026.06.30-02.08.13:822][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0F/9NJ4ZPQ53AUCR1087W9YOF
+[2026.06.30-02.08.13:822][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9NJ4ZPQ53AUCR1087W9YOF20CA43C247EB1538D9F86980232109C4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0F/9NJ4ZPQ53AUCR1087W9YOF.uasset'
+[2026.06.30-02.08.13:835][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/JP/KQO0MJ3Y65VUHEKMTI1KUH
+[2026.06.30-02.08.13:835][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/KQO0MJ3Y65VUHEKMTI1KUH4EBDC1AB439C0884ACF669B3E241A4F6.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/JP/KQO0MJ3Y65VUHEKMTI1KUH.uasset'
+[2026.06.30-02.08.13:848][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/PI/0APRTTG1LCW77S447JOCVM
+[2026.06.30-02.08.13:848][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0APRTTG1LCW77S447JOCVM27C85C054FA8CBBC2CBBB0B20E0B51BB.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/PI/0APRTTG1LCW77S447JOCVM.uasset'
+[2026.06.30-02.08.13:860][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/CB/6AUWJZKFN0951T7QNWBE85
+[2026.06.30-02.08.13:860][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6AUWJZKFN0951T7QNWBE85DFBA3C974B9D9509929B029CCAFE26EE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/CB/6AUWJZKFN0951T7QNWBE85.uasset'
+[2026.06.30-02.08.13:874][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/Y0/EFKRHE78P4P9SPDQOCV9VW
+[2026.06.30-02.08.13:874][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/EFKRHE78P4P9SPDQOCV9VWFB4A965642F8DCB2E3E596B064ACD32C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/4/Y0/EFKRHE78P4P9SPDQOCV9VW.uasset'
+[2026.06.30-02.08.13:886][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/YW/3YFQI3CXV2GZN3VR96RSKA
+[2026.06.30-02.08.13:886][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3YFQI3CXV2GZN3VR96RSKA8F8E9E094E4D1D2CEF38EABDD5ADEE00.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/YW/3YFQI3CXV2GZN3VR96RSKA.uasset'
+[2026.06.30-02.08.13:898][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/AP/YNW1YI8SVO79ZC437H6M3L
+[2026.06.30-02.08.13:898][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/YNW1YI8SVO79ZC437H6M3LDF22084A48D79D78330B919837BF9C90.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/1/AP/YNW1YI8SVO79ZC437H6M3L.uasset'
+[2026.06.30-02.08.13:912][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/IA/D8KM56M3F3ITYE25E87VX8
+[2026.06.30-02.08.13:912][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/D8KM56M3F3ITYE25E87VX8FD7B1B03461AFFD5E01FC3A14959390F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/IA/D8KM56M3F3ITYE25E87VX8.uasset'
+[2026.06.30-02.08.13:924][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/A8/6HQCLFPHYW0GDNALRR7S8N
+[2026.06.30-02.08.13:924][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6HQCLFPHYW0GDNALRR7S8N5FC2563548A71FEF8BECE78D4CA44345.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/A8/6HQCLFPHYW0GDNALRR7S8N.uasset'
+[2026.06.30-02.08.13:936][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/ZJ/4O0O7UU83M48YF1OCXHP90
+[2026.06.30-02.08.13:936][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/4O0O7UU83M48YF1OCXHP903835D8134DB1BDAED87F9F84E3EA6AC9.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/9/ZJ/4O0O7UU83M48YF1OCXHP90.uasset'
+[2026.06.30-02.08.13:948][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/FJ/3DIAEKAYWNZYWFV0EYVZ9D
+[2026.06.30-02.08.13:948][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3DIAEKAYWNZYWFV0EYVZ9DF02B8C0F42693FA9BD148F844F46BC76.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/A/FJ/3DIAEKAYWNZYWFV0EYVZ9D.uasset'
+[2026.06.30-02.08.13:962][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/63/9GZYNTV2AYKKDHT8HE1MCH
+[2026.06.30-02.08.13:962][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9GZYNTV2AYKKDHT8HE1MCHBD9886304E3FA32F5ECE318535A0B979.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/63/9GZYNTV2AYKKDHT8HE1MCH.uasset'
+[2026.06.30-02.08.13:975][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/GD/3CPFZP1SKVDAO1BI6CI9MP
+[2026.06.30-02.08.13:976][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/3CPFZP1SKVDAO1BI6CI9MP33721A7B408B8187957DD59ECCBA4B77.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/GD/3CPFZP1SKVDAO1BI6CI9MP.uasset'
+[2026.06.30-02.08.13:987][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/78/YOL9J4Y4C8ZGE37DFZSLTZ
+[2026.06.30-02.08.13:987][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/YOL9J4Y4C8ZGE37DFZSLTZC958C1934B6831C2DAD97880B5403C5D.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/78/YOL9J4Y4C8ZGE37DFZSLTZ.uasset'
+[2026.06.30-02.08.14:001][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/HU/6G35U3U2KG0OIV5A0SJ00G
+[2026.06.30-02.08.14:001][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6G35U3U2KG0OIV5A0SJ00GB6F24D4446A082CF2E6E3A92CA9C5183.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/6/HU/6G35U3U2KG0OIV5A0SJ00G.uasset'
+[2026.06.30-02.08.14:013][940]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/LS/OM8LOPYFQSOH9L98I3RBS4
+[2026.06.30-02.08.14:013][940]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/OM8LOPYFQSOH9L98I3RBS43ADC608F45DEA146B115CF97368F1CF8.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/LS/OM8LOPYFQSOH9L98I3RBS4.uasset'
+[2026.06.30-02.08.14:069][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 872.195 ms (total: 2.83 sec)
+[2026.06.30-02.08.14:134][940]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.08.14:134][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.08.14:134][940]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.08.14:172][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.08.14:205][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.30-02.08.14:232][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.06.30-02.08.14:432][940]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.08.14:432][940]LogStreaming: Display: FlushAsyncLoading(2502): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.08.14:440][940]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.08.14:440][940]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.08.14:440][940]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=705.00, Y=1435.00, Z=441.15), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.08.14:441][940]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.08.14:481][940]LogWorldPartition: Display: WorldPartition initialize took 41.602 ms (total: 1:00 min)
+[2026.06.30-02.08.14:489][940]LogLevelInstance: Loaded 1 levels in 0,057 seconds
+[2026.06.30-02.08.14:580][940]LogContentValidation: Display: Starting to validate 41 assets
+[2026.06.30-02.08.14:580][940]LogContentValidation: Enabled validators:
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.08.14:580][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.08.14:725][940]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.30-02.09.07:965][784]Cmd: DELETE
+[2026.06.30-02.09.07:965][784]Cmd: ACTOR DELETE
+[2026.06.30-02.09.11:036][784]LogSlate: Window 'Excluir ator referenciado' being destroyed
+[2026.06.30-02.09.11:049][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.09.12:462][784]LogSlate: Window 'Excluir ator referenciado' being destroyed
+[2026.06.30-02.09.12:472][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.09.12:510][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.06.30-02.09.12:515][784]LogEditorActor: Deleted 2 Actors (0.183 secs)
+[2026.06.30-02.09.15:128][  3]Cmd: DELETE
+[2026.06.30-02.09.15:128][  3]Cmd: ACTOR DELETE
+[2026.06.30-02.09.16:250][  3]LogSlate: Window 'Excluir ator referenciado' being destroyed
+[2026.06.30-02.09.16:262][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.09.16:901][  3]LogSlate: Window 'Excluir ator referenciado' being destroyed
+[2026.06.30-02.09.16:911][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.09.16:937][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.09.16:941][  3]LogEditorActor: Deleted 2 Actors (0.161 secs)
+[2026.06.30-02.10.36:351][ 12]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.10.36:351][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.10.36:351][ 12]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.10.36:378][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.30-02.10.36:406][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.30-02.10.36:432][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.30-02.10.36:433][ 12]LogLevelInstance: Unloaded 1 levels in 0,086 seconds
+[2026.06.30-02.10.36:433][ 12]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Level_Instance/Casa_Pobre_01) is flushing async loading
+[2026.06.30-02.10.36:433][ 12]LogStreaming: Display: FlushAsyncLoading(2546): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.10.36:435][ 12]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.10.36:435][ 12]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.10.36:435][ 12]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-448.00, Y=-880.00, Z=815.15), Rotation = R(Y=-118.12), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.10.36:435][ 12]LogActorComponent: ReregisterComponent: (/Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.10.36:455][ 12]LogWorldPartition: Display: WorldPartition initialize took 19.515 ms (total: 1:00 min)
+[2026.06.30-02.10.50:431][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.10.50:431][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.10.50:433][853]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_0
+[2026.06.30-02.10.51:409][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.30-02.10.51:415][917]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.06.30-02.10.51:439][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.10.51:439][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.10.51:443][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138FE902_1339426758
+[2026.06.30-02.11.25:745][344]Cmd: DELETE
+[2026.06.30-02.11.25:746][344]Cmd: ACTOR DELETE
+[2026.06.30-02.11.25:875][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.11.25:901][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.06.30-02.11.25:904][344]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2026.06.30-02.11.27:631][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.11.27:631][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.11.27:633][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_1
+[2026.06.30-02.11.30:060][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-02.11.30:064][681]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.06.30-02.11.30:082][681]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.11.30:082][681]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.11.30:086][681]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138FE902_1378069759
+[2026.06.30-02.11.33:558][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11120.623047
+[2026.06.30-02.11.33:809][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.11.33:809][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11120.860352, Update Interval: 341.573547
+[2026.06.30-02.12.54:598][574]Cmd: DELETE
+[2026.06.30-02.12.54:598][574]Cmd: ACTOR DELETE
+[2026.06.30-02.12.54:732][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.12.54:754][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.12.54:758][574]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2026.06.30-02.13.01:262][ 66]Cmd: DELETE
+[2026.06.30-02.13.01:262][ 66]Cmd: ACTOR DELETE
+[2026.06.30-02.13.01:393][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.13.01:419][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.06.30-02.13.01:422][ 66]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2026.06.30-02.13.10:398][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.13.10:398][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.13.10:400][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_2
+[2026.06.30-02.13.16:577][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-02.13.16:581][986]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.06.30-02.13.16:603][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.13.16:604][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.13.16:607][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138FE902_1484591761
+[2026.06.30-02.13.23:763][508]Cmd: TRANSACTION UNDO
+[2026.06.30-02.13.23:763][508]LogEditorTransaction: Undo Definir Rotação
+[2026.06.30-02.13.24:261][516]Cmd: TRANSACTION UNDO
+[2026.06.30-02.13.24:261][516]LogEditorTransaction: Undo Colocar objetos
+[2026.06.30-02.15.32:341][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.15.32:341][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.15.32:343][916]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_3
+[2026.06.30-02.15.34:470][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.30-02.15.34:474][118]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.06.30-02.15.34:496][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.15.34:496][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.15.34:501][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138FE902_1622483762
+[2026.06.30-02.15.54:147][555]Cmd: DELETE
+[2026.06.30-02.15.54:147][555]Cmd: ACTOR DELETE
+[2026.06.30-02.15.54:277][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.15.54:300][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.30-02.15.54:305][555]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2026.06.30-02.15.55:772][690]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.15.55:772][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.15.55:772][690]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.15.55:798][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.15.55:824][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.30-02.15.55:847][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.15.55:878][690]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.15.55:878][690]LogStreaming: Display: FlushAsyncLoading(2590): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.15.55:880][690]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.15.55:880][690]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.15.55:880][690]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-448.00, Y=-880.00, Z=815.15), Rotation = R(Y=-118.12), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.15.55:881][690]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.15.55:899][690]LogWorldPartition: Display: WorldPartition initialize took 18.712 ms (total: 1:00 min)
+[2026.06.30-02.15.55:907][690]LogLevelInstance: Loaded 1 levels in 0,029 seconds
+[2026.06.30-02.16.59:771][463]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.16.59:771][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.16.59:771][463]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.16.59:798][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.30-02.16.59:823][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-02.16.59:847][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.30-02.16.59:849][463]LogLevelInstance: Unloaded 1 levels in 0,082 seconds
+[2026.06.30-02.16.59:849][463]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Level_Instance/Casa_Pobre_01) is flushing async loading
+[2026.06.30-02.16.59:849][463]LogStreaming: Display: FlushAsyncLoading(2634): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.16.59:852][463]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.16.59:852][463]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.16.59:852][463]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-448.00, Y=-880.00, Z=1081.15), Rotation = R(Y=-90.00), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.16.59:852][463]LogActorComponent: ReregisterComponent: (/Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.16.59:869][463]LogWorldPartition: Display: WorldPartition initialize took 18.368 ms (total: 1:00 min)
+[2026.06.30-02.17.07:948][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.17.07:948][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.17.07:950][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_0
+[2026.06.30-02.17.12:743][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.06.30-02.17.12:746][172]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.06.30-02.17.12:770][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.17.12:770][172]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao
+[2026.06.30-02.17.12:773][172]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Blocos_Casas/Bloco_Pedra_Fundacao.Bloco_Pedra_Fundacao as actor: StaticMeshActor /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA71138FE902_1720757763
+[2026.06.30-02.18.04:472][693]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11511.620117
+[2026.06.30-02.18.04:692][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.18.04:692][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11511.827148, Update Interval: 357.178253
+[2026.06.30-02.19.11:269][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.30-02.19.11:318][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO_Auto5
+[2026.06.30-02.19.11:318][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MLY24OT37DR6NV2PB2F5SO_Auto5BCCE8227416764531ACBFE8CC6E40BA5.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO_Auto5.uasset'
+[2026.06.30-02.19.11:341][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/33/6PFO5WI71VH8196L87A7FO_Auto5
+[2026.06.30-02.19.11:341][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6PFO5WI71VH8196L87A7FO_Auto5799497C6492F7B83C1B71CB5FABFF358.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/33/6PFO5WI71VH8196L87A7FO_Auto5.uasset'
+[2026.06.30-02.19.11:352][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ_Auto5
+[2026.06.30-02.19.11:352][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/2K7JGE7QIQK8PKLOPFDTCZ_Auto52DAC31E34476D44179E9C89C8FA1E1BE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ_Auto5.uasset'
+[2026.06.30-02.19.11:364][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0G/WEVK572FX32CT6WXPXZCXV_Auto5
+[2026.06.30-02.19.11:364][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/WEVK572FX32CT6WXPXZCXV_Auto5BFC7880D43D22929BF248B8BB4D33F3C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0G/WEVK572FX32CT6WXPXZCXV_Auto5.uasset'
+[2026.06.30-02.19.11:377][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/MW/0ID676O70C8GJBMSDCQTIE_Auto5
+[2026.06.30-02.19.11:377][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0ID676O70C8GJBMSDCQTIE_Auto582F3D6544BE4747893E5578952DC6EF4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/MW/0ID676O70C8GJBMSDCQTIE_Auto5.uasset'
+[2026.06.30-02.19.11:388][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/6H/W2PLEEHJE5DJLLQSU3MEAO_Auto5
+[2026.06.30-02.19.11:388][594]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/W2PLEEHJE5DJLLQSU3MEAO_Auto59687687643714BF52786CDA7C820AE18.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/6H/W2PLEEHJE5DJLLQSU3MEAO_Auto5.uasset'
+[2026.06.30-02.19.11:389][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.144
+[2026.06.30-02.19.11:389][594]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2026.06.30-02.19.31:120][ 95]Cmd: TRANSACTION UNDO
+[2026.06.30-02.19.31:120][ 95]LogEditorTransaction: Undo Dimensionar Elementos
+[2026.06.30-02.20.08:122][711]Cmd: DELETE
+[2026.06.30-02.20.08:123][711]Cmd: ACTOR DELETE
+[2026.06.30-02.20.08:253][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.20.08:277][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.20.08:283][711]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2026.06.30-02.20.13:240][109]Cmd: DELETE
+[2026.06.30-02.20.13:240][109]Cmd: ACTOR DELETE
+[2026.06.30-02.20.13:368][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.20.13:393][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.30-02.20.13:396][109]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2026.06.30-02.20.16:560][352]Cmd: TRANSACTION UNDO
+[2026.06.30-02.20.16:562][352]LogEditorTransaction: Undo Mover Elementos
+[2026.06.30-02.20.22:089][669]Cmd: TRANSACTION UNDO
+[2026.06.30-02.20.22:089][669]LogEditorTransaction: Undo Mover Elementos
+[2026.06.30-02.22.27:387][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.22.27:482][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.06.30-02.22.27:511][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.06.30-02.22.27:534][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-02.22.27:548][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/33/6PFO5WI71VH8196L87A7FO
+[2026.06.30-02.22.27:548][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6PFO5WI71VH8196L87A7FO941877324C1DE6E558B25582CEB22468.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/8/33/6PFO5WI71VH8196L87A7FO.uasset'
+[2026.06.30-02.22.27:560][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ
+[2026.06.30-02.22.27:560][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/2K7JGE7QIQK8PKLOPFDTCZC333316943A0D35CBFEB94A204CB0B90.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ.uasset'
+[2026.06.30-02.22.27:573][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0G/WEVK572FX32CT6WXPXZCXV
+[2026.06.30-02.22.27:573][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/WEVK572FX32CT6WXPXZCXV571AEC72483D21E7EDB1FDB24C40F3BA.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/0G/WEVK572FX32CT6WXPXZCXV.uasset'
+[2026.06.30-02.22.27:850][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/MW/0ID676O70C8GJBMSDCQTIE
+[2026.06.30-02.22.27:850][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/0ID676O70C8GJBMSDCQTIE021570D7493BD6F01F701A9A802C7BEC.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/2/MW/0ID676O70C8GJBMSDCQTIE.uasset'
+[2026.06.30-02.22.27:863][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/6H/W2PLEEHJE5DJLLQSU3MEAO
+[2026.06.30-02.22.27:863][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/W2PLEEHJE5DJLLQSU3MEAOBE23A0A647302947BB8655A2BA45052A.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/C/6H/W2PLEEHJE5DJLLQSU3MEAO.uasset'
+[2026.06.30-02.22.27:875][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BT/6TPKMZYWSCKN9E327VZ0F0
+[2026.06.30-02.22.27:875][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/6TPKMZYWSCKN9E327VZ0F05ACC1979409D711BD1D19FBDD159141F.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/E/BT/6TPKMZYWSCKN9E327VZ0F0.uasset'
+[2026.06.30-02.22.27:890][622]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T
+[2026.06.30-02.22.27:890][622]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/G43X8I1YKQ0XD64EKJVF2T4DD60101471053C30D1F33A783FE7D63.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T.uasset'
+[2026.06.30-02.22.27:925][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 536.931 ms (total: 3.36 sec)
+[2026.06.30-02.22.27:988][622]LogContentValidation: Display: Starting to validate 7 assets
+[2026.06.30-02.22.27:988][622]LogContentValidation: Enabled validators:
+[2026.06.30-02.22.27:988][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.22.27:988][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.22.27:988][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.22.27:988][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.22.27:988][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.22.27:989][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.22.27:989][622]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.06.30-02.22.28:074][622]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.30-02.22.31:424][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.06.30-02.22.31:433][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.22.31:541][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.30-02.22.31:566][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.30-02.22.31:590][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.30-02.22.31:607][924]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO
+[2026.06.30-02.22.31:607][924]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MLY24OT37DR6NV2PB2F5SOA4CB22234EE9CBE0750878B11C93816E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO.uasset'
+[2026.06.30-02.22.31:650][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.225 ms (total: 3.58 sec)
+[2026.06.30-02.22.31:726][924]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.30-02.22.31:726][924]LogContentValidation: Enabled validators:
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.22.31:726][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.22.31:726][924]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.06.30-02.22.31:763][924]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.30-02.22.45:085][990]Cmd: DELETE
+[2026.06.30-02.22.45:085][990]Cmd: ACTOR DELETE
+[2026.06.30-02.22.45:224][990]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.22.45:249][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.30-02.22.45:251][990]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2026.06.30-02.23.20:331][508]Cmd: DELETE
+[2026.06.30-02.23.20:331][508]Cmd: ACTOR DELETE
+[2026.06.30-02.23.20:467][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.23.20:489][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.30-02.23.20:493][508]LogEditorActor: Deleted 1 Actors (0.163 secs)
+[2026.06.30-02.23.30:140][211]Cmd: DELETE
+[2026.06.30-02.23.30:140][211]Cmd: ACTOR DELETE
+[2026.06.30-02.23.30:269][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.23.30:294][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.30-02.23.30:299][211]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2026.06.30-02.23.31:705][316]Cmd: DELETE
+[2026.06.30-02.23.31:705][316]Cmd: ACTOR DELETE
+[2026.06.30-02.23.31:847][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.30-02.23.31:875][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.06.30-02.23.31:879][316]LogEditorActor: Deleted 1 Actors (0.174 secs)
+[2026.06.30-02.23.59:666][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.30-02.23.59:677][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.23.59:766][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-02.23.59:790][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.30-02.23.59:813][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-02.23.59:830][637]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ
+[2026.06.30-02.23.59:831][637]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/2K7JGE7QIQK8PKLOPFDTCZ364782F74B6A813B4ACB53BDF2B89A90.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ.uasset'
+[2026.06.30-02.23.59:845][637]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T
+[2026.06.30-02.23.59:845][637]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/G43X8I1YKQ0XD64EKJVF2T3C1DCC2B4BB2023E397093A82B17AAFD.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T.uasset'
+[2026.06.30-02.23.59:857][637]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NX/TLA9F99U2TJ9S774ZPVPJ3
+[2026.06.30-02.23.59:857][637]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/TLA9F99U2TJ9S774ZPVPJ3D6771CB74E633D55BDB8E496DEDF8AFF.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NX/TLA9F99U2TJ9S774ZPVPJ3.uasset'
+[2026.06.30-02.23.59:869][637]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/B5/9HREXQW2UQJAHKGSHRAF3A
+[2026.06.30-02.23.59:869][637]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9HREXQW2UQJAHKGSHRAF3A1335AA2B49321EB399310C8CD2BAB050.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/B5/9HREXQW2UQJAHKGSHRAF3A.uasset'
+[2026.06.30-02.23.59:906][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.369 ms (total: 3.81 sec)
+[2026.06.30-02.24.00:236][637]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.24.00:236][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.24.00:236][637]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.24.00:266][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.30-02.24.00:289][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.30-02.24.00:315][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.30-02.24.00:353][637]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.24.00:353][637]LogStreaming: Display: FlushAsyncLoading(2678): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.24.00:356][637]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.24.00:356][637]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.24.00:356][637]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-448.00, Y=-880.00, Z=1081.15), Rotation = R(Y=-90.00), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.24.00:356][637]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.24.00:377][637]LogWorldPartition: Display: WorldPartition initialize took 21.007 ms (total: 1:00 min)
+[2026.06.30-02.24.00:385][637]LogLevelInstance: Loaded 1 levels in 0,032 seconds
+[2026.06.30-02.24.00:489][637]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.30-02.24.00:489][637]LogContentValidation: Enabled validators:
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.24.00:490][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.24.00:605][637]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.30-02.24.56:735][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11924.009766
+[2026.06.30-02.24.57:166][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.24.57:166][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11924.428711, Update Interval: 356.665558
+[2026.06.30-02.25.17:150][357]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.25.17:150][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.25.17:150][357]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.25.17:176][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.30-02.25.17:204][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.30-02.25.17:228][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.25.17:229][357]LogLevelInstance: Unloaded 1 levels in 0,085 seconds
+[2026.06.30-02.25.17:230][357]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Level_Instance/Casa_Pobre_01) is flushing async loading
+[2026.06.30-02.25.17:230][357]LogStreaming: Display: FlushAsyncLoading(2727): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.25.17:232][357]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.25.17:232][357]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.25.17:232][357]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=871.15), Rotation = R(Y=-112.50), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.25.17:232][357]LogActorComponent: ReregisterComponent: (/Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.25.17:252][357]LogWorldPartition: Display: WorldPartition initialize took 20.677 ms (total: 1:00 min)
+[2026.06.30-02.25.21:150][542]Cmd: TRANSACTION UNDO
+[2026.06.30-02.25.21:151][542]LogEditorTransaction: Undo Mover Elementos
+[2026.06.30-02.25.23:109][659]Cmd: TRANSACTION UNDO
+[2026.06.30-02.25.23:109][659]LogEditorTransaction: Undo Clicar em elementos
+[2026.06.30-02.25.24:512][750]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.25.24:512][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.25.24:512][750]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.25.24:559][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.06.30-02.25.24:587][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.30-02.25.24:612][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.06.30-02.25.24:641][750]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.25.24:641][750]LogStreaming: Display: FlushAsyncLoading(2776): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.25.24:644][750]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.25.24:644][750]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.25.24:644][750]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=871.15), Rotation = R(Y=-112.50), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.25.24:645][750]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.25.24:665][750]LogWorldPartition: Display: WorldPartition initialize took 21.200 ms (total: 1:00 min)
+[2026.06.30-02.25.24:673][750]LogLevelInstance: Loaded 1 levels in 0,031 seconds
+[2026.06.30-02.25.31:384][211]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.25.31:384][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.25.31:384][211]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.25.31:412][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.30-02.25.31:440][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.06.30-02.25.31:467][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.25.31:468][211]LogLevelInstance: Unloaded 1 levels in 0,089 seconds
+[2026.06.30-02.25.31:468][211]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Level_Instance/Casa_Pobre_01) is flushing async loading
+[2026.06.30-02.25.31:468][211]LogStreaming: Display: FlushAsyncLoading(2825): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.25.31:471][211]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.25.31:471][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.25.31:471][211]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=1083.15), Rotation = R(Y=-112.50), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.25.31:471][211]LogActorComponent: ReregisterComponent: (/Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.25.31:491][211]LogWorldPartition: Display: WorldPartition initialize took 20.116 ms (total: 1:00 min)
+[2026.06.30-02.25.40:175][770]Cmd: TRANSACTION UNDO
+[2026.06.30-02.25.40:175][770]LogEditorTransaction: Undo Mover Elementos
+[2026.06.30-02.25.41:866][847]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.25.41:866][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.25.41:866][847]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.25.41:914][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.30-02.25.41:939][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.25.41:964][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.30-02.25.41:994][847]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.25.41:994][847]LogStreaming: Display: FlushAsyncLoading(2874): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.25.41:997][847]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.25.41:997][847]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.25.41:997][847]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=1083.15), Rotation = R(Y=-112.50), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.25.41:997][847]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.25.42:018][847]LogWorldPartition: Display: WorldPartition initialize took 21.276 ms (total: 1:00 min)
+[2026.06.30-02.25.42:026][847]LogLevelInstance: Loaded 1 levels in 0,032 seconds
+[2026.06.30-02.25.54:064][663]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.25.54:064][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.25.54:064][663]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.25.54:090][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.25.54:117][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.30-02.25.54:142][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.06.30-02.25.54:143][663]LogLevelInstance: Unloaded 1 levels in 0,084 seconds
+[2026.06.30-02.25.54:143][663]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Level_Instance/Casa_Pobre_01) is flushing async loading
+[2026.06.30-02.25.54:143][663]LogStreaming: Display: FlushAsyncLoading(2923): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.25.54:145][663]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.25.54:145][663]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.25.54:146][663]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=1083.15), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.25.54:146][663]LogActorComponent: ReregisterComponent: (/Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.25.54:165][663]LogWorldPartition: Display: WorldPartition initialize took 20.374 ms (total: 1:00 min)
+[2026.06.30-02.28.37:733][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.06.30-02.28.37:741][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.28.37:826][331]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ
+[2026.06.30-02.28.37:826][331]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/2K7JGE7QIQK8PKLOPFDTCZ0A7DDEA74FB80D5AF587EEA94A57B0AE.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/0/PZ/2K7JGE7QIQK8PKLOPFDTCZ.uasset'
+[2026.06.30-02.28.37:839][331]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/B5/9HREXQW2UQJAHKGSHRAF3A
+[2026.06.30-02.28.37:839][331]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/9HREXQW2UQJAHKGSHRAF3A1996228C443F7201AC6E7190D735D76E.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/D/B5/9HREXQW2UQJAHKGSHRAF3A.uasset'
+[2026.06.30-02.28.37:852][331]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NX/TLA9F99U2TJ9S774ZPVPJ3
+[2026.06.30-02.28.37:852][331]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/TLA9F99U2TJ9S774ZPVPJ32D9772A9427C2B380FF9C0BB6295A767.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/B/NX/TLA9F99U2TJ9S774ZPVPJ3.uasset'
+[2026.06.30-02.28.37:865][331]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T
+[2026.06.30-02.28.37:865][331]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/G43X8I1YKQ0XD64EKJVF2T38E2B3B54ADC1634B294E68D745870F4.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/Level_Instance/Casa_Pobre_01/7/3U/G43X8I1YKQ0XD64EKJVF2T.uasset'
+[2026.06.30-02.28.37:897][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.660 ms (total: 3.96 sec)
+[2026.06.30-02.28.37:965][331]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.28.37:965][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.28.37:965][331]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Level_Instance/Casa_Pobre_01.Casa_Pobre_01
+[2026.06.30-02.28.37:991][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.30-02.28.38:016][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.30-02.28.38:039][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.30-02.28.38:077][331]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0) is flushing async loading
+[2026.06.30-02.28.38:077][331]LogStreaming: Display: FlushAsyncLoading(2972): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.28.38:079][331]LogWorldPartition: ULevel::OnLevelLoaded(Casa_Pobre_01)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.06.30-02.28.38:079][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.28.38:079][331]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-598.00, Y=-1055.00, Z=1083.15), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.28.38:079][331]LogActorComponent: ReregisterComponent: (/Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.06.30-02.28.38:099][331]LogWorldPartition: Display: WorldPartition initialize took 20.609 ms (total: 1:00 min)
+[2026.06.30-02.28.38:108][331]LogLevelInstance: Loaded 1 levels in 0,031 seconds
+[2026.06.30-02.28.38:210][331]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.30-02.28.38:210][331]LogContentValidation: Enabled validators:
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.28.38:210][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.30.01:004][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.30-02.30.01:020][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO_Auto6
+[2026.06.30-02.30.01:020][792]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MLY24OT37DR6NV2PB2F5SO_Auto6D675418648F4C1FC80922F96A07BE2C3.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO_Auto6.uasset'
+[2026.06.30-02.30.01:031][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.054
+[2026.06.30-02.30.01:031][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2026.06.30-02.31.22:355][ 42]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.06.30-02.31.22:427][ 42]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.30-02.31.22:427][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.06.30-02.31.22:561][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 133.444 ms
+[2026.06.30-02.31.22:687][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.30-02.31.22:836][ 42]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.06.30-02.31.22:836][ 42]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.06.30-02.31.22:850][ 42]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.06.30-02.31.24:474][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.30-02.31.25:795][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.31 sec
+[2026.06.30-02.31.25:808][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (2.957988s)
+[2026.06.30-02.31.25:808][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (2.958190s)
+[2026.06.30-02.31.25:837][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.30-02.31.25:915][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.06.30-02.31.26:108][ 42]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.30-02.31.26:108][ 42]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.30-02.31.26:108][ 42]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.30-02.31.26:108][ 42]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.30-02.31.26:286][ 42]LogWorldPartition: Display: WorldPartition initialize took 178.472 ms (total: 1:00 min)
+[2026.06.30-02.31.26:308][ 42]LogPlayLevel: PIE: World Init took: (0.403395s)
+[2026.06.30-02.31.26:353][ 42]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.30-02.31.26:375][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.30-02.31.26:375][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.30-02.31.26:419][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.30-02.31.26:419][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.30-02.31.26:419][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.30-02.31.26:422][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.30-02.31.26:463][ 42]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2026.06.30-02.31.26:469][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.30-02.31.26:469][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.30-02.31.26:475][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.30-02.31.26:477][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.06.30-02.31.26:477][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.06.30-02.31.26:481][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.06.30-02.31.26:481][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.06.30-02.31.26:489][ 42]LogInit: FAudioDevice initialized with ID 2.
+[2026.06.30-02.31.26:489][ 42]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.06.30-02.31.26:491][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.30-02.31.26:612][ 42]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.30-02.31.26:657][ 42]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_ThirdPerson_76HCB05XJRPQD2EIHLNTX670N) is flushing async loading
+[2026.06.30-02.31.26:671][ 42]LogStreaming: Display: FlushAsyncLoading(3021,3022,3023,3024,3025,3026,3027,3028,3029,3030,3031,3032,3033,3034,3035,3036,3037,3038,3039,3040,3041,3042,3043,3044,3045,3046,3047,3048,3049,3050,3051,3052,3053,3054,3055,3056,3057,3058,3059,3060,3061,3062,3063,3064,3065,3066,3067,3068,3069,3070,3071,3072,3073,3074,3075,3076,3077,3078,3079,3080,3081,3082,3083,3084,3085,3086,3087,3088,3089,3090,3091,3092,3093,3094,3095,3096,3097,3098,3099,3100,3101,3102,3103,3104,3105,3106,3107,3108,3109,3110,3111,3112,3113,3114,3115,3116,3117,3118,3119,3120,3121,3122,3123,3124,3125,3126,3127,3128,3129,3130,3131,3132,3133,3134,3135,3136,3137,3138,3139,3140,3141,3142,3143,3144,3145,3146,3147,3148,3149,3150,3151,3152,3153,3154,3155,3156,3157,3158,3159,3160,3161,3162,3163,3164,3165,3166,3167,3168,3169,3170,3171,3172,3173,3174,3175,3176,3177,3178,3179,3180,3181,3182,3183,3184,3185,3186,3187,3188,3189,3190,3191,3192,3193,3194,3195,3196,3197,3198,3199,3200,3201,3202,3203,3204,3205,3206,3207,3208,3209,3210,3211,3212,3213,3214,3215,3216,3217,3218,3219,3220,3221,3222,3223,3224,3225,3226,3227,3228,3229,3230,3231,3232,3233,3234,3235,3236,3237,3238,3239,3240,3241,3242,3243,3244,3245,3246,3247,3248,3249,3250,3251,3252,3253,3254,3255,3256,3257,3258,3259,3260,3261,3262,3263,3264,3265,3266,3267,3268,3269,3270,3271,3272,3273,3274,3275,3276,3277,3278,3279,3280,3281,3282,3283,3284,3285,3286,3287,3288,3289,3290,3291,3292,3293,3294,3295,3296,3297,3298,3299,3300,3301,3302,3303,3304,3305,3306,3307,3308,3309,3310,3311,3312,3313,3314,3315,3316,3317,3318,3319,3320,3321,3322,3323,3324,3325,3326,3327,3328,3329,3330,3331,3332,3333,3334,3335,3336,3337,3338,3339,3340,3341,3342,3343,3344,3345,3346,3347,3348,3349,3350,3351,3352,3353,3354,3355,3356,3357,3358,3359,3360,3361,3362,3363,3364,3365,3366,3367,3368,3369,3370,3371,3372,3373,3374,3375,3376,3377,3378,3379,3380,3381,3382,3383,3384,3385,3386,3387,3388,3389,3390,3391,3392,3393,3394,3395,3396,3397,3398,3399,3400,3401,3402,3403,3404,3405,3406,3407,3408,3409,3410,3411,3412,3413,3414,3415,3416,3417,3418,3419,3420,3421,3422,3423,3424,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3438,3439,3440,3441,3442,3443,3444,3445,3446,3447,3448,3449,3450,3451,3452,3453,3454,3455,3456,3457,3458,3459,3460,3461,3462,3463,3464,3465,3466,3467,3468,3469,3470,3471,3472,3473,3474,3475,3476,3477,3478,3479,3480,3481,3482,3483,3484,3485,3486,3487,3488,3489,3490,3491,3492,3493,3494,3495,3496,3497,3498,3499,3500,3501,3502,3503,3504,3505,3506,3507,3508,3509,3510,3511,3512,3513,3514,3515,3516,3517,3518,3519,3520,3521,3522,3523,3524,3525,3526,3527,3528,3529,3530,3531,3532,3533,3534,3535,3536,3537,3538,3539,3540,3541,3542,3543,3544,3545,3546,3547,3548,3549,3550,3551,3552,3553,3554,3555,3556,3557,3558,3559,3560,3561,3562,3563,3564,3565,3566,3567,3568,3569,3570,3571,3572,3573,3574,3575,3576,3577,3578,3579,3580,3581,3582,3583,3584,3585,3586,3587,3588,3589,3590,3591,3592,3593,3594,3595,3596,3597,3598,3599,3600,3601,3602,3603,3604,3605,3606,3607,3608,3609,3610,3611,3612,3613,3614,3615,3616,3617,3618,3619,3620,3621,3622,3623,3624,3625,3626,3627,3628,3629,3630,3631,3632,3633,3634,3635,3636,3637,3638,3639,3640,3641,3642,3643,3644,3645,3646,3647,3648,3649,3650,3651,3652,3653,3654,3655,3656,3657,3658,3659,3660,3661,3662,3663,3664,3665,3666,3667,3668,3669,3670,3671,3672,3673,3674,3675,3676,3677,3678,3679,3680,3681,3682,3683,3684,3685,3686,3687,3688,3689,3690,3691,3692,3693,3694,3695,3696,3697,3698,3699,3700,3701,3702,3703,3704,3705,3706,3707,3708,3709,3710,3711,3712,3713,3714,3715,3716,3717,3718,3719,3720,3721,3722,3723,3724,3725,3726,3727,3728,3729,3730,3731,3732,3733,3734,3735,3736,3737,3738,3739,3740,3741,3742,3743,3744,3745,3746,3747,3748,3749,3750,3751,3752,3753,3754,3755,3756,3757,3758,3759,3760,3761,3762,3763,3764,3765,3766,3767,3768,3769,3770,3771,3772,3773,3774,3775,3776,3777,3778,3779,3780,3781,3782,3783,3784,3785,3786,3787,3788,3789,3790,3791,3792,3793,3794,3795,3796,3797,3798,3799,3800,3801,3802,3803,3804,3805,3806,3807,3808,3809,3810,3811,3812,3813,3814,3815,3816,3817,3818,3819,3820,3821,3822,3823,3824,3825,3826,3827,3828,3829,3830,3831,3832,3833,3834,3835,3836,3837,3838,3839,3840,3841,3842,3843,3844,3845,3846,3847,3848,3849,3850,3851,3852,3853,3854,3855,3856,3857,3858,3859,3860,3861,3862,3863,3864,3865,3866,3867,3868,3869,3870,3871,3872,3873,3874,3875,3876,3877,3878,3879,3880,3881,3882,3883,3884,3885,3886,3887,3888,3889,3890,3891,3892,3893,3894,3895,3896,3897,3898,3899,3900,3901,3902,3903,3904,3905,3906,3907,3908,3909,3910,3911,3912,3913,3914,3915,3916,3917,3918,3919,3920,3921,3922,3923,3924,3925,3926,3927,3928,3929,3930,3931,3932,3933,3934,3935,3936,3937,3938,3939,3940,3941,3942,3943,3944,3945,3946,3947,3948,3949,3950,3951,3952,3953,3954,3955,3956,3957,3958,3959,3960,3961,3962,3963,3964,3965,3966,3967,3968,3969,3970,3971,3972,3973,3974,3975,3976,3977,3978,3979,3980,3981,3982,3983,3984,3985,3986,3987,3988,3989,3990,3991,3992,3993,3994,3995,3996,3997,3998,3999,4000,4001,4002,4003,4004,4005,4006,4007,4008,4009,4010,4011,4012,4013,4014,4015,4016,4017,4018,4019,4020,4021,4022,4023,4024,4025,4026,4027,4028,4029,4030,4031,4032,4033,4034,4035,4036,4037,4038,4039,4040,4041,4042,4043,4044,4045,4046,4047,4048,4049,4050,4051,4052,4053,4054,4055,4056,4057,4058,4059,4060,4061,4062,4063,4064,4065,4066,4067,4068,4069,4070,4071,4072,4073,4074,4075,4076,4077,4078,4079,4080,4081,4082,4083,4084,4085,4086,4087,4088,4089,4090,4091,4092,4093,4094,4095,4096,4097,4098,4099,4100,4101,4102,4103,4104,4105,4106,4107,4108,4109,4110,4111,4112,4113,4114,4115,4116,4117,4118,4119,4120,4121,4122,4123,4124,4125,4126,4127,4128,4129,4130,4131,4132,4133,4134,4135,4136,4137,4138,4139,4140,4141,4142,4143,4144,4145,4146,4147,4148,4149,4150,4151,4152,4153,4154,4155,4156,4157,4158,4159,4160,4161,4162,4163,4164,4165,4166,4167,4168,4169,4170,4171,4172,4173,4174,4175,4176,4177,4178,4179,4180,4181,4182,4183,4184,4185,4186,4187,4188,4189,4190,4191,4192,4193,4194,4195,4196,4197,4198,4199,4200,4201,4202,4203,4204,4205,4206,4207,4208,4209,4210,4211,4212,4213,4214,4215,4216,4217,4218,4219,4220,4221,4222,4223,4224,4225,4226,4227,4228,4229,4230,4231,4232,4233,4234,4235,4236,4237,4238,4239,4240,4241,4242,4243,4244,4245,4246,4247,4248,4249,4250,4251,4252,4253,4254,4255,4256,4257,4258,4259,4260,4261,4262,4263,4264,4265,4266,4267,4268,4269,4270,4271,4272,4273,4274,4275,4276,4277,4278,4279,4280,4281,4282,4283,4284,4285,4286,4287,4288,4289,4290,4291,4292,4293,4294,4295,4296,4297,4298,4299,4300,4301,4302,4303,4304,4305,4306,4307,4308,4309,4310,4311,4312,4313,4314,4315,4316,4317,4318,4319,4320,4321,4322,4323,4324,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,4337,4338,4339,4340,4341,4342,4343,4344,4345,4346,4347,4348,4349,4350,4351,4352,4353,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,4366,4367,4368,4369,4370,4371,4372,4373,4374,4375,4376,4377,4378,4379,4380,4381,4382,4383,4384,4385,4386,4387,4388,4389,4390,4391,4392,4393,4394,4395,4396,4397,4398,4399,4400,4401,4402,4403,4404,4405,4406,4407,4408,4409,4410,4411,4412,4413,4414,4415,4416,4417,4418,4419,4420,4421,4422,4423,4424,4425,4426,4427,4428,4429,4430,4431,4432,4433,4434,4435,4436,4437,4438,4439,4440,4441,4442,4443,4444,4445,4446,4447,4448,4449,4450,4451,4452,4453,4454,4455,4456,4457,4458,4459,4460,4461,4462,4463,4464,4465,4466,4467,4468,4469,4470,4471,4472,4473,4474,4475,4476,4477,4478,4479,4480,4481,4482,4483,4484,4485,4486,4487,4488,4489,4490,4491,4492,4493,4494,4495,4496,4497,4498,4499,4500,4501,4502,4503,4504,4505,4506,4507,4508,4509,4510,4511,4512,4513,4514,4515,4516,4517,4518,4519,4520,4521,4522,4523,4524,4525,4526,4527,4528,4529,4530,4531,4532,4533,4534,4535,4536,4537,4538,4539,4540,4541,4542,4543,4544,4545,4546,4547,4548,4549,4550,4551,4552,4553,4554,4555,4556,4557,4558,4559,4560,4561,4562,4563,4564,4565,4566,4567,4568,4569,4570,4571,4572,4573,4574,4575,4576,4577,4578,4579,4580,4581,4582,4583,4584,4585,4586,4587,4588,4589,4590,4591,4592,4593,4594,4595,4596,4597,4598,4599,4600,4601,4602,4603,4604,4605,4606,4607,4608,4609,4610,4611,4612,4613,4614,4615,4616,4617,4618,4619,4620,4621,4622,4623,4624,4625,4626,4627,4628,4629,4630,4631,4632,4633,4634,4635,4636,4637,4638,4639,4640,4641,4642,4643,4644,4645,4646,4647,4648,4649,4650,4651,4652,4653,4654,4655,4656,4657,4658,4659,4660,4661,4662,4663,4664,4665,4666,4667,4668,4669,4670,4671,4672,4673,4674,4675,4676,4677,4678,4679,4680,4681,4682,4683,4684,4685,4686,4687,4688,4689,4690,4691,4692,4693,4694,4695,4696,4697,4698,4699,4700,4701,4702,4703,4704,4705,4706,4707,4708,4709,4710,4711,4712,4713,4714,4715,4716,4717,4718,4719,4720,4721,4722,4723,4724,4725,4726,4727,4728,4729,4730,4731,4732,4733,4734,4735,4736,4737,4738,4739,4740,4741,4742,4743,4744,4745,4746,4747,4748,4749,4750,4751,4752,4753,4754,4755,4756,4757,4758,4759,4760,4761,4762,4763,4764,4765,4766,4767,4768,4769,4770,4771,4772,4773,4774,4775,4776,4777,4778,4779,4780,4781,4782,4783,4784,4785,4786,4787,4788,4789,4790,4791,4792,4793,4794,4795,4796,4797,4798,4799,4800,4801,4802,4803,4804,4805,4806,4807,4808,4809): 1789 QueuedPackages, 0 AsyncPackages
+[2026.06.30-02.31.28:086][ 42]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.06.29-23.31.28
+[2026.06.30-02.31.28:091][ 42]LogWorld: Bringing up level for play took: 0.346353
+[2026.06.30-02.31.28:134][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.06.30-02.31.28:892][ 42]PIE: Servidor conectado
+[2026.06.30-02.31.28:895][ 42]PIE: Tempo inicial total de reprodução no editor: 6,509 s
+[2026.06.30-02.31.29:532][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12316.828125
+[2026.06.30-02.31.29:795][ 43]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.30-02.31.31:643][ 43]LogPSOHitching: Encountered 350 PSO creation hitches so far (195 graphics, 155 compute). 0 of them were precached.
+[2026.06.30-02.31.31:711][ 43]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.32:382][ 43]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.32:482][ 43]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.06.30-02.31.32:682][ 44]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2026.06.30-02.31.33:082][ 44]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2026.06.30-02.31.33:256][ 44]LogPSOHitching: Encountered 400 PSO creation hitches so far (210 graphics, 190 compute). 0 of them were precached.
+[2026.06.30-02.31.34:531][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.31.34:531][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12321.155273, Update Interval: 314.262512
+[2026.06.30-02.31.35:082][ 46]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.35:082][ 46]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.35:176][ 46]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.35:182][ 46]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.06.30-02.31.35:184][ 46]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.06.30-02.31.35:211][ 46]LogPSOHitching: Encountered 450 PSO creation hitches so far (217 graphics, 233 compute). 0 of them were precached.
+[2026.06.30-02.31.37:019][ 49]LogRenderer: Using fallback RTPSO
+[2026.06.30-02.36.21:300][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.30-02.36.21:300][664]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.06.30-02.36.21:393][664]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.36.21:491][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.36.21:491][664]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.06.30-02.36.21:650][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.30-02.36.21:665][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.36.21:714][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.30-02.36.21:726][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.06.30-02.36.21:776][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.06.30-02.36.21:778][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.06.30-02.36.21:799][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.30-02.36.22:414][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.30-02.36.22:646][665]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.06.30-02.37.37:656][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12684.896484
+[2026.06.30-02.37.37:894][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.30-02.37.37:894][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12685.120117, Update Interval: 320.100098
+[2026.06.30-02.38.36:405][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.30-02.38.36:736][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.30-02.38.36:764][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.30-02.38.36:787][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.30-02.38.36:799][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO
+[2026.06.30-02.38.36:799][295]LogSavePackage: Moving 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Saved/MLY24OT37DR6NV2PB2F5SOF11940ED4890D6BD93F589BA5634309C.tmp' to 'D:/Arquivos/Documentos/Udemy/Blender/start/Medieval (UE)/MeuProjeto/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/F2/MLY24OT37DR6NV2PB2F5SO.uasset'
+[2026.06.30-02.38.36:835][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 429.489 ms (total: 4.39 sec)
+[2026.06.30-02.38.36:901][295]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.30-02.38.36:901][295]LogContentValidation: Enabled validators:
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.30-02.38.36:901][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.30-02.38.36:901][295]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando ativo
+[2026.06.30-02.38.44:029][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.06.30-02.38.47:069][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.30-02.38.47:204][982]LogStall: Shutdown...
+[2026.06.30-02.38.47:213][982]LogStall: Shutdown complete.
+[2026.06.30-02.38.47:346][982]LogSlate: Window 'MeuProjeto — Unreal Editor' being destroyed
+[2026.06.30-02.38.48:114][982]Cmd: QUIT_EDITOR
+[2026.06.30-02.38.48:114][983]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.30-02.38.48:238][983]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.30-02.38.48:261][983]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.30-02.38.48:261][983]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.30-02.38.48:428][983]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:436][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:436][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.06.30-02.38.48:438][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Poco_LevelInstance_1b0bb453b6130640_0.Poco
+[2026.06.30-02.38.48:438][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/torre_LevelInstance_0ced79c6412625b8_0.torre
+[2026.06.30-02.38.48:439][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_56a8c591183cbb67_0.Cerca
+[2026.06.30-02.38.48:439][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_63939b2595e7c7ed_0.Cerca
+[2026.06.30-02.38.48:439][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_f0199558808ed7f8_0.Torre_Muralha
+[2026.06.30-02.38.48:439][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa02_LevelInstance_493c1a1a1b6bead8_0.Casa02
+[2026.06.30-02.38.48:441][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9c40c32056b0eaa7_0.Cerca
+[2026.06.30-02.38.48:441][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Minitorre_rico01_LevelInstance_46faa399218a3ee4_0.Minitorre_rico01
+[2026.06.30-02.38.48:442][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_989fa2d92fafdcad_0.Cerca
+[2026.06.30-02.38.48:442][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Lateral_Muralha_LevelInstance_23992c477601e1a4_0.Lateral_Muralha
+[2026.06.30-02.38.48:443][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Lateral_Esq_Muralha_LevelInstance_e6b4ec1b07e95854_0.Lateral_Esq_Muralha
+[2026.06.30-02.38.48:445][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/muralha02_LevelInstance_a476f57d46af46d8_0.muralha02
+[2026.06.30-02.38.48:446][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_LevelInstance_416a84306f1d689a_0.Muralha
+[2026.06.30-02.38.48:447][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Muralha_Fundo_LevelInstance_29440a6ba4bf3948_0.Muralha_Fundo
+[2026.06.30-02.38.48:448][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_846a6d7daceb8159_0.Torre_Muralha
+[2026.06.30-02.38.48:448][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa03_LevelInstance_4287218f26468be0_0.Casa03
+[2026.06.30-02.38.48:451][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_7cc66ec425ce33a2_0.Cerca
+[2026.06.30-02.38.48:452][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa01_LevelInstance_28e18178e94c75c3_0.Casa01
+[2026.06.30-02.38.48:452][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa01_LevelInstance_289b3a2dfd90e849_0.Casa01
+[2026.06.30-02.38.48:452][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_9a6945238181ffef_0.Cerca
+[2026.06.30-02.38.48:453][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/casa04_LevelInstance_fda65ca25acf39d0_0.casa04
+[2026.06.30-02.38.48:453][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Cerca_LevelInstance_5cde8cdd868979c3_0.Cerca
+[2026.06.30-02.38.48:453][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_5b767800a958e83d_0.Torre_Muralha
+[2026.06.30-02.38.48:454][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Torre_Muralha_LevelInstance_9a5d68beb3b329ee_0.Torre_Muralha
+[2026.06.30-02.38.48:454][983]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Level_Instance/Casa_Pobre_01_LevelInstance_453002ff484a7b64_0.Casa_Pobre_01
+[2026.06.30-02.38.48:454][983]LogWorld: UWorld::CleanupWorld for Poco, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:454][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:454][983]LogWorld: UWorld::CleanupWorld for torre, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:455][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:455][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:455][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:455][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:455][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:455][983]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:455][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:455][983]LogWorld: UWorld::CleanupWorld for Casa02, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:455][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:457][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:457][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:457][983]LogWorld: UWorld::CleanupWorld for Minitorre_rico01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:457][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:458][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:458][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:458][983]LogWorld: UWorld::CleanupWorld for Lateral_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:458][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:459][983]LogWorld: UWorld::CleanupWorld for Lateral_Esq_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:459][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:459][983]LogWorld: UWorld::CleanupWorld for muralha02, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:459][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:461][983]LogWorld: UWorld::CleanupWorld for Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:461][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:462][983]LogWorld: UWorld::CleanupWorld for Muralha_Fundo, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:462][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:463][983]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:463][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:464][983]LogWorld: UWorld::CleanupWorld for Casa03, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:464][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:465][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:465][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:465][983]LogWorld: UWorld::CleanupWorld for Casa01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:465][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:466][983]LogWorld: UWorld::CleanupWorld for Casa01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:466][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:466][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:466][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:466][983]LogWorld: UWorld::CleanupWorld for casa04, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:466][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:467][983]LogWorld: UWorld::CleanupWorld for Cerca, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:467][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:467][983]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:467][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:467][983]LogWorld: UWorld::CleanupWorld for Torre_Muralha, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:467][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.48:467][983]LogWorld: UWorld::CleanupWorld for Casa_Pobre_01, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.48:467][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.49:019][983]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.30-02.38.49:067][983]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.30-02.38.49:234][983]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.30-02.38.49:536][983]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.49:536][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.49:537][983]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.30-02.38.49:537][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.30-02.38.49:706][983]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.30-02.38.49:728][983]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.30-02.38.49:849][983]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.30-02.38.51:008][983]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.30-02.38.51:008][983]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.30-02.38.51:008][983]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.06.30-02.38.51:019][983]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.30-02.38.51:020][983]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.30-02.38.51:023][983]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.30-02.38.51:062][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.30-02.38.51:068][983]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.30-02.38.51:075][983]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2026.06.30-02.38.51:141][983]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.30-02.38.51:173][983]LogExit: Preparing to exit.
+[2026.06.30-02.38.51:998][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.06.30-02.38.53:199][983]LogEditorDataStorage: Deinitializing
+[2026.06.30-02.38.55:583][983]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.30-02.38.57:816][983]LogExit: Editor shut down
+[2026.06.30-02.38.57:845][983]LogExit: Transaction tracking system shut down
+[2026.06.30-02.39.04:472][983]LogExit: Object subsystem successfully closed.
+[2026.06.30-02.39.04:511][983]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.30-02.39.10:419][983]LogMemoryProfiler: Shutdown
+[2026.06.30-02.39.10:437][983]LogNetworkingProfiler: Shutdown
+[2026.06.30-02.39.10:437][983]LoadingProfiler: Shutdown
+[2026.06.30-02.39.10:437][983]LogTimingProfiler: Shutdown
+[2026.06.30-02.39.10:494][983]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.30-02.39.10:509][983]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.30-02.39.12:956][983]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.30-02.39.13:014][983]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.30-02.39.13:045][983]RenderDocPlugin: plugin has been unloaded.
+[2026.06.30-02.39.13:123][983]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.30-02.39.13:127][983]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0350B430-40AD-C7DE-E6CD-9CB4592C2032%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e77be68141cd117c515dfeb002f3e36f%7C709f09da879441a9bf23c8a565832ab9%7C8b468529-0bb7-4120-8e63-87da40faa856&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.30-02.39.13:887][983]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.30-02.39.14:341][983]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.30-02.39.14:341][983]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.30-02.39.14:358][983]LogPakFile: Destroying PakPlatformFile
+[2026.06.30-02.39.15:287][983]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.30-02.39.15:482][983]LogExit: Exiting.
